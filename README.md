@@ -20,11 +20,11 @@ id | title | genre | uri | method | tc | yc | gc | updated
 
 ## Confidence Values
 ### Title Confidence
-:pencil:
+<img src="https://raw.githubusercontent.com/jaroslav-kuchar/MovieTweetingsMappings/master/docs/tc.png" height="20" />
 ### Year Confidence
-:pencil:
+<img src="https://raw.githubusercontent.com/jaroslav-kuchar/MovieTweetingsMappings/master/docs/yc.png" height="20" />
 ### Genre Confidence
-:pencil:
+<img src="https://raw.githubusercontent.com/jaroslav-kuchar/MovieTweetingsMappings/master/docs/gc.png" height="40" />
 
 ## Methods
 * perfect - perfect match of title and year (e.g. Rocky, Rocky (film), Rocky (1976 film), etc.)
