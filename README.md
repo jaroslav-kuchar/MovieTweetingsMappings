@@ -10,11 +10,11 @@ CSV file, records separated by semicolon (**;**)
 * method - method of mapping (perfect|partial|pattern|any)
 * tc - title confidence
 * yc - year confidence
-* cc - genre confidence
+* gc - genre confidence
 * updated - datetime of last update
 
 ## Example
-id | title | genre | uri | method | tc | yc | cc | updated
+id | title | genre | uri | method | tc | yc | gc | updated
 --- | --- | --- | --- | --- | --- | --- | --- | --- 
 75148 | Rocky (1976) | Drama\|Sport | http://dbpedia.org/resource/Rocky | perfect | 1.0 | 1.0 | 1.0 |2015-06-01T11:33:06
 
