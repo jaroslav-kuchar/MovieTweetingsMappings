@@ -5612,6 +5612,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 104029;Cronos (1993);Horror|Mystery;http://dbpedia.org/resource/Cronos_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:12
 104036;The Crying Game (1992);Crime|Drama|Romance|Thriller;http://dbpedia.org/resource/The_Crying_Game;perfect;1.0;1.0;1.0;2015-06-02T00:47:12
 104040;The Cutting Edge (1992);Drama|Romance|Sport;http://dbpedia.org/resource/The_Cutting_Edge;perfect;1.0;1.0;0.666666666667;2015-06-02T01:13:44
+104046;Daens (1992);Biography|Drama|History;http://dbpedia.org/resource/Daens_(film);pattern;1.0;1.0;0.333333333333;2015-06-10T06:55:20
 104053;Trauma (1993);Horror|Mystery|Thriller;http://dbpedia.org/resource/Trauma_(1993_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:12
 104070;Death Becomes Her (1992);Comedy|Fantasy;http://dbpedia.org/resource/Death_Becomes_Her;perfect;1.0;1.0;1.0;2015-06-02T00:47:12
 104073;Deep Cover (1992);Action|Crime|Thriller;http://dbpedia.org/resource/Deep_Cover;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:12
@@ -5802,6 +5803,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 106677;Dazed and Confused (1993);Comedy|Drama;http://dbpedia.org/resource/Dazed_and_Confused_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:12
 106697;Demolition Man (1993);Action|Crime|Sci-Fi|Thriller;http://dbpedia.org/resource/Demolition_Man_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:12
 106701;Dennis the Menace (1993);Comedy|Family;http://dbpedia.org/resource/Dennis_the_Menace_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:12
+106714;Di shi pan guan (1993);Crime|Drama|Thriller;;;0.0;0.0;0.0;2015-06-10T06:55:52
 106732;Distant Cousins (1993);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:12
 106761;Double Dragon (1994);Action|Adventure|Comedy|Sci-Fi;http://dbpedia.org/resource/Double_Dragon_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:12
 106770;Dragon: The Bruce Lee Story (1993);Action|Biography|Drama;http://dbpedia.org/resource/Dragon:_The_Bruce_Lee_Story;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:12
@@ -12901,6 +12903,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1167675;Sint (2010);Horror;http://dbpedia.org/resource/Sint;perfect;1.0;1.0;1.0;2015-06-02T00:47:27
 1167839;Gin iro no shîzun (2008);Drama|Sport;;;0.0;0.0;0.0;2015-06-02T00:47:27
 1169133;Anytown (2009);Crime|Drama|Thriller;http://dbpedia.org/resource/Anytown_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:27
+1169809;Book of Blood (2009);Drama|Horror|Mystery;http://dbpedia.org/resource/Book_of_Blood;perfect;1.0;1.0;0.666666666667;2015-06-10T06:55:54
 1169826;Kyôfu gakuen (2001);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:27
 1170358;The Hobbit: The Desolation of Smaug (2013);Adventure|Drama|Fantasy;http://dbpedia.org/resource/The_Hobbit:_The_Desolation_of_Smaug;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:27
 1171222;Baggage Claim (2013);Comedy;http://dbpedia.org/resource/Baggage_Claim_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:27
@@ -20983,6 +20986,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3867086;Made in Egypt: Soneia Fe Misr (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3868492;Tookae Ruk Pang Mak (2014);Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3871798;Obywatel (2014);Comedy|Drama|History;http://dbpedia.org/resource/In_Order_of_Disappearance;partial;0.375;1.0;0.0;2015-06-02T00:47:51
+3877674;"Mænd &amp; høns (2015)";Comedy|Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-10T06:56:28
 3881410;La leyenda de las momias de Guanajuato (2014);Animation;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3882508;El que mucho abarca (2014);Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3884216;This Is My Land (2014);Documentary|History;;;0.0;0.0;0.0;2015-06-02T00:47:51
