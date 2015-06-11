@@ -5178,6 +5178,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 98320;Shocker (1989);Comedy|Horror|Thriller;http://dbpedia.org/resource/Shocker_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:11
 98322;Shôgun Iemitsu no ranshin - Gekitotsu (1989);Action|Adventure|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:11
 98327;Der siebente Kontinent (1989);Drama;http://dbpedia.org/resource/The_Seventh_Continent_(1989_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
+98328;The Siege of Firebase Gloria (1989);Action|Drama|War;http://dbpedia.org/resource/The_Siege_of_Firebase_Gloria;perfect;1.0;1.0;0.333333333333;2015-06-11T08:29:07
 98343;Skin Deep (1989);Comedy;http://dbpedia.org/resource/Skin_Deep_(1989_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
 98354;Society (1989);Comedy|Horror;http://dbpedia.org/resource/Society_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
 98360;Sono otoko, kyôbô ni tsuki (1989);Action|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:11
@@ -16156,6 +16157,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1856088;The Lesson (2011);Short|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1857724;Hidden Colors (2011);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1857797;Naked Soldier (2012);Action|Drama;http://dbpedia.org/resource/Naked_Soldier;perfect;1.0;1.0;0.5;2015-06-02T00:47:36
+1857816;Pan-dane to Tamago-hime (2010);Animation|Short|Fantasy;;;0.0;0.0;0.0;2015-06-11T08:29:34
 1857824;Perras (2011);Drama|Romance|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1857842;Redd Inc. (2012);Comedy|Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1857913;Bai she chuan shuo (2011);Action|Fantasy;;;0.0;0.0;0.0;2015-06-02T00:47:36
@@ -20980,6 +20982,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3848888;The Shaukeens (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3848892;Baby (2015);Action|Crime|Mystery;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3848938;Mr. X (2015);Thriller;;;0.0;0.0;0.0;2015-06-02T09:45:04
+3850214;Dope (2015);Comedy|Drama;;;0.0;0.0;0.0;2015-06-11T08:29:56
 3850798;Lai Bhaari (2014);Action|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3851324;Homies (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3859304;The Bronze (2015);Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21229,6 +21232,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4509512;The Greatest Sex I've Ever Had (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4510896;Chor gei (2014);Drama;;;0.0;0.0;0.0;2015-06-02T10:12:36
 4519742;Mandira Filozofu Istanbul (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:52
+4547120;San Andreas Quake (2015);Action|Sci-Fi;;;0.0;0.0;0.0;2015-06-11T08:30:17
 4557014;Oru Vadakkan Selfie (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:13:10
 4559932;Prizrak (2015);Comedy|Family|Mystery;;;0.0;0.0;0.0;2015-06-02T10:13:48
 4565448;La Llamada (2014);Short|Drama;;;0.0;0.0;0.0;2015-06-02T10:14:26
