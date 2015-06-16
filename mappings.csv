@@ -820,6 +820,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 38417;Cloak and Dagger (1946);Romance|Adventure|Thriller;http://dbpedia.org/resource/Cloak_and_Dagger_(1946_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 38453;The Dark Corner (1946);Crime|Film-Noir|Drama;http://dbpedia.org/resource/The_Dark_Corner;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 38455;The Dark Mirror (1946);Crime|Drama|Thriller;http://dbpedia.org/resource/The_Dark_Mirror_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
+38458;Deadline at Dawn (1946);Film-Noir|Mystery|Romance;http://dbpedia.org/resource/Deadline_at_Dawn;perfect;1.0;1.0;0.333333333333;2015-06-16T10:14:18
 38461;Deception (1946);Crime|Drama|Film-Noir|Music|Thriller;http://dbpedia.org/resource/Deception_(1946_film);perfect;1.0;1.0;0.2;2015-06-02T00:47:02
 38492;Dragonwyck (1946);Drama|Thriller|Mystery|Romance;http://dbpedia.org/resource/Dragonwyck_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 38505;Easy to Wed (1946);Comedy|Romance;http://dbpedia.org/resource/Easy_to_Wed;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
@@ -5829,6 +5830,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 106732;Distant Cousins (1993);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:12
 106761;Double Dragon (1994);Action|Adventure|Comedy|Sci-Fi;http://dbpedia.org/resource/Double_Dragon_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:12
 106770;Dragon: The Bruce Lee Story (1993);Action|Biography|Drama;http://dbpedia.org/resource/Dragon:_The_Bruce_Lee_Story;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:12
+106827;Ernest Rides Again (1993);Family|Comedy;http://dbpedia.org/resource/Ernest_Rides_Again;perfect;1.0;1.0;0.5;2015-06-16T10:14:20
 106833;Ethan Frome (1993);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:12
 106834;Even Cowgirls Get the Blues (1993);Comedy|Drama|Romance|Western;http://dbpedia.org/resource/Even_Cowgirls_Get_the_Blues_(film);perfect;1.0;1.0;0.75;2015-06-02T00:47:12
 106856;Falling Down (1993);Crime|Drama|Thriller;http://dbpedia.org/resource/Falling_Down;perfect;1.0;1.0;1.0;2015-06-02T00:47:12
@@ -7087,6 +7089,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 120831;Slums of Beverly Hills (1998);Comedy|Drama;http://dbpedia.org/resource/Slums_of_Beverly_Hills;perfect;1.0;1.0;1.0;2015-06-02T00:47:15
 120832;Snake Eyes (1998);Crime|Mystery|Thriller;http://dbpedia.org/resource/Snake_Eyes_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:15
 120834;Snow Falling on Cedars (1999);Drama|Mystery|Romance|Thriller;http://dbpedia.org/resource/Snow_Falling_on_Cedars_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:15
+120836;"Lost &amp; Found (1999)";Comedy|Romance;;;0.0;0.0;0.0;2015-06-16T10:14:43
 120841;Species II (1998);Action|Horror|Sci-Fi;http://dbpedia.org/resource/Species_II;perfect;1.0;1.0;0.0;2015-06-02T00:47:15
 120844;Star Trek: Insurrection (1998);Action|Adventure|Sci-Fi|Thriller;http://dbpedia.org/resource/Star_Trek:_Insurrection;perfect;1.0;1.0;0.5;2015-06-02T00:47:15
 120855;Tarzan (1999);Animation|Adventure|Drama|Family|Romance;http://dbpedia.org/resource/Tarzan_(1999_film);perfect;1.0;1.0;0.4;2015-06-02T00:47:15
@@ -13393,6 +13396,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1260567;Dark House (2009);Horror|Thriller;http://dbpedia.org/resource/Dark_House;perfect;1.0;1.0;0.5;2015-06-02T00:47:28
 1260581;Red Riding: In the Year of Our Lord 1980 (2009);Crime|Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:28
 1260712;Motivos para no enamorarse (2008);Comedy|Romance;;;0.0;0.0;0.0;2015-06-09T12:17:59
+1261047;Gulaal (2009);Crime|Drama|Thriller;http://dbpedia.org/resource/Gulaal;perfect;1.0;1.0;0.333333333333;2015-06-16T10:14:45
 1261393;El estudiante (2009);Drama;http://dbpedia.org/resource/El_estudiante;perfect;1.0;1.0;1.0;2015-06-02T00:47:28
 1261862;Icarus (2010);Action|Drama|Thriller;http://dbpedia.org/resource/Icarus_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:28
 1261900;Lovecraft: Fear of the Unknown (2008);Documentary;http://dbpedia.org/resource/Lovecraft:_Fear_of_the_Unknown;perfect;1.0;1.0;1.0;2015-06-02T00:47:28
@@ -21049,6 +21053,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3885736;Munnariyippu (2014);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3886722;Dabbe 5: Zehr-i Cin (2014);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3889036;Nixon by Nixon: In His Own Words (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3890264;Xin hua lu fang (2014);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-16T10:15:08
 3890278;Chuang ru zhe (2014);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3893456;La trattativa (2014);Crime;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3894188;Christmas, Again (2014);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21087,6 +21092,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3958072;Urok (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3958098;Dólares de Arena (2014);;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3958276;Shinya shokudô the movie (2014);Comedy;;;0.0;0.0;0.0;2015-06-07T10:02:05
+3959690;Raiders of the Lost Shark (2014);Horror;;;0.0;0.0;0.0;2015-06-16T10:15:31
 3962828;Im Keller (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3966544;Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T09:50:35
 3966942;The President (2014);Drama;http://dbpedia.org/resource/Big_Game_(2014_film);any;0.153846153846;1.0;0.0;2015-06-02T00:47:51
@@ -21232,6 +21238,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4285198;Pod elektricheskimi oblakami (2015);Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4286538;I Want to Speak at NASA (2014);Documentary|Short|Family;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4288614;The Great European Disaster Movie (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:52
+4293752;Gascoigne (2015);Documentary|Biography|Sport;;;0.0;0.0;0.0;2015-06-16T10:15:56
 4296026;Avengers Grimm (2015);Action|Adventure|Fantasy;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4296186;San Taam Ka To (2015);Action|Comedy;;;0.0;0.0;0.0;2015-06-15T11:26:28
 4296556;Archivo 253 (2015);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:52
