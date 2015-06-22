@@ -1,6 +1,16 @@
 # MovieTweetingsMappings
 Mappings of movies from [MovieTweetings](https://github.com/sidooms/MovieTweetings) (published by [Simon Dooms](https://github.com/sidooms/MovieTweetings)) to DBpedia. 
 
+If you publish research that uses MovieTweetingsMappings, please cite:
+```bib
+@inproceedings{Kuchar:2015:MovieTweetingsMappings,
+  author    = {Jaroslav Kuchar},
+  title     = {Augmenting a Feature Set of Movies Using Linked Open Data},
+  booktitle = {Joint Proceedings of the 9th International Rule Challenge, Challenge on Rule-based Recommender Systems for the Web of Data, RuleML2015 Industry Track and and the 5th RuleML Doctoral Consortium 2015, Berlin, Germany, August 2-5, 2015.},
+  year      = {2015}
+}
+```
+
 ## Format
 CSV file, records separated by semicolon (**;**)
 * id - id of movie in MovieTweetings
