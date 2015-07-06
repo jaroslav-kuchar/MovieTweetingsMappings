@@ -208,6 +208,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 21749;City Lights (1931);Comedy|Drama|Romance;http://dbpedia.org/resource/City_Lights;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 21755;Come Clean (1931);Short|Comedy;http://dbpedia.org/resource/Come_Clean_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 21814;Dracula (1931);Horror;http://dbpedia.org/resource/Dracula_(1931_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+21861;Fighting Caravans (1931);Romance|Western;http://dbpedia.org/resource/Fighting_Caravans;perfect;1.0;1.0;0.5;2015-07-06T21:19:29
 21884;Frankenstein (1931);Horror|Sci-Fi;http://dbpedia.org/resource/Frankenstein_(1931_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 21885;A Free Soul (1931);Crime|Drama|Romance;http://dbpedia.org/resource/A_Free_Soul;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 22017;Kameradschaft (1931);Drama;http://dbpedia.org/resource/Kameradschaft;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
@@ -370,6 +371,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 26743;Maria Marten, or The Murder in the Red Barn (1935);Crime|Drama;http://dbpedia.org/resource/Maria_Marten,_or_The_Murder_in_the_Red_Barn;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 26752;Mutiny on the Bounty (1935);Adventure|Drama|History;http://dbpedia.org/resource/Mutiny_on_the_Bounty_(1935_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 26778;A Night at the Opera (1935);Comedy|Music|Musical;http://dbpedia.org/resource/A_Night_at_the_Opera_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+26866;Peter Ibbetson (1935);Drama|Fantasy|Romance;http://dbpedia.org/resource/Peter_Ibbetson;perfect;1.0;1.0;0.333333333333;2015-07-06T21:19:32
 26912;The Raven (1935);Horror;http://dbpedia.org/resource/The_Raven_(1935_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 26966;Sanders of the River (1935);Adventure|Drama;http://dbpedia.org/resource/Sanders_of_the_River;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 26971;A Scream in the Night (1935);Crime|Mystery|Thriller;http://dbpedia.org/resource/A_Scream_in_the_Night;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
@@ -416,6 +418,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 28333;Swing Time (1936);Comedy|Musical|Romance;http://dbpedia.org/resource/Swing_Time;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 28346;Tell Your Children (1936);Drama;http://dbpedia.org/resource/Reefer_Madness;any;0.222222222222;1.0;1.0;2015-06-02T00:47:01
 28358;Things to Come (1936);Sci-Fi;http://dbpedia.org/resource/Things_to_Come;perfect;1.0;1.0;0.0;2015-06-02T00:47:01
+28445;Partie de campagne (1936);Short|Drama|Romance;http://dbpedia.org/resource/Partie_de_campagne;perfect;1.0;1.0;0.333333333333;2015-07-06T21:19:34
 28557;Affairs of Cappy Ricks (1937);Comedy|Drama;http://dbpedia.org/resource/Affairs_of_Cappy_Ricks;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 28597;The Awful Truth (1937);Comedy|Romance;http://dbpedia.org/resource/The_Awful_Truth;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 28683;Camille (1936);Drama|Romance;http://dbpedia.org/resource/Camille_(1936_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -640,6 +643,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 34778;Gentleman Jim (1942);Biography|Drama|Romance;http://dbpedia.org/resource/Gentleman_Jim_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34786;The Ghost of Frankenstein (1942);Drama|Horror|Sci-Fi;http://dbpedia.org/resource/The_Ghost_of_Frankenstein;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34798;The Glass Key (1942);Crime|Drama|Film-Noir|Thriller;http://dbpedia.org/resource/The_Glass_Key_(1942_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
+34810;The Great Gildersleeve (1942);Comedy;http://dbpedia.org/resource/The_Great_Gildersleeve_(film);perfect;1.0;1.0;1.0;2015-07-06T21:19:36
 34862;Holiday Inn (1942);Comedy|Drama|Musical|Romance;http://dbpedia.org/resource/Holiday_Inn_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 34881;I Married a Witch (1942);Comedy|Fantasy|Romance;http://dbpedia.org/resource/I_Married_a_Witch;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 34883;I Was Framed (1942);Action|Adventure|Crime;;;0.0;0.0;0.0;2015-06-02T00:47:02
@@ -870,6 +874,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 39337;Down to Earth (1947);Comedy|Fantasy|Musical;http://dbpedia.org/resource/Down_to_Earth_(1947_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 39340;Dreams That Money Can Buy (1947);Fantasy;http://dbpedia.org/resource/Dreams_That_Money_Can_Buy;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 39394;The Foxes of Harrow (1947);Drama;http://dbpedia.org/resource/The_Foxes_of_Harrow;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
+39410;The Gangster (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_Gangster;perfect;1.0;1.0;0.666666666667;2015-07-06T21:19:40
 39416;Gentleman's Agreement (1947);Drama|Romance;http://dbpedia.org/resource/Gentleman's_Agreement;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 39417;Germania anno zero (1948);Drama;http://dbpedia.org/resource/Germany,_Year_Zero;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 39420;The Ghost and Mrs. Muir (1947);Drama|Fantasy|Mystery;http://dbpedia.org/resource/The_Ghost_and_Mrs._Muir;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -1079,6 +1084,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 43461;The Desert Fox: The Story of Rommel (1951);Action|Biography|Drama|History|War;http://dbpedia.org/resource/The_Desert_Fox:_The_Story_of_Rommel;perfect;1.0;1.0;0.2;2015-06-02T00:47:03
 43465;Detective Story (1951);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Detective_Story_(1951_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 43511;Europa '51 (1952);Drama;http://dbpedia.org/resource/Europe_'51;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+43523;The Fat Man (1951);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_Fat_Man_(film);perfect;1.0;1.0;0.333333333333;2015-07-06T21:19:42
 43547;Flying Leathernecks (1951);Drama|War|Action;http://dbpedia.org/resource/Flying_Leathernecks;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 43548;Flying Padre: An RKO-Pathe Screenliner (1951);Documentary|Short;http://dbpedia.org/resource/Flying_Padre;any;0.315789473684;1.0;1.0;2015-06-02T00:47:03
 43560;Fourteen Hours (1951);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Fourteen_Hours;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
@@ -1108,6 +1114,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 43927;La poison (1951);Comedy;http://dbpedia.org/resource/La_Poison;pattern;0.888888888889;1.0;1.0;2015-06-02T00:47:03
 43938;The Prowler (1951);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/The_Prowler_(1951_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 43949;Quo Vadis (1951);Drama|Romance;http://dbpedia.org/resource/Quo_Vadis_(1951_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
+43955;Misdaad N.V. (1951);Crime|Drama|Film-Noir;;;0.0;0.0;0.0;2015-07-06T21:20:07
 43961;The Red Badge of Courage (1951);Drama|War;http://dbpedia.org/resource/The_Red_Badge_of_Courage_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 43983;Royal Wedding (1951);Comedy|Musical|Romance;http://dbpedia.org/resource/Royal_Wedding;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 43989;Sailor Beware (1952);Comedy|Musical|Romance;http://dbpedia.org/resource/Sailor_Beware_(1952_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
@@ -1131,6 +1138,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 44391;The Bad and the Beautiful (1952);Drama|Romance;http://dbpedia.org/resource/The_Bad_and_the_Beautiful;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 44413;Bend of the River (1952);Action|Adventure|Western;http://dbpedia.org/resource/Bend_of_the_River;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 44453;El bruto (1953);Drama;http://dbpedia.org/resource/El_Bruto;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+44460;The Bushwhackers (1951);Western;http://dbpedia.org/resource/The_Bushwackers_(film);pattern;0.9375;1.0;1.0;2015-07-06T21:20:22
 44487;Le carrosse d'or (1952);Comedy|Drama|Romance;http://dbpedia.org/resource/The_Golden_Coach;partial;0.9375;1.0;0.333333333333;2015-06-02T00:47:03
 44509;Come Back, Little Sheba (1952);Drama;http://dbpedia.org/resource/Come_Back,_Little_Sheba_(1952_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 44515;Cosh Boy (1953);Crime|Drama;http://dbpedia.org/resource/Cosh_Boy;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
@@ -1179,6 +1187,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 45333;With a Song in My Heart (1952);Biography|Drama|Musical;http://dbpedia.org/resource/With_a_Song_in_My_Heart_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45361;El (1953);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:03
 45464;The 5,000 Fingers of Dr. T. (1953);Family|Fantasy|Music|Romance;http://dbpedia.org/resource/The_5,000_Fingers_of_Dr._T;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
+45465;99 River Street (1953);Action|Crime|Drama;http://dbpedia.org/resource/99_River_Street;perfect;1.0;1.0;0.666666666667;2015-07-06T21:20:29
 45468;Abbott and Costello Go to Mars (1953);Comedy|Sci-Fi|Fantasy;http://dbpedia.org/resource/Abbott_and_Costello_Go_to_Mars;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45469;Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953);Comedy|Horror|Mystery|Sci-Fi;http://dbpedia.org/resource/Abbott_and_Costello_Meet_Dr._Jekyll_and_Mr._Hyde;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 45471;The Actress (1953);Biography|Comedy|Drama;http://dbpedia.org/resource/The_Actress;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
@@ -1208,6 +1217,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 45826;Glen or Glenda (1953);Drama;http://dbpedia.org/resource/Glen_or_Glenda;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 45848;Gycklarnas afton (1953);Drama;http://dbpedia.org/resource/Sawdust_and_Tinsel;any;0.125;1.0;1.0;2015-06-02T00:47:03
 45876;His Majesty O'Keefe (1954);Action|Adventure|Biography|Drama|Romance;http://dbpedia.org/resource/His_Majesty_O'Keefe;perfect;1.0;1.0;0.2;2015-06-02T00:47:03
+45877;The Hitch-Hiker (1953);Crime|Film-Noir|Thriller;http://dbpedia.org/resource/The_Hitch-Hiker;perfect;1.0;1.0;0.333333333333;2015-07-06T21:20:31
 45883;Hondo (1953);Drama|Romance|War;http://dbpedia.org/resource/Hondo_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45888;House of Wax (1953);Horror;http://dbpedia.org/resource/House_of_Wax_(1953_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 45891;How to Marry a Millionaire (1953);Comedy|Drama|Romance;http://dbpedia.org/resource/How_to_Marry_a_Millionaire;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
@@ -1249,6 +1259,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 46374;The Story of Three Loves (1953);Drama|Fantasy|Music;http://dbpedia.org/resource/The_Story_of_Three_Loves;perfect;1.0;0.99948796723;0.666666666667;2015-06-02T00:47:03
 46384;The Sun Shines Bright (1953);Comedy|Drama;http://dbpedia.org/resource/The_Sun_Shines_Bright;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 46414;Beat the Devil (1953);Action|Adventure|Comedy|Crime|Drama|Romance;http://dbpedia.org/resource/Beat_the_Devil_(film);perfect;1.0;1.0;0.166666666667;2015-06-02T00:47:03
+46416;Test Tube Babies (1948);Drama;http://dbpedia.org/resource/Test_Tube_Babies_(film);perfect;1.0;1.0;1.0;2015-07-06T21:20:33
 46425;Thunder Bay (1953);Adventure|Drama;http://dbpedia.org/resource/Thunder_Bay_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 46435;Titanic (1953);Drama|History|Romance;http://dbpedia.org/resource/Titanic_(1953_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 46438;Tôkyô monogatari (1953);Drama;http://dbpedia.org/resource/Tokyo_Story;any;0.833333333333;1.0;0.0;2015-06-02T00:47:03
@@ -1522,6 +1533,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 51077;The Three Faces of Eve (1957);Drama|Mystery;http://dbpedia.org/resource/The_Three_Faces_of_Eve;perfect;1.0;1.0;0.5;2015-06-02T00:47:04
 51087;The Tin Star (1957);Western;http://dbpedia.org/resource/The_Tin_Star;perfect;1.0;1.0;1.0;2015-06-02T00:47:04
 51093;Tôkyô boshoku (1957);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:04
+51114;The True Story of Jesse James (1957);Action|Biography|Crime;http://dbpedia.org/resource/The_True_Story_of_Jesse_James;perfect;1.0;1.0;0.0;2015-07-06T21:20:36
 51196;Will Success Spoil Rock Hunter? (1957);Comedy|Romance;http://dbpedia.org/resource/Will_Success_Spoil_Rock_Hunter%3F;partial;0.966666666667;1.0;0.5;2015-06-02T00:47:04
 51198;The Wings of Eagles (1957);Biography|Drama|War;http://dbpedia.org/resource/The_Wings_of_Eagles;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:04
 51201;Witness for the Prosecution (1957);Drama|Mystery;http://dbpedia.org/resource/Witness_for_the_Prosecution_(1957_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:04
@@ -2287,6 +2299,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 61752;Hasta el viento tiene miedo (1968);Drama|Fantasy|Horror;http://dbpedia.org/resource/Hasta_el_viento_tiene_miedo;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:05
 61758;Hells Angels on Wheels (1967);Crime|Drama|Thriller;http://dbpedia.org/resource/Hells_Angels_on_Wheels;perfect;1.0;1.0;1.0;2015-06-02T00:47:05
 61770;Hombre (1967);Western;http://dbpedia.org/resource/Hombre_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:05
+61781;Het brandt m'n liefje (1967);Comedy|Drama;;;0.0;0.0;0.0;2015-07-06T21:21:02
 61784;Hot Rods to Hell (1967);Action|Drama|Thriller;http://dbpedia.org/resource/Hot_Rods_to_Hell;perfect;1.0;1.0;1.0;2015-06-02T00:47:05
 61786;Hotel (1967);Drama;http://dbpedia.org/resource/Hotel_(1967_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:05
 61787;Hour of the Gun (1967);Western;http://dbpedia.org/resource/Hour_of_the_Gun;perfect;1.0;1.0;1.0;2015-06-02T00:47:05
@@ -2297,6 +2310,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 61847;Jôi-uchi: Hairyô tsuma shimatsu (1967);Drama|History;http://dbpedia.org/resource/Samurai_Rebellion;any;0.212121212121;1.0;0.0;2015-06-02T00:47:05
 61850;Journey to the Center of Time (1967);Sci-Fi;http://dbpedia.org/resource/Journey_to_the_Center_of_Time;perfect;1.0;1.0;0.0;2015-06-02T00:47:05
 61852;The Jungle Book (1967);Animation|Adventure|Family|Musical;http://dbpedia.org/resource/The_Jungle_Book_(1967_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:05
+61856;Kaijûtô no kessen: Gojira no musuko (1967);Action|Adventure|Family;;;0.0;0.0;0.0;2015-07-06T21:21:30
 61868;Kingu Kongu no gyakushû (1967);Adventure|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:05
 61882;Koroshi no rakuin (1967);Action|Crime|Drama;http://dbpedia.org/resource/Branded_to_Kill;any;0.176470588235;1.0;0.333333333333;2015-06-02T00:47:05
 61931;Mad Monster Party? (1967);Animation|Comedy|Family|Fantasy|Horror|Musical;http://dbpedia.org/resource/Mad_Monster_Party%3F;partial;0.941176470588;1.0;0.166666666667;2015-06-02T00:47:05
@@ -2457,6 +2471,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 64323;La femme infidèle (1969);Crime|Drama;http://dbpedia.org/resource/The_Unfaithful_Wife;perfect;1.0;0.999492127984;1.0;2015-06-02T00:47:06
 64329;Ruba al prossimo tuo (1968);Adventure|Comedy|Crime;http://dbpedia.org/resource/A_Fine_Pair;perfect;1.0;1.0;0.0;2015-06-02T00:47:06
 64356;Gaav (1969);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:06
+64373;Gojira-Minira-Gabara: Oru kaijû daishingeki (1969);Action|Adventure|Family;;;0.0;0.0;0.0;2015-07-06T21:21:57
 64382;Goodbye, Mr. Chips (1969);Drama|Musical|Romance;http://dbpedia.org/resource/Goodbye,_Mr._Chips_(1969_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:06
 64406;Hard Contract (1969);Drama|Mystery;http://dbpedia.org/resource/Hard_Contract;perfect;1.0;1.0;0.0;2015-06-02T00:47:06
 64418;Hello, Dolly! (1969);Romance|Comedy|Musical|Family;http://dbpedia.org/resource/Hello,_Dolly!_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:06
@@ -2526,6 +2541,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 65421;The AristoCats (1970);Animation|Adventure|Comedy|Family|Music;http://dbpedia.org/resource/The_Aristocats;pattern;0.928571428571;1.0;0.4;2015-06-02T00:47:06
 65422;Arizona si scatenò... e li fece fuori tutti (1970);Western;;;0.0;0.0;0.0;2015-06-02T00:47:06
 65446;The Ballad of Cable Hogue (1970);Comedy|Drama|Romance|Western;http://dbpedia.org/resource/The_Ballad_of_Cable_Hogue;perfect;1.0;1.0;0.75;2015-06-02T00:47:06
+65451;Barquero (1970);Western;http://dbpedia.org/resource/Barquero;pattern;1.0;1.0;1.0;2015-07-06T21:22:02
 65462;Beneath the Planet of the Apes (1970);Action|Sci-Fi;http://dbpedia.org/resource/Beneath_the_Planet_of_the_Apes;perfect;1.0;1.0;0.0;2015-06-02T00:47:06
 65478;Blood Mania (1970);Horror;http://dbpedia.org/resource/Blood_Mania;perfect;1.0;1.0;0.0;2015-06-02T00:47:06
 65481;Bloody Mama (1970);Drama|Crime;http://dbpedia.org/resource/Bloody_Mama;perfect;1.0;1.0;0.5;2015-06-02T00:47:06
@@ -2975,6 +2991,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 71318;Chosen Survivors (1974);Action|Adventure|Drama|Horror|Sci-Fi;http://dbpedia.org/resource/Chosen_Survivors;perfect;1.0;1.0;0.2;2015-06-02T00:47:07
 71360;The Conversation (1974);Drama|Mystery|Thriller;http://dbpedia.org/resource/The_Conversation;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:07
 71361;Coonskin (1975);Animation|Crime|Drama;http://dbpedia.org/resource/Coonskin_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:07
+71385;Daisy Miller (1974);Drama|Romance;http://dbpedia.org/resource/Daisy_Miller_(film);perfect;1.0;1.0;0.5;2015-07-06T21:22:04
 71396;Messiah of Evil (1973);Horror;http://dbpedia.org/resource/Messiah_of_Evil;perfect;1.0;1.0;1.0;2015-06-02T00:47:07
 71402;Death Wish (1974);Crime|Drama|Thriller;http://dbpedia.org/resource/Death_Wish_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:07
 71408;Deranged (1974);Crime|Horror|Thriller;http://dbpedia.org/resource/Deranged_(1974_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:07
@@ -2985,6 +3002,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 71442;Identikit (1974);Drama;http://dbpedia.org/resource/The_Driver's_Seat_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:07
 71455;Earthquake (1974);Action|Drama|Thriller;http://dbpedia.org/resource/Earthquake_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:07
 71458;Fontane Effi Briest (1974);Drama;http://dbpedia.org/resource/Effi_Briest_(1974_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:07
+71464;Emmanuelle (1974);Drama;http://dbpedia.org/resource/Emmanuelle_(film);perfect;1.0;1.0;0.0;2015-07-06T21:22:06
 71483;Falsche Bewegung (1975);Drama;http://dbpedia.org/resource/The_Wrong_Move;perfect;1.0;1.0;1.0;2015-06-02T00:47:07
 71487;Le fantôme de la liberté (1974);Comedy|Drama;http://dbpedia.org/resource/The_Phantom_of_Liberty;perfect;1.0;1.0;0.0;2015-06-02T00:47:07
 71502;Il fiore delle mille e una notte (1974);Comedy|Drama|Fantasy;http://dbpedia.org/resource/Arabian_Nights_(1974_film);partial;0.96875;1.0;0.333333333333;2015-06-02T00:59:47
@@ -3095,6 +3113,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 72912;The Drowning Pool (1975);Action|Crime|Mystery;http://dbpedia.org/resource/The_Drowning_Pool_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:07
 72913;Du bi quan wang da po xue di zi (1976);Action|Fantasy;http://dbpedia.org/resource/Master_of_the_Flying_Guillotine;perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 72926;The Eiger Sanction (1975);Action|Adventure|Romance|Thriller;http://dbpedia.org/resource/The_Eiger_Sanction_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:07
+72933;Emmanuelle: L'antivierge (1975);Drama;http://dbpedia.org/resource/Emmanuelle_2;any;0.916666666667;1.0;1.0;2015-07-06T21:22:18
 72951;Escape to Witch Mountain (1975);Fantasy|Family|Adventure|Sci-Fi;http://dbpedia.org/resource/Escape_to_Witch_Mountain_(1975_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:07
 72960;Exposé (1976);Thriller;http://dbpedia.org/resource/Expos%C3%A9_(film);perfect;1.0;1.0;0.0;2015-06-15T11:22:11
 72962;Vérités et mensonges (1973);Documentary;http://dbpedia.org/resource/F_for_Fake;partial;0.954545454545;0.999493157628;0.0;2015-06-02T00:47:07
@@ -3205,6 +3224,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 74559;Futureworld (1976);Thriller|Sci-Fi;http://dbpedia.org/resource/Futureworld;perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 74564;Gator (1976);Action|Drama|Crime;http://dbpedia.org/resource/Gator_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:07
 74584;Le grand escogriffe (1976);Comedy;http://dbpedia.org/resource/The_Big_Operator;any;0.157894736842;1.0;1.0;2015-06-02T00:47:07
+74586;Il grande racket (1976);Action|Crime|Drama;http://dbpedia.org/resource/The_Big_Racket;perfect;1.0;1.0;0.0;2015-07-06T21:22:20
 74593;Grizzly (1976);Horror|Thriller;http://dbpedia.org/resource/Grizzly_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 74605;Harlan County U.S.A. (1976);Documentary;http://dbpedia.org/resource/Harlan_County,_USA;perfect;1.0;1.0;1.0;2015-06-02T00:47:07
 74653;The Human Tornado (1976);Action|Comedy;http://dbpedia.org/resource/The_Human_Tornado;perfect;1.0;1.0;1.0;2015-06-02T00:47:07
@@ -3279,6 +3299,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 75666;Alucarda, la hija de las tinieblas (1977);Horror|Thriller;http://dbpedia.org/resource/Alucarda;perfect;1.0;0.999494183106;0.5;2015-06-02T00:47:07
 75669;Amar Akbar Anthony (1977);Action|Comedy|Drama|Family;http://dbpedia.org/resource/Amar_Akbar_Anthony;perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 75675;Der amerikanische Freund (1977);Crime|Mystery|Thriller;http://dbpedia.org/resource/The_American_Friend;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:07
+75677;The Amsterdam Kill (1977);Action|Crime|Drama;http://dbpedia.org/resource/The_Amsterdam_Kill;perfect;1.0;1.0;0.0;2015-07-06T21:22:22
 75686;Annie Hall (1977);Comedy|Drama|Romance;http://dbpedia.org/resource/Annie_Hall;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:07
 75704;Audrey Rose (1977);Drama|Fantasy|Horror|Thriller;http://dbpedia.org/resource/Audrey_Rose_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 75710;Lisa, Lisa (1977);Horror|Thriller;http://dbpedia.org/resource/Lisa,_Lisa;perfect;1.0;1.0;1.0;2015-06-02T00:47:07
@@ -3373,6 +3394,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 76755;The Squeeze (1977);Crime|Drama;http://dbpedia.org/resource/The_Squeeze_(1977_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:08
 76759;Star Wars (1977);Action|Adventure|Fantasy|Sci-Fi;http://dbpedia.org/resource/Star_Wars_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:08
 76767;Storm Boy (1976);Drama|Family;http://dbpedia.org/resource/Storm_Boy_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:08
+76776;Stunts (1977);Drama|Mystery;http://dbpedia.org/resource/Stunts_(film);perfect;1.0;1.0;0.5;2015-07-06T21:22:24
 76786;Suspiria (1977);Horror;http://dbpedia.org/resource/Suspiria;perfect;1.0;1.0;1.0;2015-06-02T00:47:08
 76788;Sweeney! (1977);Action|Crime|Drama;http://dbpedia.org/resource/Sweeney!;pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:08
 76843;The Turning Point (1977);Drama|Romance;http://dbpedia.org/resource/The_Turning_Point_(1977_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:08
@@ -3777,6 +3799,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 82288;Dragonslayer (1981);Action|Adventure|Fantasy;http://dbpedia.org/resource/Dragonslayer;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 82307;...E tu vivrai nel terrore! L'aldilà (1981);Horror;http://dbpedia.org/resource/The_Beyond_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 82318;Elippathayam (1982);Drama;http://dbpedia.org/resource/Elippathayam;perfect;1.0;0.999495459132;1.0;2015-06-02T00:47:09
+82329;Endless Love (1981);Drama|Romance;http://dbpedia.org/resource/Endless_Love_(1981_film);perfect;1.0;1.0;1.0;2015-07-06T21:22:26
 82332;Enter the Ninja (1981);Action|Drama;http://dbpedia.org/resource/Enter_the_Ninja;perfect;1.0;1.0;0.0;2015-06-02T00:47:09
 82334;The Entity (1982);Biography|Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/The_Entity;pattern;1.0;1.0;0.25;2015-06-02T00:47:09
 82340;Escape from New York (1981);Action|Sci-Fi;http://dbpedia.org/resource/Escape_from_New_York;perfect;1.0;1.0;0.5;2015-06-02T00:47:09
@@ -3833,6 +3856,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 82748;Mil gritos tiene la noche (1982);Horror|Mystery;http://dbpedia.org/resource/Pieces_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
 82764;Modern Romance (1981);Comedy|Romance;http://dbpedia.org/resource/Modern_Romance;perfect;1.0;1.0;0.5;2015-06-02T00:47:09
 82766;Mommie Dearest (1981);Biography|Drama;http://dbpedia.org/resource/Mommie_Dearest_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
+82771;Yin xiao yu jian cui yu shi (1977);Action|Drama;;;0.0;0.0;0.0;2015-07-06T21:22:55
 82776;Ms. 45 (1981);Crime|Drama|Thriller;http://dbpedia.org/resource/Ms._45;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 82782;My Bloody Valentine (1981);Horror|Thriller;http://dbpedia.org/resource/My_Bloody_Valentine_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
 82783;My Dinner with Andre (1981);Biography|Drama;http://dbpedia.org/resource/My_Dinner_with_Andre;perfect;1.0;1.0;0.0;2015-06-02T00:47:09
@@ -4028,6 +4052,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 85154;All the Right Moves (1983);Drama|Romance|Sport;http://dbpedia.org/resource/All_the_Right_Moves_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 85156;American Nightmare (1983);Horror|Crime|Thriller;http://dbpedia.org/resource/American_Nightmare_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:09
 85159;Amityville 3-D (1983);Horror|Thriller;http://dbpedia.org/resource/Amityville_3-D;perfect;1.0;1.0;0.5;2015-06-02T00:47:09
+85180;L'argent (1983);Crime|Drama;http://dbpedia.org/resource/L'Argent_(1983_film);partial;0.875;1.0;1.0;2015-07-06T21:23:01
 85183;Ator l'invincibile (1982);Action|Adventure|Fantasy;http://dbpedia.org/resource/Ator_l'invincibile;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:09
 85204;BMX Bandits (1983);Adventure|Crime|Drama;http://dbpedia.org/resource/BMX_Bandits_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 85210;Bad Boys (1983);Crime|Drama|Thriller;http://dbpedia.org/resource/Bad_Boys_(1983_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
@@ -4067,6 +4092,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 85475;Eddie and the Cruisers (1983);Drama|Mystery|Music;http://dbpedia.org/resource/Eddie_and_the_Cruisers;perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 85478;Educating Rita (1983);Drama|Comedy;http://dbpedia.org/resource/Educating_Rita_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
 85482;El Norte (1983);Adventure|Drama|Thriller;http://dbpedia.org/resource/El_Norte_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:09
+85486;Emmanuelle IV (1984);Drama;http://dbpedia.org/resource/Emmanuelle_4;any;0.846153846154;1.0;1.0;2015-07-06T21:23:20
 85496;Entre tinieblas (1983);Comedy|Drama;http://dbpedia.org/resource/Dark_Habits;perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 85542;Fire and Ice (1983);Animation|Fantasy|Adventure;http://dbpedia.org/resource/Fire_and_Ice_(1983_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 85549;Flashdance (1983);Drama|Romance|Music;http://dbpedia.org/resource/Flashdance;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
@@ -4259,6 +4285,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 87747;Moscow on the Hudson (1984);Comedy|Drama|Romance;http://dbpedia.org/resource/Moscow_on_the_Hudson;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 87755;The Muppets Take Manhattan (1984);Comedy|Family|Musical|Romance;http://dbpedia.org/resource/The_Muppets_Take_Manhattan;perfect;1.0;1.0;0.5;2015-06-02T00:47:09
 87781;The Natural (1984);Drama|Sport;http://dbpedia.org/resource/The_Natural_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
+87795;Night Patrol (1984);Comedy;;;0.0;0.0;0.0;2015-07-06T21:23:43
 87799;Night of the Comet (1984);Comedy|Horror|Sci-Fi;http://dbpedia.org/resource/Night_of_the_Comet;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 87800;A Nightmare on Elm Street (1984);Horror;http://dbpedia.org/resource/A_Nightmare_on_Elm_Street;perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 87803;Nineteen Eighty-Four (1984);Drama|Romance|Sci-Fi|Thriller;http://dbpedia.org/resource/Nineteen_Eighty-Four_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
@@ -4266,6 +4293,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 87814;Non ci resta che piangere (1984);Comedy|Fantasy;http://dbpedia.org/resource/Nothing_Left_to_Do_But_Cry;perfect;1.0;1.0;0.5;2015-06-15T11:22:15
 87825;The Oasis (1984);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:09
 87843;Once Upon a Time in America (1984);Crime|Drama;http://dbpedia.org/resource/Once_Upon_a_Time_in_America;perfect;1.0;1.0;0.5;2015-06-02T00:47:09
+87866;Oxford Blues (1984);Comedy|Drama|Sport;http://dbpedia.org/resource/Oxford_Blues;perfect;1.0;1.0;0.333333333333;2015-07-06T21:23:45
 87884;Paris, Texas (1984);Drama;http://dbpedia.org/resource/Paris,_Texas_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 87892;A Passage to India (1984);Adventure|Drama|History;http://dbpedia.org/resource/A_Passage_to_India_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:09
 87909;Phenomena (1985);Horror|Mystery;http://dbpedia.org/resource/Phenomena_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
@@ -4309,6 +4337,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 88275;The Times of Harvey Milk (1984);Documentary|Biography|History;http://dbpedia.org/resource/The_Times_of_Harvey_Milk;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:09
 88286;Top Secret! (1984);Comedy;http://dbpedia.org/resource/Top_Secret!;perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 88323;Die unendliche Geschichte (1984);Adventure|Drama|Family|Fantasy;http://dbpedia.org/resource/The_NeverEnding_Story_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
+88333;Up the Creek (1984);Comedy;http://dbpedia.org/resource/Up_the_Creek_(1984_film);perfect;1.0;1.0;1.0;2015-07-06T21:23:47
 88338;Varljivo leto '68 (1984);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:09
 88402;The Wild Life (1984);Comedy|Drama;http://dbpedia.org/resource/The_Wild_Life_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:09
 88414;The Woman in Red (1984);Comedy|Romance;http://dbpedia.org/resource/The_Woman_in_Red_(1984_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:09
@@ -4353,6 +4382,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 89118;F/X (1986);Action|Crime|Thriller;http://dbpedia.org/resource/F/X;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
 89126;Fandango (1985);Comedy;http://dbpedia.org/resource/Fandango_(1985_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:10
 89155;Fletch (1985);Comedy|Crime|Mystery;http://dbpedia.org/resource/Fletch_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
+89167;Fraternity Vacation (1985);Comedy;http://dbpedia.org/resource/Fraternity_Vacation;perfect;1.0;1.0;1.0;2015-07-06T21:23:50
 89169;Die Frau und der Fremde (1985);Drama|History;http://dbpedia.org/resource/The_Woman_and_the_Stranger;perfect;1.0;1.0;0.0;2015-06-02T00:47:10
 89173;Friday the 13th: A New Beginning (1985);Horror|Mystery|Thriller;http://dbpedia.org/resource/Friday_the_13th:_A_New_Beginning;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 89175;Fright Night (1985);Comedy|Horror|Thriller;http://dbpedia.org/resource/Fright_Night;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
@@ -4362,6 +4392,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 89222;Gotcha! (1985);Action|Comedy|Mystery|Romance;http://dbpedia.org/resource/Gotcha!_(1985_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 89243;Gymkata (1985);Action|Drama;http://dbpedia.org/resource/Gymkata;perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 89265;The Heavenly Kid (1985);Comedy|Fantasy|Romance;http://dbpedia.org/resource/The_Heavenly_Kid;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
+89274;The Hills Have Eyes Part II (1984);Horror|Thriller;http://dbpedia.org/resource/The_Hills_Have_Eyes_Part_II;perfect;1.0;1.0;0.5;2015-07-06T21:24:00
 89276;La historia oficial (1985);Drama|History|War;http://dbpedia.org/resource/The_Official_Story;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
 89280;Hobgoblins (1988);Comedy|Horror|Sci-Fi;http://dbpedia.org/resource/Hobgoblins_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
 89283;The Holcroft Covenant (1985);Action|Crime|Drama|Romance|Thriller;http://dbpedia.org/resource/The_Holcroft_Covenant_(film);perfect;1.0;1.0;0.2;2015-06-02T00:47:10
@@ -4489,6 +4520,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 90605;Aliens (1986);Action|Adventure|Sci-Fi|Thriller;http://dbpedia.org/resource/Aliens_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 90633;An American Tail (1986);Animation|Comedy|Drama|Family|History|Musical;http://dbpedia.org/resource/An_American_Tail;perfect;1.0;1.0;0.0;2015-06-02T00:47:10
 90655;April Fool's Day (1986);Comedy|Horror|Mystery;http://dbpedia.org/resource/April_Fool's_Day_(1986_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
+90659;Armed Response (1986);Action|Crime|Thriller;http://dbpedia.org/resource/Armed_Response_(film);perfect;1.0;1.0;1.0;2015-07-06T21:24:04
 90670;At Close Range (1986);Crime|Drama|Romance;http://dbpedia.org/resource/At_Close_Range;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
 90685;Back to School (1986);Comedy|Romance|Sport;http://dbpedia.org/resource/Back_to_School;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 90693;Band of the Hand (1986);Action|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:10
@@ -4588,6 +4620,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 91557;The Mosquito Coast (1986);Adventure|Drama|Thriller;http://dbpedia.org/resource/The_Mosquito_Coast;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
 91559;Mouna Ragam (1986);Drama|Romance;http://dbpedia.org/resource/Mouna_Ragam;perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 91560;Mountaintop Motel Massacre (1986);Horror|Thriller;http://dbpedia.org/resource/Mountaintop_Motel_Massacre;perfect;1.0;1.0;0.5;2015-06-02T00:47:10
+91575;Murphy's Law (1986);Action|Crime|Drama;http://dbpedia.org/resource/Murphy's_Law_(film);perfect;1.0;1.0;0.333333333333;2015-07-06T21:24:08
 91578;My Beautiful Laundrette (1985);Comedy|Drama|Romance;http://dbpedia.org/resource/My_Beautiful_Laundrette;perfect;1.0;1.0;1.0;2015-06-02T00:47:10
 91579;My Chauffeur (1986);Comedy;http://dbpedia.org/resource/My_Chauffeur;perfect;1.0;1.0;1.0;2015-06-02T00:47:10
 91605;Der Name der Rose (1986);Drama|Mystery|Thriller|Crime;http://dbpedia.org/resource/The_Name_of_the_Rose_(film);partial;0.941176470588;1.0;0.25;2015-06-02T00:47:10
@@ -4630,6 +4663,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 91969;Slaughter High (1986);Comedy|Horror;http://dbpedia.org/resource/Slaughter_High;perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 91982;Le solitaire (1987);Action|Crime|Drama;http://dbpedia.org/resource/Le_Solitaire_(film);partial;0.916666666667;1.0;0.333333333333;2015-06-02T01:09:27
 91983;Something Wild (1986);Comedy|Crime|Romance|Thriller;http://dbpedia.org/resource/Something_Wild_(1986_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
+91990;Sorority House Massacre (1986);Horror;http://dbpedia.org/resource/Sorority_House_Massacre;perfect;1.0;1.0;1.0;2015-07-06T21:24:12
 91991;Soul Man (1986);Comedy|Romance;http://dbpedia.org/resource/Soul_Man_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 91993;SpaceCamp (1986);Adventure|Family|Sci-Fi;http://dbpedia.org/resource/SpaceCamp;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 92005;Stand by Me (1986);Adventure|Drama;http://dbpedia.org/resource/Stand_by_Me_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:10
@@ -4696,6 +4730,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 92802;Cross My Heart (1987);Comedy|Romance;http://dbpedia.org/resource/Cross_My_Heart_(1987_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
 92812;Cyclone (1987);Action|Sci-Fi|Drama;http://dbpedia.org/resource/Cyclone_(1987_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 92834;Date with an Angel (1987);Comedy|Fantasy|Romance;http://dbpedia.org/resource/Date_with_an_Angel;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:10
+92842;Dead of Winter (1987);Drama|Horror|Thriller;http://dbpedia.org/resource/Dead_of_Winter;perfect;1.0;1.0;0.333333333333;2015-07-06T21:24:14
 92843;The Dead (1987);Drama;http://dbpedia.org/resource/The_Dead_(1987_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:10
 92847;Deadly Illusion (1987);Adventure|Thriller|Crime;http://dbpedia.org/resource/Deadly_Illusion;perfect;1.0;1.0;0.0;2015-06-02T00:47:10
 92854;Death Before Dishonor (1987);Action|Drama;http://dbpedia.org/resource/Death_Before_Dishonor_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:10
@@ -5377,6 +5412,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 100318;Pacific Heights (1990);Mystery|Thriller;http://dbpedia.org/resource/Pacific_Heights_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:11
 100332;Paris Is Burning (1990);Documentary;http://dbpedia.org/resource/Paris_Is_Burning_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
 100337;Pasport (1991);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:11
+100339;Kidô keisatsu patorebâ: Gekijô-ban (1989);Animation|Action|Crime;;;0.0;0.0;0.0;2015-07-06T21:24:43
 100369;The Pit and the Pendulum (1991);Horror;http://dbpedia.org/resource/The_Pit_and_the_Pendulum_(1991_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
 100395;Postcards from the Edge (1990);Comedy|Drama;http://dbpedia.org/resource/Postcards_from_the_Edge_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:11
 100403;Predator 2 (1990);Action|Sci-Fi|Thriller;http://dbpedia.org/resource/Predator_2;perfect;1.0;1.0;0.0;2015-06-02T00:47:11
@@ -6151,6 +6187,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 110612;My Father the Hero (1994);Comedy|Romance;http://dbpedia.org/resource/My_Father_the_Hero_(1994_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:13
 110613;My Girl 2 (1994);Comedy|Drama|Family;http://dbpedia.org/resource/My_Girl_2;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
 110616;My Sweet Satan (1994);Short|Crime|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:13
+110620;Nadja (1994);Drama|Horror;http://dbpedia.org/resource/Nadja_(film);perfect;1.0;1.0;0.5;2015-07-06T21:24:45
 110622;Naked Gun 33 1/3: The Final Insult (1994);Action|Comedy|Crime;;;0.0;0.0;0.0;2015-06-02T00:47:13
 110631;Nattevagten (1994);Thriller;http://dbpedia.org/resource/Nightwatch_(1994_film);any;0.272727272727;1.0;1.0;2015-06-02T00:47:13
 110632;Natural Born Killers (1994);Crime|Drama|Thriller;http://dbpedia.org/resource/Natural_Born_Killers;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
@@ -6325,6 +6362,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 113117;French Kiss (1995);Comedy|Drama|Romance;http://dbpedia.org/resource/French_Kiss_(1995_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
 113118;Friday (1995);Comedy|Drama;http://dbpedia.org/resource/Friday_(1995_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:13
 113133;Funny Bones (1995);Comedy|Drama;http://dbpedia.org/resource/Funny_Bones;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
+113142;Gamera daikaijû kuchu kessen (1995);Action|Adventure|Drama;;;0.0;0.0;0.0;2015-07-06T21:25:18
 113161;Get Shorty (1995);Comedy|Crime|Thriller;http://dbpedia.org/resource/Get_Shorty_(film);pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:13
 113187;Gojira vs. Desutoroiâ (1995);Action|Horror|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:13
 113189;GoldenEye (1995);Action|Crime|Thriller;http://dbpedia.org/resource/GoldenEye;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
@@ -6398,6 +6436,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 113972;Nick of Time (1995);Crime|Drama|Thriller;http://dbpedia.org/resource/Nick_of_Time_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
 113986;Nine Months (1995);Comedy|Romance;http://dbpedia.org/resource/Nine_Months;perfect;1.0;1.0;0.5;2015-06-02T00:47:13
 113987;Nixon (1995);Biography|Drama;http://dbpedia.org/resource/Nixon_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:13
+113999;One Tough Bastard (1996);Action|Thriller;http://dbpedia.org/resource/One_Tough_Bastard;perfect;1.0;1.0;0.5;2015-07-06T21:25:20
 114008;Nothing to Lose (1995);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:13
 114011;Now and Then (1995);Comedy|Drama;http://dbpedia.org/resource/Now_and_Then_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 114048;Operation Dumbo Drop (1995);Action|Adventure|Comedy|Drama|Family|War;http://dbpedia.org/resource/Operation_Dumbo_Drop;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
@@ -6428,6 +6467,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 114373;El secdleto de la tlompeta (1995);Comedy|Short;;;0.0;0.0;0.0;2015-06-02T00:47:13
 114388;Sense and Sensibility (1995);Drama|Romance;http://dbpedia.org/resource/Sense_and_Sensibility_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:13
 114436;Showgirls (1995);Drama;http://dbpedia.org/resource/Showgirls;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
+114448;Silent Hunter (1995);Action;;;0.0;0.0;0.0;2015-07-06T21:25:47
 114478;Smoke (1995);Comedy|Drama;http://dbpedia.org/resource/Smoke_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:13
 114496;Something to Talk About (1995);Comedy|Drama|Romance;http://dbpedia.org/resource/Something_to_Talk_About_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
 114508;Species (1995);Action|Horror|Sci-Fi;http://dbpedia.org/resource/Species_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
@@ -6471,6 +6511,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 115433;101 Dalmatians (1996);Family|Comedy|Adventure;http://dbpedia.org/resource/101_Dalmatians_(1996_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
 115438;2 Days in the Valley (1996);Comedy|Crime;http://dbpedia.org/resource/2_Days_in_the_Valley;perfect;1.0;1.0;0.0;2015-06-02T00:47:13
 115472;The Adventures of Pinocchio (1996);Fantasy|Family|Adventure;http://dbpedia.org/resource/The_Adventures_of_Pinocchio_(1996_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:13
+115479;Sostiene Pereira (1995);Drama;http://dbpedia.org/resource/Sostiene_Pereira;perfect;1.0;1.0;1.0;2015-07-06T21:25:49
 115487;Airbag (1997);Action|Comedy|Crime;http://dbpedia.org/resource/Airbag_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 115495;Albino Alligator (1996);Crime|Drama|Thriller;http://dbpedia.org/resource/Albino_Alligator;perfect;1.0;0.999498997996;0.666666666667;2015-06-02T00:47:13
 115530;American Buffalo (1996);Drama;http://dbpedia.org/resource/American_Buffalo_(film);perfect;1.0;1.0;1.0;2015-06-02T01:15:45
@@ -6561,6 +6602,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 116361;Freeway (1996);Comedy|Crime|Drama;http://dbpedia.org/resource/Freeway_(1996_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 116365;The Frighteners (1996);Comedy|Horror;http://dbpedia.org/resource/The_Frighteners;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 116367;From Dusk Till Dawn (1996);Action|Crime|Horror;http://dbpedia.org/resource/From_Dusk_till_Dawn;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
+116390;Gamera 2: Region shurai (1996);Action|Drama|Fantasy;;;0.0;0.0;0.0;2015-07-06T21:26:17
 116404;Get on the Bus (1996);Drama|History;http://dbpedia.org/resource/Get_on_the_Bus;pattern;1.0;1.0;0.0;2015-06-02T00:47:13
 116409;The Ghost and the Darkness (1996);Adventure|Drama|Thriller;http://dbpedia.org/resource/The_Ghost_and_the_Darkness;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:13
 116410;Ghosts of Mississippi (1996);Drama;http://dbpedia.org/resource/Ghosts_of_Mississippi;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
@@ -6627,6 +6669,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 117056;Ayneh (1997);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:13
 117057;The Mirror Has Two Faces (1996);Comedy|Drama|Romance;http://dbpedia.org/resource/The_Mirror_Has_Two_Faces;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 117060;Mission: Impossible (1996);Action|Adventure|Thriller;http://dbpedia.org/resource/Mission:_Impossible_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
+117089;Mosura (1996);Action|Fantasy|Sci-Fi;http://dbpedia.org/resource/Rebirth_of_Mothra;perfect;1.0;1.0;0.333333333333;2015-07-06T21:26:20
 117091;Mother (1996);Comedy|Drama;http://dbpedia.org/resource/Mother_(1996_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:13
 117093;Mother Night (1996);Drama|Romance|War;http://dbpedia.org/resource/Mother_Night_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:13
 117102;Mr. Wrong (1996);Comedy;http://dbpedia.org/resource/Mr._Wrong;perfect;1.0;1.0;1.0;2015-06-02T00:47:13
@@ -6684,6 +6727,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 117723;Spy Hard (1996);Comedy|Action;http://dbpedia.org/resource/Spy_Hard;perfect;1.0;1.0;0.5;2015-06-02T00:47:14
 117731;Star Trek: First Contact (1996);Action|Adventure|Sci-Fi|Thriller;http://dbpedia.org/resource/Star_Trek:_First_Contact;perfect;1.0;1.0;0.5;2015-06-02T00:47:14
 117737;Stealing Beauty (1996);Drama|Romance;http://dbpedia.org/resource/Stealing_Beauty;perfect;1.0;1.0;1.0;2015-06-02T00:47:14
+117762;Street Gun (1996);Action|Adventure|Thriller;;;0.0;0.0;0.0;2015-07-06T21:26:46
 117765;Striptease (1996);Crime|Drama|Thriller;http://dbpedia.org/resource/Striptease_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:14
 117768;The Stupids (1996);Comedy|Adventure;http://dbpedia.org/resource/The_Stupids_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:14
 117774;The Substitute (1996);Action|Crime|Drama|Thriller;http://dbpedia.org/resource/The_Substitute;perfect;1.0;1.0;0.75;2015-06-02T00:47:14
@@ -6996,6 +7040,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 120399;U Turn (1997);Crime|Drama|Thriller;http://dbpedia.org/resource/U_Turn_(1997_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:14
 120402;Ulee's Gold (1997);Drama;http://dbpedia.org/resource/Ulee's_Gold;perfect;1.0;1.0;1.0;2015-06-02T00:47:14
 120408;Unagi (1997);Drama;http://dbpedia.org/resource/The_Eel_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:14
+120422;Up 'n' Under (1998);Comedy|Sport;;;0.0;0.0;0.0;2015-07-06T21:27:15
 120434;Vegas Vacation (1997);Comedy;http://dbpedia.org/resource/Vegas_Vacation;perfect;1.0;1.0;1.0;2015-06-02T00:47:14
 120449;La vie rêvée des anges (1998);Drama;http://dbpedia.org/resource/The_Dreamlife_of_Angels;partial;0.958333333333;1.0;1.0;2015-06-02T00:47:14
 120456;Virasat (1997);Drama|Family|Musical;http://dbpedia.org/resource/Virasat_(1997_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:14
@@ -7258,6 +7303,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 132347;Mystery Men (1999);Action|Comedy|Fantasy|Sci-Fi;http://dbpedia.org/resource/Mystery_Men;perfect;1.0;1.0;0.5;2015-06-02T00:47:15
 132477;October Sky (1999);Biography|Drama|Family;http://dbpedia.org/resource/October_Sky;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:15
 132512;At First Sight (1999);Drama|Romance;http://dbpedia.org/resource/At_First_Sight;perfect;1.0;1.0;0.5;2015-06-02T00:47:15
+132910;The Crow: Salvation (2000);Action|Crime|Fantasy;http://dbpedia.org/resource/The_Crow:_Salvation;pattern;1.0;1.0;0.666666666667;2015-07-06T21:27:20
 133046;Teaching Mrs. Tingle (1999);Comedy|Thriller;http://dbpedia.org/resource/Teaching_Mrs._Tingle;perfect;1.0;1.0;1.0;2015-06-02T00:47:15
 133093;The Matrix (1999);Action|Adventure|Sci-Fi;http://dbpedia.org/resource/The_Matrix;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:15
 133152;Planet of the Apes (2001);Action|Adventure|Sci-Fi|Thriller;http://dbpedia.org/resource/Planet_of_the_Apes_(2001_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:15
@@ -7572,6 +7618,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 164184;The Sum of All Fears (2002);Action|Drama|Thriller;http://dbpedia.org/resource/The_Sum_of_All_Fears_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:16
 164221;Virtual Sexuality (1999);Comedy|Drama|Sci-Fi;http://dbpedia.org/resource/Virtual_Sexuality;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:16
 164334;Along Came a Spider (2001);Action|Crime|Mystery|Thriller;http://dbpedia.org/resource/Along_Came_a_Spider_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:16
+164522;Dang kou tan (1972);Action;;;0.0;0.0;0.0;2015-07-06T21:27:53
 164550;Duplicate (1998);Action|Comedy|Crime;http://dbpedia.org/resource/Duplicate_(1998_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:16
 164699;Karate Kiba (1976);Action|Crime|Drama;http://dbpedia.org/resource/Karate_Kiba;pattern;1.0;1.0;0.0;2015-06-02T00:47:16
 164756;Mifunes sidste sang (1999);Romance|Comedy|Drama;http://dbpedia.org/resource/Mifune's_Last_Song;perfect;1.0;1.0;0.0;2015-06-02T00:47:16
@@ -7585,6 +7632,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 165256;Hissatsu onna kenshi (1976);Action;http://dbpedia.org/resource/Dragon_Princess;any;0.2;1.0;0.0;2015-06-02T00:47:16
 165361;Highway (2002);Crime|Drama;http://dbpedia.org/resource/Highway_(2002_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:16
 165546;Rane (1998);Comedy|Crime|Drama;http://dbpedia.org/resource/The_Wounds;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:16
+165603;Shi ba ban wu yi (1977);Action|Drama;;;0.0;0.0;0.0;2015-07-06T21:28:18
 165623;Angst (1983);Crime|Drama|Horror;http://dbpedia.org/resource/Angst_(1983_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:16
 165625;Ankhiyon Ke Jharokhon Se (1978);Drama|Family|Romance;http://dbpedia.org/resource/Ankhiyon_Ke_Jharokhon_Se;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:16
 165710;Detroit Rock City (1999);Comedy|Music;http://dbpedia.org/resource/Detroit_Rock_City_(film);perfect;1.0;1.0;1.0;2015-06-19T09:55:59
@@ -7757,6 +7805,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 183958;Vahsi kan (1983);Action|Adventure;;;0.0;0.0;0.0;2015-06-02T00:47:16
 184016;White Phantom (1987);Action;http://dbpedia.org/resource/White_Phantom_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:16
 184377;Dai shitsuren (1995);;;;0.0;0.0;0.0;2015-06-02T00:47:16
+184503;Gamera 3: Iris kakusei (1999);Action|Drama|Fantasy;;;0.0;0.0;0.0;2015-07-06T21:28:58
 184526;Boh lei chun (1999);Action|Romance|Comedy;http://dbpedia.org/resource/Gorgeous_(film);any;0.916666666667;1.0;0.333333333333;2015-06-02T00:47:16
 184756;Muhsin Bey (1987);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:16
 184791;O (2001);Drama|Romance|Thriller;http://dbpedia.org/resource/O_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:16
@@ -7802,6 +7851,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 189584;The Big Kahuna (1999);Drama|Comedy;http://dbpedia.org/resource/The_Big_Kahuna_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:16
 189744;Miss Julie (1999);Drama;http://dbpedia.org/resource/Miss_Julie_(1999_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:16
 189998;Shadow of the Vampire (2000);Drama|Horror;http://dbpedia.org/resource/Shadow_of_the_Vampire;perfect;1.0;1.0;0.5;2015-06-02T00:47:16
+190060;E yu tou hei sha xing (1978);Action|Crime|Drama;;;0.0;0.0;0.0;2015-07-06T21:29:25
 190138;The Whole Nine Yards (2000);Comedy|Crime;http://dbpedia.org/resource/The_Whole_Nine_Yards_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:16
 190229;Alien Outlaw (1985);Sci-Fi|Western;;;0.0;0.0;0.0;2015-06-02T00:47:16
 190332;Wo hu cang long (2000);Action|Adventure|Drama|Fantasy|Romance;http://dbpedia.org/resource/Crouching_Tiger,_Hidden_Dragon;any;0.2;1.0;0.8;2015-06-02T00:47:16
@@ -7829,6 +7879,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 193135;Enemies of Laughter (2000);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:16
 193171;En forårsdag i Helvede (1977);Documentary|Sport;http://dbpedia.org/resource/A_Sunday_in_Hell;any;0.391304347826;0.999494183106;0.5;2015-06-02T00:47:16
 193253;Jin-Rô (1999);Animation|Drama|Fantasy|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:16
+193560;Texas Rangers (2001);Action|Adventure|Drama;http://dbpedia.org/resource/Texas_Rangers_(film);perfect;1.0;1.0;0.666666666667;2015-07-06T21:29:27
 193854;A Shot at Glory (2000);Drama|Sport;http://dbpedia.org/resource/A_Shot_at_Glory;perfect;1.0;0.9995;0.0;2015-06-02T00:47:16
 193995;Hansel and Gretel (1954);Animation|Family|Music|Musical;;;0.0;0.0;0.0;2015-06-02T00:47:16
 194104;Lek (2000);Action|Crime|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:16
@@ -8126,6 +8177,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 223777;Más negro que la noche (1975);Horror|Mystery|Thriller;http://dbpedia.org/resource/M%C3%A1s_negro_que_la_noche;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:17
 223897;Pay It Forward (2000);Drama;http://dbpedia.org/resource/Pay_It_Forward_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:17
 225071;Angel Eyes (2001);Drama|Romance|Thriller;http://dbpedia.org/resource/Angel_Eyes_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:17
+225828;G.O.D. (2001);Action|Crime|Thriller;;;0.0;0.0;0.0;2015-07-06T21:30:04
 226018;Jingi naki tatakai: Kanketsu-hen (1974);Action|Crime|Drama;http://dbpedia.org/resource/Battles_Without_Honor_and_Humanity:_Final_Episode;any;0.03125;1.0;0.666666666667;2015-06-02T00:47:17
 226430;Shadow Hours (2000);Drama|Thriller;http://dbpedia.org/resource/Shadow_Hours;perfect;1.0;1.0;0.5;2015-06-02T00:47:17
 226540;Too Much Flesh (2000);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:17
@@ -8610,6 +8662,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 270053;Vizontele (2001);Comedy|Drama;http://dbpedia.org/resource/Vizontele;perfect;1.0;1.0;1.0;2015-06-02T00:47:18
 270219;Baat Ban Jaye (1986);;http://dbpedia.org/resource/Baat_Ban_Jaye;perfect;1.0;1.0;0.0;2015-06-02T00:47:18
 270288;Confessions of a Dangerous Mind (2002);Biography|Comedy|Crime|Drama|Thriller;http://dbpedia.org/resource/Confessions_of_a_Dangerous_Mind;perfect;1.0;1.0;0.4;2015-06-02T00:47:18
+270480;Juana la Loca (2001);Biography|Drama|History;http://dbpedia.org/resource/Mad_Love_(2001_film);perfect;1.0;1.0;0.333333333333;2015-07-06T21:30:06
 270560;Our Lips Are Sealed (2000);Comedy|Crime|Family;http://dbpedia.org/resource/Our_Lips_Are_Sealed_(film);pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:18
 270707;The Truth About Charlie (2002);Mystery|Thriller;http://dbpedia.org/resource/The_Truth_About_Charlie;perfect;1.0;1.0;1.0;2015-06-02T00:47:18
 270846;Superbabies: Baby Geniuses 2 (2004);Comedy|Family;http://dbpedia.org/resource/Superbabies:_Baby_Geniuses_2;perfect;1.0;1.0;0.5;2015-06-02T00:47:18
@@ -8768,6 +8821,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 283900;L'auberge espagnole (2002);Comedy|Romance|Drama;http://dbpedia.org/resource/L'Auberge_Espagnole;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:18
 283991;Children on Their Birthdays (2002);Comedy|Drama|Family;http://dbpedia.org/resource/Children_on_Their_Birthdays;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:18
 284034;Demonlover (2002);Thriller|Drama|Mystery;http://dbpedia.org/resource/Demonlover;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:18
+284363;Obsluhoval jsem anglického krále (2006);Comedy|Drama|Romance;http://dbpedia.org/resource/I_Served_the_King_of_England_(film);any;0.1875;1.0;0.666666666667;2015-07-06T21:30:20
 284490;Showtime (2002);Action|Comedy|Crime;http://dbpedia.org/resource/Showtime_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:18
 284494;Skins (2002);Crime|Drama;http://dbpedia.org/resource/Skins_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:18
 284637;What Kind of Mother Are You? (1996);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:18
@@ -9245,6 +9299,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 327770;Girl King (2002);;http://dbpedia.org/resource/Girl_King;perfect;1.0;1.0;0.0;2015-06-02T00:47:19
 327850;The Rundown (2003);Action|Adventure|Comedy|Thriller;http://dbpedia.org/resource/The_Rundown;perfect;1.0;1.0;0.75;2015-06-02T00:47:19
 327919;I Am David (2003);Drama;http://dbpedia.org/resource/I_Am_David_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:19
+327920;I Am Trying to Break Your Heart (2002);Documentary|Music;http://dbpedia.org/resource/I_Am_Trying_to_Break_Your_Heart:_A_Film_About_Wilco;perfect;1.0;1.0;0.5;2015-07-06T21:30:22
 328049;Kôtei no inai hachigatsu (1978);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:19
 328077;Love Object (2003);Drama|Horror|Romance|Thriller;http://dbpedia.org/resource/Love_Object;perfect;1.0;1.0;0.0;2015-06-02T00:47:19
 328099;Malibu's Most Wanted (2003);Comedy|Crime;http://dbpedia.org/resource/Malibu's_Most_Wanted;perfect;1.0;1.0;0.5;2015-06-02T00:47:19
@@ -9362,6 +9417,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 339135;In Hell (2003);Action|Thriller|Drama;http://dbpedia.org/resource/In_Hell;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:19
 339230;Kopps (2003);Action|Comedy;http://dbpedia.org/resource/Kopps;perfect;1.0;1.0;0.5;2015-06-02T00:47:19
 339291;Lemony Snicket's A Series of Unfortunate Events (2004);Adventure|Comedy|Family|Fantasy;http://dbpedia.org/resource/Lemony_Snicket's_A_Series_of_Unfortunate_Events;pattern;1.0;1.0;0.25;2015-06-02T00:47:19
+339300;Liever verliefd (2003);Comedy|Romance;http://dbpedia.org/resource/Love_to_Love_(film);perfect;1.0;1.0;0.5;2015-07-06T21:30:24
 339357;Histoire de Marie et Julien (2003);Drama|Fantasy|Mystery;http://dbpedia.org/resource/The_Story_of_Marie_and_Julien;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:19
 339412;Mr 3000 (2004);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:19
 339419;The Mudge Boy (2003);Drama;http://dbpedia.org/resource/The_Mudge_Boy;perfect;1.0;1.0;1.0;2015-06-02T00:47:19
@@ -9372,6 +9428,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 340044;Cheoleobtneun anaewa paramanjanhan nampyeon geurigo taekwon sonyeo (2002);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:19
 340110;Fat Pizza (2003);Action|Adventure|Comedy|Crime|Thriller;http://dbpedia.org/resource/Fat_Pizza;perfect;1.0;1.0;0.2;2015-06-02T00:47:19
 340163;Hostage (2005);Crime|Drama|Mystery|Thriller;http://dbpedia.org/resource/Hostage_(film);pattern;1.0;1.0;1.0;2015-06-02T00:47:19
+340227;Masuuruhiito (2002);Action|Adventure;;;0.0;0.0;0.0;2015-07-06T21:30:48
 340258;My Wrongs 8245-8249 and 117 (2002);Comedy|Fantasy|Horror|Short;;;0.0;0.0;0.0;2015-06-02T00:47:19
 340376;The Statement (2003);Thriller|Drama;http://dbpedia.org/resource/The_Statement_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:19
 340377;The Station Agent (2003);Comedy|Drama;http://dbpedia.org/resource/The_Station_Agent;perfect;1.0;1.0;1.0;2015-06-02T00:47:19
@@ -9702,6 +9759,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 371246;Spanglish (2004);Comedy|Drama|Romance;http://dbpedia.org/resource/Spanglish_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:20
 371257;Stay (2005);Drama|Mystery|Thriller;http://dbpedia.org/resource/Stay_(2005_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:20
 371280;Talaye sorkh (2003);Drama|Thriller;http://dbpedia.org/resource/Crimson_Gold;partial;0.916666666667;1.0;0.5;2015-06-02T00:47:20
+371572;Beneath Still Waters (2005);Horror|Mystery|Thriller;http://dbpedia.org/resource/Beneath_Still_Waters;perfect;1.0;1.0;1.0;2015-07-06T21:30:51
 371606;Chicken Little (2005);Animation|Adventure|Comedy|Family|Sci-Fi;http://dbpedia.org/resource/Chicken_Little_(2005_film);perfect;1.0;1.0;0.2;2015-06-02T00:47:20
 371724;The Hitchhiker's Guide to the Galaxy (2005);Adventure|Comedy|Sci-Fi;http://dbpedia.org/resource/The_Hitchhiker's_Guide_to_the_Galaxy_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:20
 371739;The Zodiac (2005);Crime|Drama|Horror;http://dbpedia.org/resource/The_Zodiac_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:20
@@ -9781,6 +9839,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 376541;Closer (2004);Drama|Romance;http://dbpedia.org/resource/Closer_(2004_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:20
 376543;Colour Me Kubrick: A True...ish Story (2005);Comedy|Drama;http://dbpedia.org/resource/Colour_Me_Kubrick;pattern;0.459459459459;1.0;1.0;2015-06-02T00:47:20
 376800;Noviembre (2003);Comedy|Drama;http://dbpedia.org/resource/Noviembre_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:20
+376821;Det perfekte menneske (1967);Short;;;0.0;0.0;0.0;2015-07-06T21:31:19
 376827;Pizza (2005);Comedy;http://dbpedia.org/resource/Pizza_(2005_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:20
 376968;Vozvrashchenie (2003);Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:20
 376994;X-Men: The Last Stand (2006);Action|Adventure|Sci-Fi|Thriller;http://dbpedia.org/resource/X-Men:_The_Last_Stand;perfect;1.0;1.0;0.25;2015-06-02T00:47:20
@@ -9961,6 +10020,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 388125;In Her Shoes (2005);Comedy|Drama|Romance;http://dbpedia.org/resource/In_Her_Shoes_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:20
 388139;It's All Gone Pete Tong (2004);Comedy|Drama|Music;http://dbpedia.org/resource/It's_All_Gone_Pete_Tong;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:20
 388182;King of California (2007);Comedy|Drama;http://dbpedia.org/resource/King_of_California;perfect;1.0;1.0;1.0;2015-06-02T00:47:20
+388183;King's Ransom (2005);Comedy|Crime;http://dbpedia.org/resource/King's_Ransom_(film);perfect;1.0;1.0;0.5;2015-07-06T21:31:22
 388213;Loverboy (2005);Drama|Romance;http://dbpedia.org/resource/Loverboy_(2005_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:20
 388285;Going the Distance (2004);Comedy;http://dbpedia.org/resource/Going_the_Distance_(2004_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:20
 388377;River Queen (2005);Action|Adventure|Drama;http://dbpedia.org/resource/River_Queen;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:20
@@ -10038,6 +10098,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 396269;Wedding Crashers (2005);Comedy|Romance;http://dbpedia.org/resource/Wedding_Crashers;perfect;1.0;1.0;0.5;2015-06-02T00:47:20
 396401;11:11 (2004);Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:20
 396555;Meet the Robinsons (2007);Animation|Adventure|Comedy|Family|Sci-Fi;http://dbpedia.org/resource/Meet_the_Robinsons;perfect;1.0;1.0;0.2;2015-06-02T00:47:20
+396575;Egyetleneim (2006);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-07-06T21:31:54
 396584;Eoggaedongmu (2004);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:20
 396592;Fat Albert (2004);Comedy|Family|Fantasy|Romance;http://dbpedia.org/resource/Fat_Albert_(film);perfect;1.0;1.0;0.75;2015-06-02T00:47:20
 396652;Ice Princess (2005);Comedy|Drama|Family|Sport;http://dbpedia.org/resource/Ice_Princess;perfect;1.0;1.0;0.5;2015-06-02T00:47:20
@@ -10574,6 +10635,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 437179;See No Evil (2006);Horror|Thriller;http://dbpedia.org/resource/See_No_Evil_(2006_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:21
 437198;Fuyu no hi (2003);Animation;;;0.0;0.0;0.0;2015-06-02T00:47:21
 437199;Fußballweltmeisterschaft Chile 1962 (1962);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:21
+437232;Catch a Fire (2006);Biography|Drama|History;http://dbpedia.org/resource/Catch_a_Fire_(film);perfect;1.0;1.0;0.0;2015-07-06T21:31:56
 437405;Paper Man (2009);Comedy|Drama;http://dbpedia.org/resource/Paper_Man_(2009_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:21
 437407;Parineeta (2005);Drama|Musical|Romance;http://dbpedia.org/resource/Parineeta_(2005_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:21
 437447;Qian li zou dan qi (2005);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:21
@@ -11120,6 +11182,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 478724;Prête-moi ta main (2006);Comedy|Romance;http://dbpedia.org/resource/I_Do_(2006_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:22
 478813;Klopka (2007);Crime|Drama|Thriller;http://dbpedia.org/resource/Klopka;perfect;1.0;1.0;1.0;2015-06-02T00:47:22
 478829;Vitus (2006);Drama|Music;http://dbpedia.org/resource/Vitus_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:22
+478970;Ant-Man (2015);Action|Sci-Fi;http://dbpedia.org/resource/Ant-Man_(film);perfect;1.0;1.0;0.5;2015-07-06T21:31:58
 478978;Batismo de Sangue (2006);Drama;http://dbpedia.org/resource/Baptism_of_Blood;perfect;1.0;1.0;1.0;2015-06-02T00:47:22
 478988;The Call of Cthulhu (2005);Fantasy|Horror|Mystery|Thriller;http://dbpedia.org/resource/The_Call_of_Cthulhu_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:22
 479044;Made in America (2008);Documentary|Crime;;;0.0;0.0;0.0;2015-06-02T00:47:22
@@ -11299,6 +11362,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 492389;Furry Vengeance (2010);Comedy|Family;http://dbpedia.org/resource/Furry_Vengeance;perfect;1.0;1.0;0.5;2015-06-02T00:47:23
 492466;Iraq in Fragments (2006);Documentary|War;http://dbpedia.org/resource/Iraq_in_Fragments;perfect;1.0;1.0;1.0;2015-06-02T00:47:23
 492473;Kan shang qu hen mei (2006);Comedy|Drama;http://dbpedia.org/resource/Little_Red_Flowers;any;0.05;1.0;0.5;2015-06-02T00:47:23
+492481;Puccini for Beginners (2006);Comedy|Romance;http://dbpedia.org/resource/Puccini_for_Beginners;perfect;1.0;1.0;0.5;2015-07-06T21:32:01
 492486;Shrooms (2007);Horror|Thriller;http://dbpedia.org/resource/Shrooms_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:23
 492506;Wordplay (2006);Documentary;http://dbpedia.org/resource/Wordplay_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:23
 492533;Aein (2005);Romance;;;0.0;0.0;0.0;2015-06-02T00:47:23
@@ -11351,6 +11415,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 497986;Shi gan (2006);Drama|Romance;http://dbpedia.org/resource/Time_(2006_film);any;0.142857142857;1.0;0.5;2015-06-02T00:47:23
 498097;Iklimler (2006);Drama;http://dbpedia.org/resource/Climates_(film);any;0.375;1.0;1.0;2015-06-02T00:47:23
 498300;Ido (2005);Drama|Horror|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:23
+498311;Gwai wik (2006);Fantasy|Horror|Mystery;http://dbpedia.org/resource/Re-cycle;perfect;1.0;1.0;0.333333333333;2015-07-06T21:32:03
 498329;We Live in Public (2009);Documentary;http://dbpedia.org/resource/We_Live_in_Public;perfect;1.0;1.0;1.0;2015-06-02T00:47:23
 498351;The Hero of Color City (2014);Animation|Family;;;0.0;0.0;0.0;2015-06-02T00:47:23
 498353;Hostel: Part II (2007);Horror;http://dbpedia.org/resource/Hostel:_Part_II;perfect;1.0;1.0;1.0;2015-06-02T00:47:23
@@ -11498,6 +11563,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 783532;Jerusalema (2008);Action|Crime|Drama;http://dbpedia.org/resource/Gangster's_Paradise:_Jerusalema;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:24
 783581;Shadow People (2007);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:24
 783598;Until Death (2007);Action|Drama|Thriller;http://dbpedia.org/resource/Until_Death;pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:24
+783661;Aldrig som första gången! (2006);Documentary|Animation|Short;;;0.0;0.0;0.0;2015-07-06T21:32:33
 783695;El cielo dividido (2006);Drama|Romance;http://dbpedia.org/resource/Broken_Sky_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:24
 783767;Angel (2007);Drama|Romance;http://dbpedia.org/resource/Angel_(2007_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:24
 783849;Un lever de rideau (2006);Short|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:24
@@ -12003,6 +12069,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 898367;The Road (2009);Adventure|Drama;http://dbpedia.org/resource/The_Road_(2009_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:24
 899106;Love Happens (2009);Drama|Romance;http://dbpedia.org/resource/Love_Happens;perfect;1.0;1.0;0.5;2015-06-02T00:47:24
 899128;100 Feet (2008);Horror|Thriller;http://dbpedia.org/resource/100_Feet;perfect;1.0;1.0;0.5;2015-06-02T00:47:24
+899154;The Key Man (2011);Crime|Drama|Thriller;;;0.0;0.0;0.0;2015-07-06T21:32:59
 900381;Putevoy obkhodchik (2007);Horror|Thriller;http://dbpedia.org/resource/Putevoy_obkhodchik;perfect;1.0;1.0;1.0;2015-06-02T00:47:25
 900387;Suite française (2014);Drama|Romance|War;;;0.0;0.0;0.0;2015-06-02T00:47:25
 901476;Bride Wars (2009);Comedy|Romance;http://dbpedia.org/resource/Bride_Wars;perfect;1.0;1.0;0.5;2015-06-02T00:47:25
@@ -12030,6 +12097,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 906665;Sukiyaki Western Django (2007);Action|Western;http://dbpedia.org/resource/Sukiyaki_Western_Django;perfect;1.0;1.0;0.5;2015-06-02T00:47:25
 906734;The Brøken (2008);Drama|Horror|Thriller;http://dbpedia.org/resource/The_Broken_(film);any;0.909090909091;1.0;0.666666666667;2015-06-02T00:47:25
 906778;Black Butterflies (2011);Drama;http://dbpedia.org/resource/Black_Butterflies;pattern;1.0;1.0;1.0;2015-06-02T00:47:25
+907134;Saneamento Básico, O Filme (2007);Comedy;http://dbpedia.org/resource/Saneamento_B%C3%A1sico;partial;0.961538461538;1.0;1.0;2015-07-06T21:33:05
 907301;Hasta el viento tiene miedo (2007);Drama|Horror|Mystery;http://dbpedia.org/resource/Hasta_el_viento_tiene_miedo;pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:25
 907657;Once (2006);Drama|Music|Romance;http://dbpedia.org/resource/Once_(film);perfect;1.0;0.999501495513;0.333333333333;2015-06-02T00:47:25
 907674;Amal (2007);Drama;http://dbpedia.org/resource/Amal_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:25
@@ -13005,6 +13073,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1176730;Google Me (2007);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:27
 1176740;Away We Go (2009);Comedy|Drama|Romance;http://dbpedia.org/resource/Away_We_Go;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:27
 1178197;Svetat e golyam i spasenie debne otvsyakade (2008);Drama;http://dbpedia.org/resource/The_World_Is_Big_and_Salvation_Lurks_Around_the_Corner;any;0.209302325581;1.0;1.0;2015-06-02T00:47:27
+1178640;Beer for My Horses (2008);Comedy;http://dbpedia.org/resource/Beer_for_My_Horses_(film);perfect;1.0;1.0;1.0;2015-07-06T21:33:07
 1178663;Whatever Works (2009);Comedy|Drama|Romance;http://dbpedia.org/resource/Whatever_Works;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:27
 1179025;Les aventures extraordinaires d'Adèle Blanc-Sec (2010);Action|Adventure|Fantasy|Mystery;http://dbpedia.org/resource/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film);perfect;1.0;1.0;0.75;2015-06-02T00:47:27
 1179031;Cold in July (2014);Drama|Thriller;http://dbpedia.org/resource/Cold_in_July_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:27
@@ -13417,6 +13486,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1259573;Red Riding: In the Year of Our Lord 1983 (2009);Crime|Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:28
 1259574;Red Riding: In the Year of Our Lord 1974 (2009);Crime|Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:28
 1259586;Promise (2008);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:28
+1260051;Deutschland 09 - 13 kurze Filme zur Lage der Nation (2009);Drama;;;0.0;0.0;0.0;2015-07-06T21:33:37
 1260365;On the Inside (2011);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:28
 1260502;Kôkaku kidôtai 2.0 (2008);Animation|Action|Crime|Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:28
 1260567;Dark House (2009);Horror|Thriller;http://dbpedia.org/resource/Dark_House;perfect;1.0;1.0;0.5;2015-06-02T00:47:28
@@ -13584,6 +13654,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1298643;Closed for the Season (2010);Horror|Thriller;http://dbpedia.org/resource/Closed_for_the_Season;perfect;1.0;1.0;1.0;2015-06-02T00:47:28
 1298649;The Watch (2012);Comedy|Sci-Fi;http://dbpedia.org/resource/The_Watch_(2012_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:28
 1298650;Pirates of the Caribbean: On Stranger Tides (2011);Action|Adventure|Fantasy;http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:28
+1300155;Alabama Moon (2009);Drama|Family;http://dbpedia.org/resource/Alabama_Moon_(film);perfect;1.0;1.0;0.5;2015-07-06T21:33:39
 1300159;Growth (2010);Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/Growth_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:28
 1300851;The Boondock Saints II: All Saints Day (2009);Action|Comedy|Crime|Drama|Thriller;http://dbpedia.org/resource/The_Boondock_Saints_II:_All_Saints_Day;perfect;1.0;1.0;0.4;2015-06-02T00:47:28
 1300854;Iron Man 3 (2013);Action|Sci-Fi|Thriller;http://dbpedia.org/resource/Iron_Man_3;pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:28
@@ -13763,6 +13834,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1339651;Frans Hals: Snapshots uit het verleden (2008);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:29
 1340107;Hævnen (2010);Drama;http://dbpedia.org/resource/In_a_Better_World;perfect;1.0;1.0;1.0;2015-06-02T00:47:29
 1340123;Samson and Delilah (2009);Drama|Romance;http://dbpedia.org/resource/Samson_and_Delilah_(2009_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:29
+1340138;Terminator Genisys (2015);Action|Adventure|Sci-Fi;http://dbpedia.org/resource/Terminator_Genisys;perfect;1.0;1.0;0.333333333333;2015-07-06T21:33:42
 1340425;DMT: The Spirit Molecule (2010);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:29
 1340552;Big Story in a Small City (2006);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:29
 1340773;Elektra Luxx (2010);Comedy|Drama;http://dbpedia.org/resource/Elektra_Luxx;perfect;1.0;1.0;0.5;2015-06-02T00:47:29
@@ -14532,6 +14604,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1529240;Brownian Movement (2010);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:31
 1529252;El hombre de al lado (2009);Comedy|Drama;http://dbpedia.org/resource/The_Man_Next_Door_(2010_film);perfect;1.0;0.99950223992;0.5;2015-06-02T00:47:31
 1529292;Das Ende ist mein Anfang (2010);Drama|Biography;http://dbpedia.org/resource/The_End_Is_My_Beginning;perfect;1.0;1.0;0.5;2015-06-02T00:47:31
+1529558;Hell Fire (2012);Horror;;;0.0;0.0;0.0;2015-07-06T21:34:27
 1529559;Hotel Lux (2011);Comedy;http://dbpedia.org/resource/Hotel_Lux_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:31
 1529564;Playing House (2010);Thriller;http://dbpedia.org/resource/Playing_House_(2011_film);partial;0.923076923077;1.0;1.0;2015-06-02T00:47:31
 1529569;De vrais mensonges (2010);Comedy|Romance;http://dbpedia.org/resource/De_vrais_mensonges;perfect;1.0;1.0;0.5;2015-06-02T00:47:31
@@ -15258,6 +15331,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1668200;Elle s'appelait Sarah (2010);Drama|War;http://dbpedia.org/resource/Sarah's_Key;perfect;1.0;1.0;0.0;2015-06-02T00:47:33
 1668209;Que pena tu vida (2010);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:33
 1668212;Sudor frío (2010);Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:33
+1669268;Awakened (2013);Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-07-06T21:34:47
 1669794;Au cul du loup (2011);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:33
 1669798;Légitime défense (2011);Crime|Drama|Mystery|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:33
 1670269;The Chateau Meroux (2011);Romance;;;0.0;0.0;0.0;2015-06-02T00:47:33
@@ -15449,6 +15523,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1705952;Tarzan (2013);Animation|Action|Adventure|Drama|Family|Mystery|Romance|Thriller;http://dbpedia.org/resource/Tarzan_(2013_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:33
 1705969;Becoming Chaz (2011);Documentary|Biography;;;0.0;0.0;0.0;2015-06-02T00:47:33
 1706317;Tezz (2012);Action|Drama;http://dbpedia.org/resource/Tezz;perfect;1.0;1.0;0.5;2015-06-02T00:47:33
+1706414;Kray (2010);Adventure|Drama|History;http://dbpedia.org/resource/The_Edge_(2010_film);perfect;1.0;1.0;0.333333333333;2015-07-06T21:34:53
 1706450;Molke Soleiman (2010);Drama|History|War;;;0.0;0.0;0.0;2015-06-02T00:47:33
 1706470;Weekender (2011);Drama|Music;http://dbpedia.org/resource/Weekender_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:33
 1706593;Chronicle (2012);Drama|Sci-Fi|Thriller;http://dbpedia.org/resource/Chronicle_(film);pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:33
@@ -15595,6 +15670,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1729674;Gone Missing (2013);Adventure|Crime|Drama|Thriller;http://dbpedia.org/resource/Border_Run;any;0.166666666667;0.999503229011;0.5;2015-06-02T00:47:34
 1730687;Darling Companion (2012);Drama;http://dbpedia.org/resource/Darling_Companion;perfect;1.0;1.0;1.0;2015-06-02T00:47:34
 1730689;Des vents contraires (2011);Drama|Mystery;;;0.0;0.0;0.0;2015-06-02T00:47:34
+1730714;Rubble Kings (2015);Documentary;;;0.0;0.0;0.0;2015-07-06T21:35:32
 1731141;Ender's Game (2013);Action|Adventure|Sci-Fi;http://dbpedia.org/resource/Ender's_Game_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:34
 1731229;The Depths (2010);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:34
 1731697;The Lords of Salem (2012);Horror|Thriller;http://dbpedia.org/resource/The_Lords_of_Salem_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:34
@@ -16353,6 +16429,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1890377;Bienvenue à bord (2011);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1890391;El muerto y ser feliz (2012);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1890417;Halley (2012);Drama|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:36
+1890455;Lost Lake (2012);Horror|Thriller;;;0.0;0.0;0.0;2015-07-06T21:36:00
 1890486;Nor'easter (2012);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1890493;Oosaravelli (2011);Action|Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:36
 1891757;Bol (2011);Crime|Drama|Thriller;http://dbpedia.org/resource/Bol_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:36
@@ -17183,6 +17260,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2101307;A Stranger in Paradise (2013);Thriller;http://dbpedia.org/resource/A_Stranger_in_Paradise;perfect;1.0;1.0;1.0;2015-06-02T00:47:38
 2101314;Anton Corbijn Inside Out (2012);Documentary|Biography;;;0.0;0.0;0.0;2015-06-02T00:47:38
 2101341;Dead Man Down (2013);Action|Crime|Drama|Thriller;http://dbpedia.org/resource/Dead_Man_Down;perfect;1.0;1.0;0.5;2015-06-02T00:47:38
+2101383;Knight of Cups (2015);Drama|Romance;http://dbpedia.org/resource/Knight_of_Cups_(film);perfect;1.0;1.0;1.0;2015-07-06T21:36:02
 2101441;Spring Breakers (2012);Comedy|Crime|Drama;http://dbpedia.org/resource/Spring_Breakers;perfect;1.0;1.0;1.0;2015-06-02T00:47:38
 2101473;The Physician (2013);Adventure|Drama|History;http://dbpedia.org/resource/The_Physician_(2013_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:38
 2101507;The Patrol (2013);Drama|War;http://dbpedia.org/resource/The_Patrol;perfect;1.0;1.0;0.0;2015-06-02T00:47:38
@@ -17253,6 +17331,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2112293;The Comedy (2012);Drama;http://dbpedia.org/resource/The_Comedy;perfect;1.0;1.0;1.0;2015-06-02T00:47:38
 2112335;Who's There? (2011);Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:38
 2112337;Words with Gods (2014);;;;0.0;0.0;0.0;2015-06-02T00:47:38
+2112981;"Julien &amp; Claire (2011)";Drama|Music|Romance;;;0.0;0.0;0.0;2015-07-06T21:36:41
 2113007;Michael Jackson: The Life of an Icon (2011);Documentary;http://dbpedia.org/resource/Michael_Jackson:_The_Life_of_an_Icon;pattern;1.0;1.0;0.0;2015-06-02T00:47:38
 2113075;The Inevitable Defeat of Mister and Pete (2013);Drama;http://dbpedia.org/resource/The_Inevitable_Defeat_of_Mister_&_Pete;perfect;1.0;1.0;1.0;2015-06-02T00:47:38
 2113091;To aru hikoushi e no tsuioku (2011);Animation|Action|Adventure;;;0.0;0.0;0.0;2015-06-02T00:47:38
@@ -17344,6 +17423,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2133233;Spiksplinter (2011);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:39
 2133239;I Declare War (2012);Action|Comedy|Drama;http://dbpedia.org/resource/I_Declare_War;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:39
 2133304;Buzkashi Boys (2012);Short|Drama;http://dbpedia.org/resource/Buzkashi_Boys;pattern;1.0;1.0;0.0;2015-06-02T00:47:39
+2133312;Royal Bengal Rahasya (2011);Thriller;;;0.0;0.0;0.0;2015-07-06T21:37:04
 2133333;The Color of Time (2012);Biography|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:39
 2134092;Le voyage extraordinaire (2011);Documentary;http://dbpedia.org/resource/A_Turtle's_Tale:_Sammy's_Adventures;partial;0.708333333333;0.999502734958;0.0;2015-06-02T00:47:39
 2136747;Asad (2012);Short|Adventure|Drama;http://dbpedia.org/resource/Asad_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:39
@@ -17750,6 +17830,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2229377;Enter the Dangerous Mind (2013);Thriller;;;0.0;0.0;0.0;2015-06-02T06:51:30
 2229499;Don Jon (2013);Comedy;http://dbpedia.org/resource/Don_Jon;perfect;1.0;1.0;1.0;2015-06-02T00:47:40
 2229511;Wer (2013);Horror;http://dbpedia.org/resource/Wer_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:40
+2229820;Skyborn (2012);Short|Adventure|Family;;;0.0;0.0;0.0;2015-07-06T21:37:37
 2229842;Table No.21 (2013);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2229848;Chashme Baddoor (2013);Comedy|Drama;http://dbpedia.org/resource/Chashme_Baddoor_(2013_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:40
 2230358;Curse of Chucky (2013);Action|Horror|Thriller;http://dbpedia.org/resource/Curse_of_Chucky;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:40
@@ -17789,6 +17870,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2236092;Come to My Voice (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2237822;Koch (2012);Documentary|Biography|History;http://dbpedia.org/resource/Koch_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:40
 2238050;White Bird in a Blizzard (2014);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:40
+2238470;The Stranger (2014);Drama|Horror|Mystery;http://dbpedia.org/resource/The_Stranger_(2014_film);perfect;1.0;1.0;0.0;2015-07-06T21:37:44
 2238839;Chun giu yu chi ming (2012);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2239832;Think Like a Man Too (2014);Comedy;http://dbpedia.org/resource/Think_Like_a_Man_Too;perfect;1.0;1.0;1.0;2015-06-02T00:47:40
 2240046;Pro Wrestlers vs Zombies (2014);Action|Comedy|Horror;http://dbpedia.org/resource/Pro_Wrestlers_vs_Zombies;pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:40
@@ -17858,6 +17940,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2251490;Eat Spirit Eat (2013);Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2251818;Beerland (2013);Documentary|Adventure|Biography;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2252304;Butter on the Latch (2013);Drama|Fantasy|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:40
+2252552;Gutshot Straight (2014);Action|Thriller;;;0.0;0.0;0.0;2015-07-06T21:38:09
 2252680;La gran familia española (2013);Comedy;http://dbpedia.org/resource/15_Years_and_One_Day;any;0.24;1.0;0.0;2015-06-02T00:47:40
 2253742;Al-too-bi: Riteon Too Beiseu (2012);Action|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2253939;Camille redouble (2012);Comedy;http://dbpedia.org/resource/Camille_Rewinds;perfect;1.0;1.0;0.0;2015-06-02T00:47:40
@@ -17909,6 +17992,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2267188;The Quiet Girl's Guide to Violence (2012);Short|Comedy|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2267712;Neposlusni (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:40
 2267998;Gone Girl (2014);Drama|Mystery|Thriller;http://dbpedia.org/resource/Gone_Girl_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:40
+2268016;Magic Mike XXL (2015);Comedy|Drama|Music;http://dbpedia.org/resource/Magic_Mike_XXL;perfect;1.0;1.0;0.666666666667;2015-07-06T21:38:13
 2268458;These Final Hours (2013);Drama|Thriller;http://dbpedia.org/resource/These_Final_Hours;perfect;1.0;1.0;0.5;2015-06-02T00:47:40
 2268573;Stranded (2013);Horror|Sci-Fi;http://dbpedia.org/resource/Stranded_(2013_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:40
 2268732;Museum Hours (2012);Drama;http://dbpedia.org/resource/Museum_Hours;perfect;1.0;1.0;1.0;2015-06-02T00:47:40
@@ -18119,6 +18203,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2318564;Chimères (2013);Drama|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:41
 2318625;Out in the Dark (2012);Drama|Romance;http://dbpedia.org/resource/Out_in_the_Dark;perfect;1.0;1.0;0.0;2015-06-02T00:47:41
 2318701;The Final Member (2012);Documentary|Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:41
+2319018;100% cachemire (2013);Comedy;http://dbpedia.org/resource/100%25_cachemire;perfect;1.0;1.0;0.0;2015-07-06T21:38:21
 2319580;The Grand Seduction (2013);Comedy;http://dbpedia.org/resource/The_Grand_Seduction;perfect;1.0;1.0;1.0;2015-06-02T00:47:41
 2319760;Girlfriend Boyfriend (2012);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:41
 2319797;Calloused Hands (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:41
@@ -18447,6 +18532,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2379318;Les beaux jours (2013);Romance;http://dbpedia.org/resource/Bright_Days_Ahead;partial;0.466666666667;1.0;1.0;2015-06-02T00:47:42
 2379386;In the Name of the King 3: The Last Mission (2014);Action|Adventure|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2379550;Peaches Does Herself (2012);Musical;http://dbpedia.org/resource/Peaches_Does_Herself;perfect;1.0;1.0;1.0;2015-06-02T00:47:42
+2379715;The Borderland (2014);Action|Thriller;http://dbpedia.org/resource/The_Borderlands_(2013_film);partial;0.928571428571;1.0;0.0;2015-07-06T21:38:46
 2379995;Hemel op Aarde (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2380131;Petropolis (2011);Animation|Short|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2380207;Stockholm (2013);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:42
@@ -18573,6 +18659,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2401181;Der Samurai (2014);Fantasy|Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2401213;Ivan Syla (2013);Adventure;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2401223;Richard Pryor: Omit the Logic (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:42
+2401597;Bellicher: Cel (2012);Action;;;0.0;0.0;0.0;2015-07-06T21:39:08
 2401619;De Club van Sinterklaas & Het Geheim van de Speelgoeddokter (2012);Family;;;0.0;0.0;0.0;2015-06-02T00:47:42
 2401621;De Marathon (2012);Comedy|Drama|Sport;http://dbpedia.org/resource/De_Marathon;pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:42
 2401711;O Tempo e o Vento (2013);Drama|Romance|War;;;0.0;0.0;0.0;2015-06-02T00:47:42
@@ -18672,6 +18759,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2416294;Rabba Main Kya Karoon (2013);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2416376;Swim Little Fish Swim (2013);Comedy|Drama|Music;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2416822;Doch (2012);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:43
+2417540;36 (2012);Drama;;;0.0;0.0;0.0;2015-07-06T21:39:15
 2417560;Filmistaan (2012);Comedy;http://dbpedia.org/resource/Filmistaan;perfect;1.0;1.0;0.0;2015-06-02T00:47:43
 2417650;30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo (2013);Comedy;http://dbpedia.org/resource/30_Nights_of_Paranormal_Activity_with_the_Devil_Inside_the_Girl_with_the_Dragon_Tattoo;perfect;1.0;1.0;1.0;2015-06-02T00:47:43
 2417854;Lucky Bastard (2013);Drama;http://dbpedia.org/resource/Lucky_Bastard_(2013_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:43
@@ -18708,6 +18796,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2427502;Snabba cash - Livet deluxe (2013);Crime|Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2427892;Tom à la ferme (2013);Drama;http://dbpedia.org/resource/Tom_at_the_Farm;perfect;1.0;1.0;1.0;2015-06-02T00:47:43
 2427968;Una famiglia perfetta (2012);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:43
+2428170;Creep (2014);Comedy|Horror|Romance;http://dbpedia.org/resource/Creep_(2014_film);perfect;1.0;1.0;0.333333333333;2015-07-06T21:39:18
 2428580;Suddenly It's Magic (2012);Comedy|Romance;http://dbpedia.org/resource/Suddenly_It's_Magic;perfect;1.0;1.0;0.5;2015-06-02T00:47:43
 2428872;Sao Karaoke (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2429074;G.B.F. (2013);Comedy;http://dbpedia.org/resource/G.B.F.;perfect;1.0;1.0;1.0;2015-06-02T00:47:43
@@ -18847,6 +18936,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2481480;Rob the Mob (2014);Crime|Drama;http://dbpedia.org/resource/Rob_the_Mob;perfect;1.0;1.0;1.0;2015-06-02T00:47:43
 2481496;Mercy (2014);Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2481512;Stockholm, Pennsylvania (2015);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T07:00:14
+2481554;Murder of a Cat (2014);Comedy|Thriller;;;0.0;0.0;0.0;2015-07-06T21:39:42
 2483050;Mai Stati Uniti (2013);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2483208;Way of the Wicked (2014);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:43
 2483260;The Pirate Fairy (2014);Animation|Fantasy;http://dbpedia.org/resource/The_Pirate_Fairy;perfect;1.0;1.0;0.5;2015-06-02T00:47:43
@@ -19006,6 +19096,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2547210;Born to Race: Fast Track (2014);Action;;;0.0;0.0;0.0;2015-06-02T00:47:44
 2548208;Poker Night (2014);Action|Crime|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:44
 2548738;Rich Hill (2014);Documentary|Biography|Drama;http://dbpedia.org/resource/Rich_Hill_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:44
+2549138;Little Hope Was Arson (2013);Documentary|Crime|Drama;;;0.0;0.0;0.0;2015-07-06T21:40:13
 2549540;Gekijoban Pocket Monster Best Wishes! Kyurem vs Seikenshi Keldeo (2012);Animation|Adventure|Family|Fantasy;;;0.0;0.0;0.0;2015-06-02T00:47:44
 2550838;Il peggior Natale della mia vita (2012);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:44
 2550884;Lokpal (2013);Thriller;http://dbpedia.org/resource/Lokpal_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:44
@@ -19240,6 +19331,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2636522;The Unbelievers (2013);Documentary|Biography|History|News;http://dbpedia.org/resource/The_Unbelievers;perfect;1.0;1.0;0.25;2015-06-02T00:47:45
 2636806;Shirley: Visions of Reality (2013);;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2637012;Mis peores amigos: Promedio rojo el regreso (2013);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:45
+2637276;Ted 2 (2015);Comedy;http://dbpedia.org/resource/Ted_2;perfect;1.0;1.0;1.0;2015-07-06T21:40:15
 2637294;Hot Tub Time Machine 2 (2015);Comedy|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2637378;Match (2014);Comedy|Drama|Music;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2637720;Ghost Adventures (2004);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:45
@@ -19340,6 +19432,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2679480;Sulemani Keeda (2014);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2679502;Spirital Phantoma (2013);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2679530;Natholi Oru Cheriya Meenalla (2013);Comedy;http://dbpedia.org/resource/Natholi_Oru_Cheriya_Meenalla;perfect;1.0;1.0;0.0;2015-06-02T00:47:45
+2683694;Kuzu (2014);Drama|Family;;;0.0;0.0;0.0;2015-07-06T21:40:23
 2689966;Broadway Idiot (2013);Documentary|Musical;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2689992;Avant que de tout perdre (2013);Short;http://dbpedia.org/resource/Just_Before_Losing_Everything;perfect;1.0;1.0;1.0;2015-06-02T00:47:45
 2690160;Poseidon Rex (2013);Action|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:45
@@ -19385,6 +19478,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2717558;On the Job (2013);Action|Crime|Drama|Thriller;http://dbpedia.org/resource/On_the_Job_(2013_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:45
 2717822;Blackhat (2015);Action|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2717860;The Riot Club (2014);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:45
+2718442;Wir waren Könige (2014);Thriller;;;0.0;0.0;0.0;2015-07-06T21:48:58
 2718492;Ida (2013);Drama;http://dbpedia.org/resource/Ida_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:45
 2718538;Líbánky (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2719094;Papusza (2013);Biography;;;0.0;0.0;0.0;2015-06-02T00:47:45
@@ -19522,6 +19616,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2795078;Gasland Part II (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:46
 2795414;Ladies and Gentleman (2013);Comedy;http://dbpedia.org/resource/Ladies_and_Gentleman;perfect;1.0;1.0;1.0;2015-06-02T00:47:46
 2796318;Mickey Virus (2013);Comedy|Thriller;http://dbpedia.org/resource/Mickey_Virus;perfect;1.0;1.0;0.5;2015-06-02T00:47:46
+2796678;The Opposite Sex (2014);Comedy;;;0.0;0.0;0.0;2015-07-06T21:49:22
 2796782;The Oscars (2014);Reality-TV;;;0.0;0.0;0.0;2015-06-02T00:47:46
 2797106;Way Back Home (2013);Drama;http://dbpedia.org/resource/Way_Back_Home_(2013_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:46
 2797242;Bombay Talkies (2013);Drama;http://dbpedia.org/resource/Bombay_Talkies_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:46
@@ -19845,6 +19940,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2972828;Rol (2013);Drama|History;;;0.0;0.0;0.0;2015-06-02T00:47:47
 2973408;David Bowie: Five Years (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:47
 2973516;Deo Web-toon: Ye-go Sal-in (2013);Crime|Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:47
+2974050;Cool Cat Saves the Kids (2015);Family;;;0.0;0.0;0.0;2015-07-06T21:49:54
 2975578;The Purge: Anarchy (2014);Action|Horror|Thriller;http://dbpedia.org/resource/The_Purge:_Anarchy;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:47
 2975666;Little Goat (2013);Short|Drama|Fantasy;;;0.0;0.0;0.0;2015-06-02T00:47:47
 2976172;Sixteen (2013);Drama|Romance|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:47
@@ -19933,6 +20029,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3008014;Gwansang (2013);Drama|History;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3008034;Four Sisters and a Wedding (2013);Comedy;http://dbpedia.org/resource/Four_Sisters_and_a_Wedding;perfect;1.0;1.0;0.0;2015-06-02T00:47:47
 3008180;Coming Home (2013);Documentary|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:47
+3008816;009-1: The End of the Beginning (2013);Action|Crime|Drama;;;0.0;0.0;0.0;2015-07-06T21:50:22
 3009070;The Goob (2014);Drama;;;0.0;0.0;0.0;2015-06-02T07:22:10
 3010462;DEFCON: The Documentary (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3010660;Stromberg - Der Film (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:47
@@ -19989,6 +20086,8 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3037406;The Trick Movie: The Last Stage (2014);Comedy|Mystery;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3037582;Povodyr (2014);Drama|History;;;0.0;0.0;0.0;2015-06-02T07:24:16
 3037916;Impression-xps160 (2013);Sci-Fi|Short|Drama|Mystery;;;0.0;0.0;0.0;2015-06-02T00:47:47
+3038142;Inner Demons (2014);Horror;http://dbpedia.org/resource/Inner_Demons;perfect;1.0;1.0;1.0;2015-07-06T21:50:29
+3038664;The Crossing (2014);Drama;http://dbpedia.org/resource/The_Crossing_(2014_film);perfect;1.0;1.0;1.0;2015-07-06T21:50:31
 3039174;Seupeeo (2008);Action|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3039378;Zombi kanikuly 3D (2013);Comedy|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3041334;Hidden Universe 3D (2013);Documentary;http://dbpedia.org/resource/Hidden_Universe_3D;perfect;1.0;1.0;1.0;2015-06-02T00:47:47
@@ -20085,6 +20184,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3089978;Sorg og glæde (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3090252;Dinosaur 13 (2014);Documentary|Adventure|Drama;http://dbpedia.org/resource/Dinosaur_13;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:47
 3090634;Eden (2014);Drama|History;http://dbpedia.org/resource/Eden_(2014_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:47
+3090670;Advantageous (2015);Drama|Family|Sci-Fi;;;0.0;0.0;0.0;2015-07-06T21:50:55
 3091242;Gente en sitios (2013);Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3091254;Soul (2013);Horror;http://dbpedia.org/resource/Soul_(2013_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:47
 3091272;Saibi (2013);Animation|Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:47
@@ -20294,6 +20394,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3195644;Insidious: Chapter 3 (2015);Horror;;;0.0;0.0;0.0;2015-06-03T08:59:31
 3196174;Borgríki 2 (2014);Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:48
 3196598;Sex: My British Job (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:48
+3197766;Saat po long 2 (2015);Action|Crime|Drama;;;0.0;0.0;0.0;2015-07-06T21:51:20
 3198244;Momzillas (2013);Comedy;http://dbpedia.org/resource/Momzillas;perfect;1.0;1.0;0.0;2015-06-02T00:47:48
 3198468;North 24 Kaatham (2013);Family;http://dbpedia.org/resource/North_24_Kaatham;perfect;1.0;1.0;0.0;2015-06-02T00:47:48
 3198652;Persona 3 (2013);Adventure;;;0.0;0.0;0.0;2015-06-02T00:47:48
@@ -20482,6 +20583,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3316960;Still Alice (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3317208;Anesthesia (2015);Drama;http://dbpedia.org/resource/Heartless_(2014_film);any;0.3;1.0;0.0;2015-06-02T09:10:27
 3317522;The Nightmare (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T09:10:57
+3317874;Charlie's Farm (2014);Horror;http://dbpedia.org/resource/Charlie's_Farm;pattern;1.0;1.0;0.0;2015-07-06T21:51:25
 3318750;Adult Beginners (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3319518;Zhapatlela 2 (2013);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3319702;Base 05 (2013);Short|Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:49
@@ -20496,6 +20598,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3327432;Rock Story (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3327624;Infini (2015);Drama|Sci-Fi|Thriller;;;0.0;0.0;0.0;2015-06-02T09:11:54
 3328054;Royal Shakespeare Company: Richard II (2013);;;;0.0;0.0;0.0;2015-06-02T00:47:49
+3328716;Paper Planes (2014);Family;;;0.0;0.0;0.0;2015-07-06T21:52:00
 3328724;17 Seconds (2013);Sport;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3329246;Pizza II: Villa (2013);Horror|Thriller;http://dbpedia.org/resource/Pizza_II:_Villa;perfect;1.0;1.0;0.5;2015-06-02T00:47:49
 3329526;Ashchorjyo Prodeep (2013);Drama;http://dbpedia.org/resource/Ashchorjyo_Prodeep;perfect;1.0;1.0;1.0;2015-06-02T00:47:49
@@ -20786,6 +20889,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3531852;Bhoothnath Returns (2014);Comedy|Drama|Horror;http://dbpedia.org/resource/Bhoothnath_Returns;pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:50
 3532296;Joe (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3532608;The Fluffy Movie: Unity Through Laughter (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
+3532850;Le père Noël (2014);Comedy;http://dbpedia.org/resource/Le_P%C3%A8re_No%C3%ABl;pattern;0.916666666667;1.0;1.0;2015-07-06T21:52:05
 3534282;Don Verdean (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3534602;The D Train (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T09:24:51
 3538766;Messi (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -20824,6 +20928,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3565264;Thegidi (2014);Drama;http://dbpedia.org/resource/Thegidi;perfect;1.0;1.0;0.0;2015-06-02T00:47:50
 3565354;Karar: The Deal (2014);Thriller;;;0.0;0.0;0.0;2015-06-02T09:27:55
 3565668;What's in the Basket? (2012);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:50
+3568340;The Glass Owl (2014);Short|Comedy|Crime;;;0.0;0.0;0.0;2015-07-06T21:52:31
 3569356;Not Cool (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3569652;Cuckoo (2014);Drama|Romance;http://dbpedia.org/resource/Cuckoo_(2014_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:50
 3569782;Jigarthanda (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -20878,6 +20983,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3613688;Bowling Balls (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T09:29:24
 3614516;Ankhon Dekhi (2013);Drama;http://dbpedia.org/resource/Ankhon_Dekhi;perfect;1.0;1.0;0.0;2015-06-02T00:47:50
 3614922;Helios (2015);Fantasy;;;0.0;0.0;0.0;2015-06-02T09:29:55
+3615366;My Jihad (2014);Short;;;0.0;0.0;0.0;2015-07-06T21:53:02
 3619772;Hate Story 2 (2014);Drama|Romance|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3619854;Creature (2014);Horror|Sci-Fi;http://dbpedia.org/resource/Creature_3D;partial;0.625;1.0;0.5;2015-06-02T00:47:50
 3620418;Boy 7 (2015);Action|Sci-Fi|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -20930,6 +21036,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3668452;Erlösung (2014);Short|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T09:34:37
 3671074;Romeo Ranjha (2014);Action;http://dbpedia.org/resource/Romeo_Ranjha;perfect;1.0;1.0;1.0;2015-06-02T00:47:50
 3671480;Szabadesés (2014);Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:50
+3671542;Holding the Man (2015);Drama;;;0.0;0.0;0.0;2015-07-06T21:53:31
 3671552;Jji-ra-si: Wi-heom-han So-moon (2014);Crime|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3672840;Tian jiang xiong shi (2015);Action|Adventure|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3674026;Un fidanzato per mia moglie (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -20942,6 +21049,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3677742;Saturday Night Live 40th Anniversary Special (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3678782;Badlapur (2015);Crime|Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:50
 3678938;Humpty Sharma Ki Dulhania (2014);Romance;http://dbpedia.org/resource/Humpty_Sharma_Ki_Dulhania;perfect;1.0;1.0;0.0;2015-06-02T00:47:50
+3679000;Any Body Can Dance 2 (2015);Musical;http://dbpedia.org/resource/ABCD_2;any;0.3;1.0;0.0;2015-07-06T21:53:39
 3680410;Last Cab to Darwin (2015);Drama;;;0.0;0.0;0.0;2015-06-07T09:58:56
 3681422;Uttama Villain (2015);Comedy;http://dbpedia.org/resource/Uttama_Villain;pattern;1.0;1.0;0.0;2015-06-07T09:59:21
 3681440;Yaamirukka Bayamey (2014);Comedy|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -20984,6 +21092,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3711466;Kukhnya v Parizhe (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3713030;I Am Michael (2015);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3713166;Cybernatural (2014);Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3715406;Atari: Game Over (2014);Documentary;;;0.0;0.0;0.0;2015-07-06T21:54:05
 3716142;Lekar Hum Deewana Dil (2014);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3717016;After the Ball (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T09:37:45
 3717324;Zombieworld (2015);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21010,6 +21119,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3742284;N.H 10 (2015);Crime|Drama|Mystery;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3743524;Balik (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3745620;Bogowie (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3746298;Vendetta (2015);Action|Drama;http://dbpedia.org/resource/Vendetta_(2015_film);perfect;1.0;1.0;0.0;2015-07-06T21:54:07
 3747978;Holy Ghost (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3751304;Boreg (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3753892;Werka (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21048,6 +21158,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3801314;Kaththi (2014);Action;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3802668;Govindudu Andari Vaadele (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3804332;Red Alert (2014);Documentary|Short|Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3804594;Bakk (2015);Comedy;;;0.0;0.0;0.0;2015-07-06T21:54:18
 3805180;Vsyo i srazu (2014);Comedy|Crime;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3805948;One Million Dubliners (2014);Documentary|Drama|History;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3807088;Under the Dome: Inside Chester's Mill (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21058,6 +21169,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3812730;A Midsummer Night's Dream (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3814486;"Bloed, Zweet &amp; Tranen (2015)";Biography|Music;;;0.0;0.0;0.0;2015-06-02T09:41:49
 3816458;Dead Rising (2015);Horror;;;0.0;0.0;0.0;2015-06-02T09:42:19
+3816614;Turkey Shoot (2014);Action;http://dbpedia.org/resource/Turkey_Shoot_(2014_film);perfect;1.0;1.0;1.0;2015-07-06T21:54:20
 3817848;Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3819668;Doragon bôru Z: Fukkatsu no 'F' (2015);Animation|Action|Adventure;;;0.0;0.0;0.0;2015-06-02T09:42:54
 3820346;Wonderbroeders (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21109,6 +21221,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3894344;Sivas (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3896016;The Continent (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3898504;Persona 3 the Movie: 2 Midsummer Knight's Dream (2014);Animation;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3904186;Tales of the Grim Sleeper (2014);Documentary|Crime;;;0.0;0.0;0.0;2015-07-06T21:54:51
 3904770;Ventos de Agosto (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3907180;"Remake, Remix, Rip-Off: About Copy Culture &amp; Turkish Pop Cinema (2014)";Documentary;;;0.0;0.0;0.0;2015-06-02T09:47:06
 3907370;Los enemigos del dolor (2014);;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21149,6 +21262,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3971732;Karisik Kaset (2014);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3971944;Goreyan Nu Daffa Karo (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3973036;Kyle Kinane: I Liked His Old Stuff Better (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3973410;Kaakkaa Muttai (2014);Drama;;;0.0;0.0;0.0;2015-07-06T21:55:21
 3973502;Infiltrant (2014);Crime|Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3973590;Mardan (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3973612;Stories of Our Lives (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21222,7 +21336,9 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4114744;Unutursam Fisilda (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4114758;Yoddha: The Warrior (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4114762;Ask Sana Benzer (2015);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
+4115932;Hollywood Adventures (2015);Action|Adventure|Comedy;;;0.0;0.0;0.0;2015-07-06T21:55:46
 4119030;Solnechnyy udar (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
+4126304;Cartel Land (2015);Documentary|Action|Drama;;;0.0;0.0;0.0;2015-07-06T21:56:17
 4126322;The Ataxian (2015);Documentary|Adventure|Drama;;;0.0;0.0;0.0;2015-06-09T12:20:56
 4127446;De Gravata e Unha Vermelha (2015);Documentary|Biography|Family;;;0.0;0.0;0.0;2015-06-02T09:55:50
 4129900;... E fuori nevica! (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T09:56:22
@@ -21246,6 +21362,8 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4168188;Chaar Sahibzaade (2014);Animation;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4170394;Shred Bots the Movie (2014);Short|Sport;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4170436;That Thing Called Tadhana (2014);Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
+4171544;Predator Dark Ages (2015);Short|Action;;;0.0;0.0;0.0;2015-07-06T21:56:39
+4172402;Audacity (2015);;http://dbpedia.org/resource/Najmia;any;0.125;1.0;0.0;2015-07-06T21:56:49
 4176776;Ryûzô to 7 nin no kobun tachi (2015);Action|Comedy;;;0.0;0.0;0.0;2015-06-02T09:59:51
 4180576;A Bridgend Story (2015);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4185572;The Hunting Ground (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -21281,8 +21399,10 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4271730;Alone (2015);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4271820;OK Kanmani (2015);Romance;;;0.0;0.0;0.0;2015-06-02T10:05:03
 4273144;Kapila (2014);Documentary|Biography|Music;;;0.0;0.0;0.0;2015-06-02T00:47:51
+4280012;Sifu vs. Vampire (2014);Action;;;0.0;0.0;0.0;2015-07-06T21:57:19
 4282866;WWE Royal Rumble (2015);Action;;;0.0;0.0;0.0;2015-06-02T00:47:51
 4282882;Hunger Z (2014);Comedy|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:52
+4283962;Humpback Whales (2015);Documentary;;;0.0;0.0;0.0;2015-07-06T21:57:51
 4284010;What Happened, Miss Simone? (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4285198;Pod elektricheskimi oblakami (2015);Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4285496;El abrazo de la serpiente (2015);Adventure;;;0.0;0.0;0.0;2015-06-17T10:27:44
@@ -21320,6 +21440,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4365412;"Filip &amp; Fredrik presenterar Trevligt folk (2015)";Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4368814;Louis C.K.: Live at the Comedy Store (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:08:29
 4374460;Aferim! (2015);Drama|History;;;0.0;0.0;0.0;2015-06-02T00:47:52
+4375438;El Club (2015);Drama;http://dbpedia.org/resource/The_Club_(2015_film);perfect;1.0;1.0;1.0;2015-07-06T21:57:53
 4377918;Crazy Beautiful You (2015);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4382552;Hot Girls Wanted (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T10:09:03
 4393514;Adam Curtis: Bitter Lake (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:52
@@ -21339,6 +21460,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4450706;Kocan Kadar Konus (2015);Comedy|Romance;;;0.0;0.0;0.0;2015-06-17T10:28:06
 4456036;Toz Ruhu (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:52
 4458206;Kod Adi K.O.Z. (2015);Comedy|Fantasy|History;;;0.0;0.0;0.0;2015-06-02T00:47:52
+4458296;Lift the World (2014);Documentary;;;0.0;0.0;0.0;2015-07-06T21:58:21
 4464702;Zhenshchiny protiv muzhchin (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:10:21
 4483094;Lucky Star 2015 (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:10:54
 4487766;Le leggi del desiderio (2015);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:52
@@ -21361,6 +21483,9 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4643844;Se Dio vuole (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:18:01
 4658908;Grandmother's Farm Part 2 (2015);Comedy|Horror|Thriller;;;0.0;0.0;0.0;2015-06-02T10:18:51
 4671280;Atari: Game Over (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T10:19:28
+4684028;Guddu Rangeela (2015);Comedy;;;0.0;0.0;0.0;2015-07-06T21:58:46
+4689268;Brothers in Blood: The Lions of Sabi Sand (2015);Documentary;;;0.0;0.0;0.0;2015-07-06T21:59:11
+4696222;N.L.L: Yeonpyeong Haejeon (2015);Documentary|Drama|War;;;0.0;0.0;0.0;2015-07-06T21:59:44
 4701688;Demonte Colony (2015);Horror|Thriller;;;0.0;0.0;0.0;2015-06-08T13:12:50
 4712818;Ali Kundilli (2015);Comedy;;;0.0;0.0;0.0;2015-06-07T10:03:14
 4730872;The Minister of Chance (2014);Short|Fantasy|Sci-Fi;;;0.0;0.0;0.0;2015-06-09T12:21:29
