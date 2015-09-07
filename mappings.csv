@@ -1,6 +1,6 @@
 id;title;genre;uri;method;tc;yc;gc;updated
 8;Edison Kinetoscopic Record of a Sneeze (1894);Documentary|Short;http://dbpedia.org/resource/Fred_Ott's_Sneeze;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-10;La sortie des usines Lumière (1895);Documentary|Short;http://dbpedia.org/resource/Workers_Leaving_the_Lumi%C3%A8re_Factory;any;0.620689655172;1.0;1.0;2015-06-02T00:47:01
+10;La sortie des usines Lumière (1895);Documentary|Short;http://dbpedia.org/resource/Workers_Leaving_the_Lumi%C3%A8re_Factory;perfect;1.0;1.0;1.0;2015-09-07T12:50:17
 12;The Arrival of a Train (1896);Documentary|Short;;;0.0;0.0;0.0;2015-08-24T08:01:22
 91;Le manoir du diable (1896);Short|Horror;http://dbpedia.org/resource/The_Haunted_Castle_(1896_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 417;Le voyage dans la lune (1902);Short|Adventure|Fantasy;http://dbpedia.org/resource/A_Trip_to_the_Moon;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
@@ -40,7 +40,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 7880;Easy Street (1917);Short|Comedy;http://dbpedia.org/resource/Easy_Street_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 8133;The Immigrant (1917);Short|Comedy|Drama|Romance;http://dbpedia.org/resource/The_Immigrant_(1917_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
 8395;Otets Sergiy (1918);Biography|Drama|History;;;0.0;0.0;0.0;2015-06-02T00:47:01
-9018;A Dog's Life (1918);Short|Comedy;http://dbpedia.org/resource/A_Dog's_Life;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+9018;A Dog's Life (1918);Short|Comedy;http://dbpedia.org/resource/A_Dog's_Life;perfect;1.0;1.0;0.5;2015-09-07T12:51:37
 9678;Take a Chance (1918);Comedy|Short;http://dbpedia.org/resource/Take_a_Chance_(1918_film);perfect;1.0;1.0;1.0;2015-09-03T14:27:55
 9968;Broken Blossoms or The Yellow Man and the Girl (1919);Drama|Romance;http://dbpedia.org/resource/Broken_Blossoms;pattern;0.326086956522;1.0;1.0;2015-06-02T00:47:01
 10247;Herr Arnes pengar (1919);Drama|History;http://dbpedia.org/resource/Sir_Arne's_Treasure;any;0.529411764706;1.0;0.5;2015-06-02T00:47:01
@@ -50,7 +50,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 11267;Headin' Home (1920);Biography|Comedy|Drama|Sport;http://dbpedia.org/resource/Heading_Home;any;0.916666666667;1.0;0.75;2015-06-02T00:47:01
 11508;Neighbors (1920);Short|Comedy|Romance;http://dbpedia.org/resource/Neighbors_(1920_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 11541;One Week (1920);Short|Comedy;http://dbpedia.org/resource/One_Week_(1920_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-11607;Prästänkan (1920);Comedy|Drama|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:01
+11607;Prästänkan (1920);Comedy|Drama|Horror;;;0.0;0.0;0.0;2015-09-07T12:51:46
 11717;The Son of Tarzan (1920);Action|Adventure;http://dbpedia.org/resource/The_Son_of_Tarzan_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 11841;Way Down East (1920);Drama|Romance;http://dbpedia.org/resource/Way_Down_East;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 11870;Within Our Gates (1920);Drama|Romance;http://dbpedia.org/resource/Within_Our_Gates;perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -64,7 +64,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 13140;Foolish Wives (1922);Drama;http://dbpedia.org/resource/Foolish_Wives;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 13257;Häxan (1922);Documentary|Horror;http://dbpedia.org/resource/H%C3%A4xan;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 13427;Nanook of the North (1922);Documentary;http://dbpedia.org/resource/Nanook_of_the_North;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-13442;Nosferatu, eine Symphonie des Grauens (1922);Horror;http://dbpedia.org/resource/Nosferatu;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+13442;Nosferatu, eine Symphonie des Grauens (1922);Horror;http://dbpedia.org/resource/Nosferatu;perfect;1.0;1.0;1.0;2015-09-07T12:50:19
 13626;La souriante Madame Beudet (1923);Drama;http://dbpedia.org/resource/La_Souriante_Madame_Beudet;partial;0.961538461538;0.999479979199;1.0;2015-06-02T00:47:01
 14142;The Hunchback of Notre Dame (1923);Drama|Romance;http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1923_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 14341;Our Hospitality (1923);Comedy|Family;http://dbpedia.org/resource/Our_Hospitality;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -72,7 +72,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 14429;Safety Last! (1923);Comedy|Romance|Thriller;http://dbpedia.org/resource/Safety_Last!;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 14532;The Ten Commandments (1923);Drama;http://dbpedia.org/resource/The_Ten_Commandments_(1923_film);perfect;1.0;1.0;1.0;2015-08-24T08:01:26
 14538;Three Ages (1923);Comedy;http://dbpedia.org/resource/Three_Ages;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-14624;A Woman of Paris: A Drama of Fate (1923);Drama|Romance;http://dbpedia.org/resource/A_Woman_of_Paris;any;0.484848484848;1.0;0.5;2015-06-02T00:47:01
+14624;A Woman of Paris: A Drama of Fate (1923);Drama|Romance;http://dbpedia.org/resource/A_Woman_of_Paris;any;0.484848484848;1.0;0.5;2015-09-07T12:51:54
 14664;Alice's Spooky Adventure (1924);Animation|Short|Comedy;;;0.0;0.0;0.0;2015-08-24T08:01:50
 14872;Entr'acte (1924);Short;http://dbpedia.org/resource/Entr'acte_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 14972;He Who Gets Slapped (1924);Drama|Thriller;http://dbpedia.org/resource/He_Who_Gets_Slapped;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -97,7 +97,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 16230;The Pleasure Garden (1925);Comedy|Crime|Drama|Romance|Thriller;http://dbpedia.org/resource/The_Pleasure_Garden_(film);perfect;1.0;1.0;0.4;2015-06-02T00:47:01
 16332;Seven Chances (1925);Comedy|Family|Romance;http://dbpedia.org/resource/Seven_Chances;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 16544;The Wizard of Oz (1925);Comedy|Family|Fantasy;http://dbpedia.org/resource/Wizard_of_Oz_(1925_film);any;0.75;1.0;0.666666666667;2015-06-02T00:47:01
-16600;Along Came Auntie (1926);Comedy|Short;http://dbpedia.org/resource/Along_Came_Auntie;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+16600;Along Came Auntie (1926);Comedy|Short;http://dbpedia.org/resource/Along_Came_Auntie;perfect;1.0;1.0;1.0;2015-09-07T12:51:57
 16847;Faust - Eine deutsche Volkssage (1926);Drama|Fantasy|Horror;http://dbpedia.org/resource/Faust_(1926_film);partial;0.967741935484;1.0;0.333333333333;2015-06-02T00:47:01
 16903;45 Minutes from Hollywood (1926);Short|Comedy;http://dbpedia.org/resource/45_Minutes_from_Hollywood;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 17075;The Lodger: A Story of the London Fog (1927);Crime|Drama|Mystery|Thriller;http://dbpedia.org/resource/The_Lodger:_A_Story_of_the_London_Fog;perfect;1.0;1.0;0.25;2015-06-02T00:47:01
@@ -108,7 +108,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 17668;Berlin: Die Sinfonie der Grosstadt (1927);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:01
 17729;Call of the Cuckoo (1927);Comedy|Short;http://dbpedia.org/resource/Call_of_the_Cuckoo;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 17765;College (1927);Comedy|Drama|Sport;http://dbpedia.org/resource/College_(1927_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
-17825;Downhill (1927);Adventure|Drama|Thriller;http://dbpedia.org/resource/Downhill_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+17825;Downhill (1927);Adventure|Drama|Thriller;http://dbpedia.org/resource/Downhill_(1927_film);perfect;1.0;1.0;0.333333333333;2015-09-07T12:51:59
 17836;Duck Soup (1927);Comedy|Short;http://dbpedia.org/resource/Duck_Soup_(1927_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 17841;East Side, West Side (1927);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
 17843;Easy Virtue (1928);Romance|Thriller;http://dbpedia.org/resource/Easy_Virtue_(1928_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -118,7 +118,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 18051;The Kid Brother (1927);Comedy|Drama|Family;http://dbpedia.org/resource/The_Kid_Brother;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 18106;Love 'Em and Weep (1927);Comedy|Short;http://dbpedia.org/resource/Love_'em_and_Weep;partial;0.941176470588;1.0;1.0;2015-06-02T00:47:01
 18192;Napoléon (1927);Biography|Drama|History;http://dbpedia.org/resource/Napol%C3%A9on_(1927_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
-18217;Oktyabr (1928);Drama|History;http://dbpedia.org/resource/October:_Ten_Days_That_Shook_the_World;any;0.571428571429;1.0;0.0;2015-06-02T00:47:01
+18217;Oktyabr (1928);Drama|History;http://dbpedia.org/resource/October:_Ten_Days_That_Shook_the_World;any;0.571428571429;1.0;0.0;2015-09-07T12:52:07
 18294;Putting Pants on Philip (1927);Comedy|Short;http://dbpedia.org/resource/Putting_Pants_on_Philip;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 18328;The Ring (1927);Drama|Romance|Thriller;http://dbpedia.org/resource/The_Ring_(1927_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 18356;Sailors, Beware! (1927);Short|Comedy;http://dbpedia.org/resource/Sailors,_Beware!;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
@@ -126,7 +126,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 18452;Sugar Daddies (1927);Comedy|Short;http://dbpedia.org/resource/Sugar_Daddies;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 18455;Sunrise: A Song of Two Humans (1927);Drama|Romance;http://dbpedia.org/resource/Sunrise:_A_Song_of_Two_Humans;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 18526;Underworld (1927);Crime|Drama|Romance;http://dbpedia.org/resource/Underworld_(1927_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
-18528;The Unknown (1927);Drama|Horror|Romance;http://dbpedia.org/resource/The_Unknown_(1927_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+18528;The Unknown (1927);Drama|Horror|Romance;http://dbpedia.org/resource/The_Unknown_Soldier_(1926_film);pattern;0.272727272727;1.0;0.333333333333;2015-09-07T12:50:38
 18578;Wings (1927);Drama|Romance|War|Action;http://dbpedia.org/resource/Wings_(1927_film);perfect;1.0;1.0;0.75;2015-06-02T00:47:01
 18583;With Love and Hisses (1927);Comedy|Short;http://dbpedia.org/resource/With_Love_and_Hisses;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 18684;Beggars of Life (1928);Adventure|Drama;http://dbpedia.org/resource/Beggars_of_Life;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
@@ -143,7 +143,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 19195;The Mysterious Lady (1928);Drama|Romance;http://dbpedia.org/resource/The_Mysterious_Lady;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 19254;La passion de Jeanne d'Arc (1928);Biography|Drama|History;http://dbpedia.org/resource/The_Passion_of_Joan_of_Arc;partial;0.961538461538;1.0;0.0;2015-06-02T00:47:01
 19286;Potomok Chingis-Khana (1928);Drama|History|War;;;0.0;0.0;0.0;2015-06-02T00:47:01
-19344;Sadie Thompson (1928);Drama;http://dbpedia.org/resource/Sadie_Thompson;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+19344;Sadie Thompson (1928);Drama;http://dbpedia.org/resource/Sadie_Thompson;perfect;1.0;1.0;1.0;2015-09-07T12:52:09
 19376;Should Married Men Go Home? (1928);Comedy|Short;http://dbpedia.org/resource/Should_Married_Men_Go_Home%3F;partial;0.961538461538;1.0;1.0;2015-06-02T00:47:01
 19421;Steamboat Bill, Jr. (1928);Action|Comedy|Drama|Family|Romance;http://dbpedia.org/resource/Steamboat_Bill_Jr.;partial;0.947368421053;1.0;0.2;2015-06-02T00:47:01
 19422;Steamboat Willie (1928);Animation|Family|Comedy;http://dbpedia.org/resource/Gang_War;any;0.1875;1.0;0.0;2015-06-02T00:47:01
@@ -157,10 +157,10 @@ id;title;genre;uri;method;tc;yc;gc;updated
 19607;You're Darn Tootin' (1928);Short|Comedy|Music;http://dbpedia.org/resource/You're_Darn_Tootin';perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 19686;Berth Marks (1929);Short|Comedy;http://dbpedia.org/resource/Berth_Marks;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 19688;Big Business (1929);Short|Comedy|Family;http://dbpedia.org/resource/Big_Business_(1929_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
-19702;Blackmail (1929);Crime|Thriller;http://dbpedia.org/resource/Blackmail_(1929_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+19702;Blackmail (1929);Crime|Thriller;http://dbpedia.org/resource/Blackmail_(1929_film);perfect;1.0;1.0;0.5;2015-09-07T12:52:11
 19729;The Broadway Melody (1929);Musical|Romance;http://dbpedia.org/resource/The_Broadway_Melody;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-19760;Chelovek s kino-apparatom (1929);Documentary;http://dbpedia.org/resource/Man_with_a_Movie_Camera;any;0.88;1.0;1.0;2015-06-02T00:47:01
-19777;The Cocoanuts (1929);Comedy|Musical;http://dbpedia.org/resource/The_Cocoanuts;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+19760;Chelovek s kino-apparatom (1929);Documentary;http://dbpedia.org/resource/Man_with_a_Movie_Camera;any;0.88;1.0;1.0;2015-09-07T12:52:22
+19777;The Cocoanuts (1929);Comedy|Musical;http://dbpedia.org/resource/The_Cocoanuts;perfect;1.0;1.0;1.0;2015-09-07T12:52:24
 19832;Double Whoopee (1929);Comedy|Short;http://dbpedia.org/resource/Double_Whoopee;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 19838;Drifters (1929);Documentary;http://dbpedia.org/resource/Drifters_(1929_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 19901;Frau im Mond (1929);Comedy|Drama|Romance|Sci-Fi;http://dbpedia.org/resource/Woman_in_the_Moon;perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -197,13 +197,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 20987;Hook Line and Sinker (1930);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:01
 21013;Journey's End (1930);Drama|War;http://dbpedia.org/resource/Journey's_End_(1930_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 21054;The Laurel-Hardy Murder Case (1930);Comedy|Short|Crime|Mystery;http://dbpedia.org/resource/The_Laurel-Hardy_Murder_Case;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
-21079;Little Caesar (1931);Crime|Drama;http://dbpedia.org/resource/Little_Caesar_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+21079;Little Caesar (1931);Crime|Drama;http://dbpedia.org/resource/Little_Caesar_(film);perfect;1.0;1.0;1.0;2015-09-07T12:52:26
 21156;Morocco (1930);Romance|Drama;http://dbpedia.org/resource/Morocco_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 21165;Murder! (1930);Crime|Mystery|Thriller;http://dbpedia.org/resource/Murder!;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 21182;Night Owls (1930);Short|Comedy;http://dbpedia.org/resource/Night_Owls_(1930_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 21283;Rakudai wa shitakeredo (1930);;;;0.0;0.0;0.0;2015-06-02T00:47:01
 21331;Le sang d'un poète (1932);Drama|Fantasy;;;0.0;0.0;0.0;2015-06-02T00:47:01
-21406;Sono yo no tsuma (1930);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
+21406;Sono yo no tsuma (1930);Drama;;;0.0;0.0;0.0;2015-09-07T12:52:54
 21409;Sous les toits de Paris (1930);Comedy|Drama|Romance;http://dbpedia.org/resource/Under_the_Roofs_of_Paris;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 21542;Westfront 1918: Vier von der Infanterie (1930);Drama|Romance|War;;;0.0;0.0;0.0;2015-08-24T08:02:15
 21571;Zemlya (1930);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
@@ -211,7 +211,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 21577;L'âge d'or (1930);Comedy|Drama;http://dbpedia.org/resource/L'Age_d'Or;perfect;1.0;1.0;0.0;2015-06-02T00:47:01
 21636;The Bad Sister (1931);Drama;;;0.0;0.0;0.0;2015-08-24T08:02:40
 21738;Chickens Come Home- (1931);Short|Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:01
-21739;La chienne (1931);Drama;http://dbpedia.org/resource/La_Chienne;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+21739;La chienne (1931);Drama;http://dbpedia.org/resource/La_Chienne;perfect;1.0;1.0;1.0;2015-09-07T12:53:00
 21746;Cimarron (1931);Drama|Western;http://dbpedia.org/resource/Cimarron_(1931_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 21749;City Lights (1931);Comedy|Drama|Romance;http://dbpedia.org/resource/City_Lights;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 21755;Come Clean (1931);Short|Comedy;http://dbpedia.org/resource/Come_Clean_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -221,7 +221,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 21885;A Free Soul (1931);Crime|Drama|Romance;http://dbpedia.org/resource/A_Free_Soul;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 22017;Kameradschaft (1931);Drama;http://dbpedia.org/resource/Kameradschaft;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22048;Shukujo to hige (1931);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:01
-22058;Laughing Gravy (1931);Short|Comedy;http://dbpedia.org/resource/Laughing_Gravy;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+22058;Laughing Gravy (1931);Short|Comedy;http://dbpedia.org/resource/Laughing_Gravy;perfect;1.0;1.0;1.0;2015-09-07T12:53:13
 22080;Limite (1931);Drama|Romance;http://dbpedia.org/resource/Limite;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 22100;M (1931);Crime|Drama|Film-Noir|Thriller;http://dbpedia.org/resource/M_(1931_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
 22125;Marius (1931);Comedy|Drama|Romance;http://dbpedia.org/resource/Marius_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
@@ -230,12 +230,12 @@ id;title;genre;uri;method;tc;yc;gc;updated
 22204;Niemandsland (1931);Drama|War;http://dbpedia.org/resource/Hell_on_Earth_(1931_film);partial;0.666666666667;1.0;0.5;2015-08-24T08:02:47
 22208;Night Nurse (1931);Crime|Drama|Mystery;http://dbpedia.org/resource/Night_Nurse_(1931_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 22251;Pardon Us (1931);Comedy|Crime|Drama|Musical;http://dbpedia.org/resource/Pardon_Us;perfect;1.0;1.0;0.25;2015-06-02T00:47:01
-22279;Private Lives (1931);Comedy|Drama;http://dbpedia.org/resource/Private_Lives_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+22279;Private Lives (1931);Comedy|Drama;http://dbpedia.org/resource/Private_Lives_(film);perfect;1.0;1.0;0.5;2015-09-07T12:53:16
 22286;The Public Enemy (1931);Crime|Drama;http://dbpedia.org/resource/The_Public_Enemy;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22395;The Skin Game (1931);Drama;http://dbpedia.org/resource/The_Skin_Game_(1931_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22403;Smart Money (1931);Crime|Drama;http://dbpedia.org/resource/Smart_Money_(1931_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22454;Svengali (1931);Drama|Horror|Sci-Fi;http://dbpedia.org/resource/Svengali_(1931_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
-22458;Tabu: A Story of the South Seas (1931);Drama|Romance|Adventure;http://dbpedia.org/resource/Tabu_(1931_film);partial;1.0;0.99948213361;0.666666666667;2015-06-02T00:47:01
+22458;Tabu: A Story of the South Seas (1931);Drama|Romance|Adventure;http://dbpedia.org/resource/Tabu_(1931_film);partial;1.0;1.0;0.666666666667;2015-09-07T12:53:42
 22462;Taris, roi de l'eau (1931);Documentary|Short;http://dbpedia.org/resource/Jean_Taris,_Swimming_Champion;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22495;Trader Horn (1931);Adventure|Romance;http://dbpedia.org/resource/Trader_Horn_(1931_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 22517;Under 18 (1931);Romance|Drama;http://dbpedia.org/resource/Under_18;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -268,7 +268,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 23249;Murders in the Rue Morgue (1932);Crime|Horror|Mystery;http://dbpedia.org/resource/Murders_in_the_Rue_Morgue_(1932_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 23251;The Music Box (1932);Comedy|Short;http://dbpedia.org/resource/The_Music_Box;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 23266;Night After Night (1932);Drama;http://dbpedia.org/resource/Night_After_Night_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-23285;Number Seventeen (1932);Crime|Mystery|Thriller;http://dbpedia.org/resource/Number_Seventeen;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+23285;Number Seventeen (1932);Crime|Mystery|Thriller;http://dbpedia.org/resource/Number_Seventeen;perfect;1.0;1.0;0.333333333333;2015-09-07T12:53:44
 23300;On the Loose (1931);Comedy|Short;http://dbpedia.org/resource/On_the_Loose_(1931_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 23302;Once in a Lifetime (1932);Comedy;http://dbpedia.org/resource/Once_in_a_Lifetime_(1932_film);perfect;1.0;1.0;1.0;2015-08-24T08:02:49
 23303;One Hour with You (1932);Comedy|Musical|Romance;http://dbpedia.org/resource/One_Hour_with_You;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
@@ -289,8 +289,8 @@ id;title;genre;uri;method;tc;yc;gc;updated
 23634;Otona no miru ehon - Umarete wa mita keredo (1932);Comedy|Drama;http://dbpedia.org/resource/I_Was_Born,_But...;any;0.232558139535;1.0;0.0;2015-06-02T00:47:01
 23640;Unheimliche Geschichten (1932);Comedy|Sci-Fi|Horror;http://dbpedia.org/resource/Unheimliche_Geschichten;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 23642;Union Depot (1932);Comedy|Drama|Romance;http://dbpedia.org/resource/Union_Depot_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:01
-23649;Vampyr (1932);Horror;http://dbpedia.org/resource/Vampyr;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-23685;The Wet Parade (1932);Drama|History|Romance;http://dbpedia.org/resource/The_Wet_Parade;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+23649;Vampyr (1932);Horror;http://dbpedia.org/resource/Vampyr;perfect;1.0;1.0;1.0;2015-09-07T12:53:46
+23685;The Wet Parade (1932);Drama|History|Romance;http://dbpedia.org/resource/The_Wet_Parade;perfect;1.0;1.0;0.333333333333;2015-09-07T12:53:48
 23686;What Price Hollywood? (1932);Drama;http://dbpedia.org/resource/What_Price_Hollywood%3F;partial;0.95;1.0;1.0;2015-06-02T00:47:01
 23694;White Zombie (1932);Horror;http://dbpedia.org/resource/White_Zombie_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 23753;Alice in Wonderland (1933);Adventure|Family|Fantasy;http://dbpedia.org/resource/Alice_in_Wonderland_(1933_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
@@ -308,27 +308,27 @@ id;title;genre;uri;method;tc;yc;gc;updated
 24034;42nd Street (1933);Comedy|Musical|Romance;http://dbpedia.org/resource/42nd_Street_(film);pattern;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 24069;Gold Diggers of 1933 (1933);Comedy|Drama|Musical;http://dbpedia.org/resource/Gold_Diggers_of_1933;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 24092;Havana Widows (1933);Comedy;http://dbpedia.org/resource/Havana_Widows;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-24120;Hijôsen no onna (1933);Crime|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:01
-24124;His Private Secretary (1933);Comedy|Romance;http://dbpedia.org/resource/His_Private_Secretary;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+24120;Hijôsen no onna (1933);Crime|Drama|Romance;http://dbpedia.org/resource/Dragnet_Girl;any;0.2;1.0;0.333333333333;2015-09-07T12:53:57
+24124;His Private Secretary (1933);Comedy|Romance;http://dbpedia.org/resource/His_Private_Secretary;perfect;1.0;1.0;0.5;2015-09-07T12:53:59
 24166;I'm No Angel (1933);Comedy|Musical|Romance;http://dbpedia.org/resource/I'm_No_Angel;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 24183;International House (1933);Comedy;http://dbpedia.org/resource/International_House_(1933_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-24184;The Invisible Man (1933);Drama|Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/The_Invisible_Man_(1933_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
+24184;The Invisible Man (1933);Drama|Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/The_Invisible_Man_(film);perfect;1.0;1.0;0.25;2015-09-07T12:54:01
 24188;Island of Lost Souls (1932);Adventure|Horror|Romance|Sci-Fi;http://dbpedia.org/resource/Island_of_Lost_Souls_(1932_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
 24216;King Kong (1933);Adventure|Fantasy|Horror;http://dbpedia.org/resource/King_Kong_(1933_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 24252;Liebelei (1933);Drama|Romance;http://dbpedia.org/resource/Liebelei_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 24264;Little Women (1933);Drama|Family|Romance;http://dbpedia.org/resource/Little_Women_(1933_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
-24316;Me and My Pal (1933);Short|Comedy;http://dbpedia.org/resource/Me_and_My_Pal_(1933_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+24316;Me and My Pal (1933);Short|Comedy;http://dbpedia.org/resource/Me_and_My_Pal_(1933_film);perfect;1.0;1.0;1.0;2015-09-07T12:54:03
 24353;Morning Glory (1933);Drama|Romance;http://dbpedia.org/resource/Morning_Glory_(1933_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 24473;The Private Life of Henry VIII. (1933);Biography|Comedy|Drama;http://dbpedia.org/resource/The_Private_Life_of_Henry_VIII;any;0.967741935484;1.0;0.0;2015-06-02T00:48:58
 24481;Queen Christina (1933);Biography|Drama|History|Romance;http://dbpedia.org/resource/Queen_Christina_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
 24548;She Done Him Wrong (1933);Comedy|Drama|History|Musical|Romance;http://dbpedia.org/resource/She_Done_Him_Wrong;perfect;1.0;1.0;0.2;2015-06-02T00:47:01
-24554;A Shriek in the Night (1933);Comedy|Crime|Mystery;http://dbpedia.org/resource/A_Shriek_in_the_Night;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+24554;A Shriek in the Night (1933);Comedy|Crime|Mystery;http://dbpedia.org/resource/A_Shriek_in_the_Night;perfect;1.0;1.0;0.333333333333;2015-09-07T12:54:05
 24601;Sons of the Desert (1933);Comedy;http://dbpedia.org/resource/Sons_of_the_Desert;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 24660;Three Little Pigs (1933);Animation|Musical|Family|Comedy|Short;http://dbpedia.org/resource/Three_Little_Pigskins;partial;0.764705882353;0.999482669426;0.2;2015-06-02T00:47:01
 24747;Waltzes from Vienna (1934);Biography|Music|Romance;http://dbpedia.org/resource/Waltzes_from_Vienna;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 24803;Zéro de conduite: Jeunes diables au collège (1933);Short|Comedy|Drama;http://dbpedia.org/resource/Zero_for_Conduct;any;0.466666666667;1.0;0.0;2015-06-02T00:47:01
 24831;Anne of Green Gables (1934);Comedy|Drama|Family;http://dbpedia.org/resource/Anne_of_Green_Gables_(1934_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
-24844;L'Atalante (1934);Drama|Romance;http://dbpedia.org/resource/L'Atalante;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+24844;L'Atalante (1934);Drama|Romance;http://dbpedia.org/resource/L'Atalante;perfect;1.0;1.0;0.5;2015-09-07T12:54:07
 24873;Belle of the Nineties (1934);Comedy|Drama;http://dbpedia.org/resource/Belle_of_the_Nineties;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 24894;The Black Cat (1934);Horror|Crime|Adventure|Thriller;http://dbpedia.org/resource/The_Black_Cat_(1934_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:01
 24914;Bright Eyes (1934);Comedy|Drama|Family;http://dbpedia.org/resource/Bright_Eyes_(1934_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -337,13 +337,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 25004;The Count of Monte Cristo (1934);Action|Adventure|Drama;http://dbpedia.org/resource/The_Count_of_Monte_Cristo_(1934_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 25132;Forsaking All Others (1934);Comedy|Drama|Romance;http://dbpedia.org/resource/Forsaking_All_Others;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 25164;The Gay Divorcee (1934);Comedy|Musical|Romance;http://dbpedia.org/resource/The_Gay_Divorcee;perfect;1.0;1.0;0.666666666667;2015-08-24T08:02:53
-25263;Hollywood Party (1934);Comedy|Musical;http://dbpedia.org/resource/Hollywood_Party_(1934_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
+25263;Hollywood Party (1934);Comedy|Musical;;;0.0;0.0;0.0;2015-09-07T12:54:30
 25272;The House of Rothschild (1934);Biography|Drama|History;http://dbpedia.org/resource/La_Cucaracha_(1934_film);any;0.173913043478;1.0;0.0;2015-06-02T00:47:01
 25290;I've Got Your Number (1934);Comedy|Romance;http://dbpedia.org/resource/I've_Got_Your_Number;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 25301;Imitation of Life (1934);Drama|Romance;http://dbpedia.org/resource/Imitation_of_Life_(1934_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
-25316;It Happened One Night (1934);Comedy|Romance;http://dbpedia.org/resource/It_Happened_One_Night;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+25316;It Happened One Night (1934);Comedy|Romance;http://dbpedia.org/resource/It_Happened_One_Night;perfect;1.0;1.0;0.5;2015-09-07T12:54:32
 25318;It's a Gift (1934);Comedy;http://dbpedia.org/resource/It's_a_Gift;perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-25330;Jimmy the Gent (1934);Comedy|Crime|Drama|Romance;http://dbpedia.org/resource/Jimmy_the_Gent_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+25330;Jimmy the Gent (1934);Comedy|Crime|Drama|Romance;http://dbpedia.org/resource/Jimmy_the_Gent_(film);perfect;1.0;1.0;0.5;2015-09-07T12:54:34
 25335;Judge Priest (1934);Comedy|Drama|Romance;http://dbpedia.org/resource/Judge_Priest;perfect;1.0;1.0;0.333333333333;2015-06-02T00:48:59
 25373;The Lawless Frontier (1934);Romance|Western;http://dbpedia.org/resource/The_Lawless_Frontier;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 25409;The Little Minister (1934);Drama|Romance;http://dbpedia.org/resource/The_Little_Minister;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -351,7 +351,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 25452;The Man Who Knew Too Much (1934);Crime|Mystery|Thriller;http://dbpedia.org/resource/The_Man_Who_Knew_Too_Much_(1934_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 25456;Man of Aran (1934);Documentary;http://dbpedia.org/resource/Man_of_Aran;perfect;1.0;1.0;0.0;2015-06-02T00:47:01
 25461;Mandalay (1934);Drama;http://dbpedia.org/resource/Mandalay_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
-25464;Manhattan Melodrama (1934);Crime|Drama|Romance;http://dbpedia.org/resource/Manhattan_Melodrama;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
+25464;Manhattan Melodrama (1934);Crime|Drama|Romance;http://dbpedia.org/resource/Manhattan_Melodrama;perfect;1.0;1.0;0.666666666667;2015-09-07T12:54:36
 25492;The Merry Frinks (1934);Comedy|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
 25494;Merry Wives of Reno (1934);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:01
 25586;Of Human Bondage (1934);Drama|Romance;http://dbpedia.org/resource/Of_Human_Bondage_(1934_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -393,7 +393,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 26971;A Scream in the Night (1935);Crime|Mystery|Thriller;http://dbpedia.org/resource/A_Scream_in_the_Night;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 26983;She (1935);Adventure|Fantasy|Romance;http://dbpedia.org/resource/She_(1935_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:49:04
 27075;A Tale of Two Cities (1935);Drama|History|Romance;http://dbpedia.org/resource/A_Tale_of_Two_Cities_(1935_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
-27089;Thicker Than Water (1935);Comedy|Short;http://dbpedia.org/resource/Thicker_than_Water_(1935_film);pattern;0.944444444444;1.0;1.0;2015-06-02T00:47:01
+27089;Thicker Than Water (1935);Comedy|Short;http://dbpedia.org/resource/Thicker_than_Water_(1935_film);pattern;0.944444444444;1.0;1.0;2015-09-07T12:54:40
 27113;Tit for Tat (1935);Comedy|Short|Family;http://dbpedia.org/resource/Tit_for_Tat_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 27125;Top Hat (1935);Comedy|Musical|Romance;http://dbpedia.org/resource/Top_Hat;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 27131;The Tunnel (1935);Drama|Sci-Fi;http://dbpedia.org/resource/The_Tunnel_(1935_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -409,7 +409,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 27478;Le crime de Monsieur Lange (1936);Comedy|Crime|Drama;http://dbpedia.org/resource/The_Crime_of_Monsieur_Lange;partial;0.961538461538;1.0;0.666666666667;2015-06-02T00:47:01
 27481;The Crimes of Stephen Hawke (1936);Crime|Drama|Thriller;http://dbpedia.org/resource/The_Crimes_of_Stephen_Hawke;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 27532;Dodsworth (1936);Drama|Romance;http://dbpedia.org/resource/Dodsworth_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
-27545;Dracula's Daughter (1936);Drama|Fantasy|Horror;http://dbpedia.org/resource/Dracula's_Daughter;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
+27545;Dracula's Daughter (1936);Drama|Fantasy|Horror;http://dbpedia.org/resource/Dracula's_Daughter;perfect;1.0;1.0;0.333333333333;2015-09-07T12:54:42
 27630;Follow the Fleet (1936);Comedy|Musical|Romance;http://dbpedia.org/resource/Follow_the_Fleet;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 27652;Fury (1936);Crime|Drama|Film-Noir|Romance|Thriller;http://dbpedia.org/resource/Fury_(1936_film);perfect;1.0;1.0;0.4;2015-06-02T00:47:01
 27657;The Garden of Allah (1936);Drama|Romance;http://dbpedia.org/resource/The_Garden_of_Allah_(1936_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -447,7 +447,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 28944;De goede aarde (1937);Drama|Romance;http://dbpedia.org/resource/The_Good_Earth_(film);any;0.5;1.0;0.5;2015-06-02T00:47:01
 28950;La grande illusion (1937);Drama|War;http://dbpedia.org/resource/La_Grande_Illusion;partial;0.944444444444;1.0;1.0;2015-06-02T00:47:01
 28988;Heidi, het stiefkind (1937);Family|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
-29146;The Life of Emile Zola (1937);Biography|Drama;http://dbpedia.org/resource/The_Life_of_Emile_Zola;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+29146;The Life of Emile Zola (1937);Biography|Drama;http://dbpedia.org/resource/The_Life_of_Emile_Zola;perfect;1.0;1.0;0.5;2015-09-07T12:50:40
 29162;Lost Horizon (1937);Adventure|Drama|Fantasy;http://dbpedia.org/resource/Lost_Horizon_(1937_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
 29179;Madame X (1937);Drama;http://dbpedia.org/resource/Madame_X_(1937_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 29192;Make Way for Tomorrow (1937);Drama|Romance;http://dbpedia.org/resource/Make_Way_for_Tomorrow;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
@@ -464,13 +464,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 29604;Stage Door (1937);Comedy|Drama;http://dbpedia.org/resource/Stage_Door;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
 29606;A Star Is Born (1937);Drama;http://dbpedia.org/resource/A_Star_Is_Born_(1937_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 29608;Stella Dallas (1937);Drama|Romance;http://dbpedia.org/resource/Stella_Dallas_(1937_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:01
-29658;They Won't Forget (1937);Drama|Mystery;http://dbpedia.org/resource/They_Won't_Forget;perfect;1.0;1.0;0.5;2015-06-02T00:47:01
+29658;They Won't Forget (1937);Drama|Mystery;http://dbpedia.org/resource/They_Won't_Forget;perfect;1.0;1.0;0.5;2015-09-07T12:50:42
 29671;The Ticket of Leave Man (1937);Crime|Drama|Thriller;http://dbpedia.org/resource/The_Ticket_of_Leave_Man;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 29682;Topper (1937);Comedy|Fantasy|Romance;http://dbpedia.org/resource/Topper_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 29725;Varsity Show (1937);Musical;http://dbpedia.org/resource/Varsity_Show_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 29747;Way Out West (1937);Comedy|Western;http://dbpedia.org/resource/Way_Out_West_(1937_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:01
 29772;Whom the Gods Love: The Original Story of Mozart and His Wife (1936);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:01
-29808;You Only Live Once (1937);Crime|Drama|Film-Noir;http://dbpedia.org/resource/You_Only_Live_Once_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:01
+29808;You Only Live Once (1937);Crime|Drama|Film-Noir;http://dbpedia.org/resource/You_Only_Live_Once_(film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:54:44
 29811;Young and Innocent (1937);Crime|Mystery|Thriller;http://dbpedia.org/resource/Young_and_Innocent;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 29843;The Adventures of Robin Hood (1938);Action|Adventure|Romance;http://dbpedia.org/resource/The_Adventures_of_Robin_Hood_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:01
 29844;The Adventures of Tom Sawyer (1938);Family|Adventure;http://dbpedia.org/resource/The_Adventures_of_Tom_Sawyer_(1938_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:01
@@ -484,7 +484,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 29957;Het dierlijke in de mens (1938);Drama|Film-Noir;;;0.0;0.0;0.0;2015-06-18T09:33:34
 29989;Child Bride (1938);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:02
 29992;A Christmas Carol (1938);Drama|Family|Fantasy;http://dbpedia.org/resource/A_Christmas_Carol_(1938_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
-30241;Holiday (1938);Comedy|Romance;http://dbpedia.org/resource/Holiday_(1938_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+30241;Holiday (1938);Comedy|Romance;http://dbpedia.org/resource/Holiday_(1938_film);perfect;1.0;1.0;0.5;2015-09-07T12:54:47
 30287;Een gevaarlijke vrouw (1938);Drama|Romance;;;0.0;0.0;0.0;2015-08-24T08:04:39
 30341;The Lady Vanishes (1938);Comedy|Mystery|Thriller;http://dbpedia.org/resource/The_Lady_Vanishes_(1938_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 30372;My Irish Molly (1938);Musical;http://dbpedia.org/resource/My_Irish_Molly;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
@@ -521,13 +521,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 31385;Goodbye, Mr. Chips (1939);Drama|Romance;http://dbpedia.org/resource/Goodbye,_Mr._Chips_(1939_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 31394;The Green Hornet (1940);Adventure|Crime|Drama|Sci-Fi|Thriller;http://dbpedia.org/resource/The_Green_Hornet_Strikes_Again!;partial;0.1875;0.999484536082;0.2;2015-06-02T00:47:02
 31448;The Hound of the Baskervilles (1939);Crime|Drama|Horror|Mystery|Thriller;http://dbpedia.org/resource/The_Hound_of_the_Baskervilles_(1939_film);perfect;1.0;1.0;0.2;2015-06-02T00:47:02
-31455;The Hunchback of Notre Dame (1939);Drama|Romance;http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1939_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+31455;The Hunchback of Notre Dame (1939);Drama|Romance;http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1939_film);perfect;1.0;1.0;0.5;2015-09-07T12:54:49
 31473;Idiot's Delight (1939);Comedy|Drama|Musical;http://dbpedia.org/resource/Idiot's_Delight_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 31477;In Name Only (1939);Drama|Romance;http://dbpedia.org/resource/In_Name_Only;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 31505;Jamaica Inn (1939);Adventure|Crime;http://dbpedia.org/resource/Jamaica_Inn_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 31514;Le jour se lève (1939);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Le_Jour_Se_L%C3%A8ve;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 31580;The Little Princess (1939);Comedy|Drama|Family|Musical;http://dbpedia.org/resource/The_Little_Princess_(1939_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-31602;Made for Each Other (1939);Comedy|Drama|Romance;http://dbpedia.org/resource/Made_for_Each_Other_(1939_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
+31602;Made for Each Other (1939);Comedy|Drama|Romance;http://dbpedia.org/resource/Made_for_Each_Other_(1939_film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:54:52
 31614;The Man They Could Not Hang (1939);Crime|Horror|Sci-Fi;;;0.0;0.0;0.0;2015-08-24T08:05:01
 31647;Midnight (1939);Comedy|Romance;http://dbpedia.org/resource/Midnight_(1939_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 31679;Mr. Smith Goes to Washington (1939);Drama;http://dbpedia.org/resource/Mr._Smith_Goes_to_Washington;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
@@ -557,25 +557,25 @@ id;title;genre;uri;method;tc;yc;gc;updated
 32234;The Bank Dick (1940);Comedy;http://dbpedia.org/resource/The_Bank_Dick;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 32245;Before I Hang (1940);Crime|Horror|Sci-Fi;http://dbpedia.org/resource/Before_I_Hang;perfect;1.0;1.0;0.333333333333;2015-06-02T00:49:50
 32258;Black Friday (1940);Drama|Horror|Sci-Fi|Crime;http://dbpedia.org/resource/Black_Friday_(1940_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-32290;Buck Rogers (1939);Adventure|Family|Fantasy|Sci-Fi;http://dbpedia.org/resource/Buck_Rogers_(serial);pattern;0.545454545455;1.0;0.25;2015-06-02T00:47:02
+32290;Buck Rogers (1939);Adventure|Family|Fantasy|Sci-Fi;http://dbpedia.org/resource/Buck_Rogers_(serial);pattern;0.545454545455;1.0;0.25;2015-09-07T12:54:56
 32338;Christmas in July (1940);Comedy|Romance;http://dbpedia.org/resource/Christmas_in_July_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-32339;A Chump at Oxford (1940);Comedy;http://dbpedia.org/resource/A_Chump_at_Oxford;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+32339;A Chump at Oxford (1940);Comedy;http://dbpedia.org/resource/A_Chump_at_Oxford;perfect;1.0;1.0;1.0;2015-09-07T12:54:59
 32366;Crimes at the Dark House (1940);Crime|Drama;http://dbpedia.org/resource/Crimes_at_the_Dark_House;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 32376;Dance, Girl, Dance (1940);Comedy|Drama|Musical;http://dbpedia.org/resource/Dance,_Girl,_Dance;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 32390;The Devil Bat (1940);Horror|Sci-Fi;http://dbpedia.org/resource/The_Devil_Bat;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 32432;Edison, the Man (1940);Biography|Drama;http://dbpedia.org/resource/Edison,_the_Man;perfect;1.0;1.0;0.0;2015-07-20T23:05:26
 32455;Fantasia (1940);Animation|Family|Fantasy|Music;http://dbpedia.org/resource/Fantasia_(film);partial;1.0;1.0;0.75;2015-06-02T00:47:02
 32484;Foreign Correspondent (1940);Mystery|Romance|Thriller|War;http://dbpedia.org/resource/Foreign_Correspondent_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-32536;Go West (1940);Comedy|Musical|Western;http://dbpedia.org/resource/Go_West_(1940_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
+32536;Go West (1940);Comedy|Musical|Western;http://dbpedia.org/resource/Go_West_(1940_film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:55:01
 32551;The Grapes of Wrath (1940);Drama;http://dbpedia.org/resource/The_Grapes_of_Wrath_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 32553;The Great Dictator (1940);Comedy|Drama|War;http://dbpedia.org/resource/The_Great_Dictator;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 32554;The Great McGinty (1940);Comedy;http://dbpedia.org/resource/The_Great_McGinty;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-32559;The Green Hornet Strikes Again! (1940);Action|Adventure|Crime;http://dbpedia.org/resource/The_Green_Hornet_Strikes_Again!;partial;1.0;1.0;0.333333333333;2015-06-02T00:47:02
+32559;The Green Hornet Strikes Again! (1940);Action|Adventure|Crime;http://dbpedia.org/resource/The_Green_Hornet_Strikes_Again!;partial;1.0;1.0;0.333333333333;2015-09-07T12:50:49
 32599;His Girl Friday (1940);Comedy|Drama|Romance;http://dbpedia.org/resource/His_Girl_Friday;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 32609;The House Across the Bay (1940);Crime|Drama;http://dbpedia.org/resource/The_House_Across_the_Bay;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 32611;How High Is Up? (1940);Comedy|Short;http://dbpedia.org/resource/How_High_Is_Up%3F;partial;0.928571428571;1.0;0.5;2015-06-02T00:49:59
 32638;Irene (1940);Comedy|Musical|Romance;http://dbpedia.org/resource/Irene_(1940_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-32643;It All Came True (1940);Comedy|Crime|Drama;http://dbpedia.org/resource/It_All_Came_True;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
+32643;It All Came True (1940);Comedy|Crime|Drama;;;0.0;0.0;0.0;2015-09-07T12:51:12
 32651;Johnny Apollo (1940);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Johnny_Apollo_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 32676;Knute Rockne All American (1940);Biography|Drama|Sport;http://dbpedia.org/resource/Knute_Rockne,_All_American;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 32701;The Letter (1940);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_Letter_(1940_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -590,7 +590,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 32904;The Philadelphia Story (1940);Comedy|Romance;http://dbpedia.org/resource/The_Philadelphia_Story_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 32910;Pinocchio (1940);Animation|Adventure|Drama|Family|Fantasy|Music;http://dbpedia.org/resource/Pinocchio_(1940_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 32943;Tweestrijd der gevoelens (1940);Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:02
-32946;Primrose Path (1940);Drama;http://dbpedia.org/resource/Primrose_Path_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+32946;Primrose Path (1940);Drama;http://dbpedia.org/resource/Primrose_Path_(film);perfect;1.0;1.0;1.0;2015-09-07T12:55:03
 32976;Rebecca (1940);Drama|Mystery;http://dbpedia.org/resource/Rebecca_(1940_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 33022;Saps at Sea (1940);Comedy;http://dbpedia.org/resource/Saps_at_Sea;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 33028;The Sea Hawk (1940);Action|Adventure|Romance;http://dbpedia.org/resource/The_Sea_Hawk_(1940_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -606,7 +606,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 33313;Across the Sierras (1941);Action|Music|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:02
 33317;Adventures of Captain Marvel (1941);Action|Adventure|Fantasy|Sci-Fi;http://dbpedia.org/resource/Adventures_of_Captain_Marvel;perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 33373;Ball of Fire (1941);Comedy|Romance;http://dbpedia.org/resource/Ball_of_Fire;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-33436;Buck Privates (1941);Comedy|Musical;http://dbpedia.org/resource/Buck_Privates;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+33436;Buck Privates (1941);Comedy|Musical;http://dbpedia.org/resource/Buck_Privates;perfect;1.0;1.0;0.5;2015-09-07T12:55:05
 33467;Citizen Kane (1941);Drama|Mystery;http://dbpedia.org/resource/Citizen_Kane;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 33477;Come Live with Me (1941);Comedy|Romance;http://dbpedia.org/resource/Come_Live_with_Me_(film);perfect;1.0;1.0;0.5;2015-06-14T20:42:10
 33517;A Date with the Falcon (1942);Crime|Drama|Mystery|Romance;http://dbpedia.org/resource/A_Date_with_the_Falcon;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
@@ -641,19 +641,19 @@ id;title;genre;uri;method;tc;yc;gc;updated
 34232;Steel Against the Sky (1941);Action|Adventure|Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:02
 34236;The Strawberry Blonde (1941);Comedy|Romance;http://dbpedia.org/resource/The_Strawberry_Blonde;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 34240;Sullivan's Travels (1941);Adventure|Comedy|Drama|Romance;http://dbpedia.org/resource/Sullivan's_Travels;perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-34248;Suspicion (1941);Drama|Mystery|Thriller;http://dbpedia.org/resource/Suspicion_(1941_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
+34248;Suspicion (1941);Drama|Mystery|Thriller;http://dbpedia.org/resource/Suspicion_(1941_film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:55:08
 34274;That Uncertain Feeling (1941);Comedy;http://dbpedia.org/resource/That_Uncertain_Feeling_(film);perfect;1.0;1.0;1.0;2015-06-21T15:41:22
 34298;Todake no kyodai (1941);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:02
 34384;Western Union (1941);History|Western;http://dbpedia.org/resource/Western_Union_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 34386;When Ladies Meet (1941);Comedy|Drama|Romance;http://dbpedia.org/resource/When_Ladies_Meet_(1941_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34398;The Wolf Man (1941);Drama|Horror;http://dbpedia.org/resource/The_Wolf_Man_(1941_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 34409;You'll Never Get Rich (1941);Comedy|Musical|Romance;http://dbpedia.org/resource/You'll_Never_Get_Rich;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-34428;Across the Pacific (1942);Action|Adventure|Drama|Romance|War;http://dbpedia.org/resource/Across_the_Pacific;perfect;1.0;1.0;0.4;2015-06-02T00:47:02
+34428;Across the Pacific (1942);Action|Adventure|Drama|Romance|War;http://dbpedia.org/resource/Across_the_Pacific;perfect;1.0;1.0;0.4;2015-09-07T12:55:11
 34433;The Affairs of Martha (1942);Comedy|Romance;http://dbpedia.org/resource/The_Affairs_of_Martha;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 34445;Alias Boston Blackie (1942);Drama|Mystery;http://dbpedia.org/resource/Confessions_of_Boston_Blackie;any;0.4;0.999485066941;0.0;2015-06-02T00:47:02
 34449;Onder het asphalt van New York (1941);Action|Comedy|Crime;;;0.0;0.0;0.0;2015-08-24T08:05:29
 34458;Andy Hardy's Double Life (1942);Comedy|Family|Romance;http://dbpedia.org/resource/Andy_Hardy's_Double_Life;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
-34478;L'assassin habite... au 21 (1942);Comedy|Mystery|Thriller;http://dbpedia.org/resource/The_Murderer_Lives_at_Number_21;any;0.884615384615;1.0;1.0;2015-06-02T00:47:02
+34478;L'assassin habite... au 21 (1942);Comedy|Mystery|Thriller;http://dbpedia.org/resource/The_Murderer_Lives_at_Number_21;any;0.884615384615;1.0;1.0;2015-09-07T12:55:20
 34492;Bambi (1942);Animation|Drama|Family;http://dbpedia.org/resource/Bambi;pattern;1.0;1.0;0.0;2015-06-02T00:47:02
 34514;The Big Street (1942);Drama|Romance;http://dbpedia.org/resource/The_Big_Street;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 34522;The Black Swan (1942);Action|Adventure|Drama|Family|History;http://dbpedia.org/resource/The_Black_Swan_(film);perfect;1.0;1.0;0.2;2015-06-02T00:47:02
@@ -668,7 +668,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 34711;Eyes in the Night (1942);Crime|Mystery;http://dbpedia.org/resource/Eyes_in_the_Night;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 34716;The Falcon Takes Over (1942);Crime|Mystery;http://dbpedia.org/resource/The_Falcon_Takes_Over;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 34717;The Falcon's Brother (1942);Crime|Drama|Mystery;http://dbpedia.org/resource/The_Falcon's_Brother;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-34734;The First of the Few (1942);Biography|Drama|War;http://dbpedia.org/resource/The_First_of_the_Few;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
+34734;The First of the Few (1942);Biography|Drama|War;http://dbpedia.org/resource/The_First_of_the_Few;perfect;1.0;1.0;0.333333333333;2015-09-07T12:55:22
 34778;Gentleman Jim (1942);Biography|Drama|Romance;http://dbpedia.org/resource/Gentleman_Jim_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34786;The Ghost of Frankenstein (1942);Drama|Horror|Sci-Fi;http://dbpedia.org/resource/The_Ghost_of_Frankenstein;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34798;The Glass Key (1942);Crime|Drama|Film-Noir|Thriller;http://dbpedia.org/resource/The_Glass_Key_(1942_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
@@ -676,9 +676,9 @@ id;title;genre;uri;method;tc;yc;gc;updated
 34862;Holiday Inn (1942);Comedy|Drama|Musical|Romance;http://dbpedia.org/resource/Holiday_Inn_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 34881;I Married a Witch (1942);Comedy|Fantasy|Romance;http://dbpedia.org/resource/I_Married_a_Witch;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 34883;I Was Framed (1942);Action|Adventure|Crime;;;0.0;0.0;0.0;2015-06-02T00:47:02
-34890;In This Our Life (1942);Drama;http://dbpedia.org/resource/In_This_Our_Life;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+34890;In This Our Life (1942);Drama;http://dbpedia.org/resource/In_This_Our_Life;perfect;1.0;1.0;1.0;2015-09-07T12:51:14
 34891;In Which We Serve (1942);Drama|War;http://dbpedia.org/resource/In_Which_We_Serve;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-34922;Journey Into Fear (1943);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Journey_into_Fear_(1943_film);pattern;0.941176470588;1.0;0.333333333333;2015-06-02T00:47:02
+34922;Journey Into Fear (1943);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Journey_into_Fear_(1943_film);pattern;0.941176470588;1.0;0.333333333333;2015-09-07T12:55:26
 34936;Keeper of the Flame (1942);Drama|Mystery;http://dbpedia.org/resource/Keeper_of_the_Flame_(film);perfect;1.0;0.999485066941;0.5;2015-06-02T00:47:02
 34946;Kings Row (1942);Drama|Mystery|Romance;http://dbpedia.org/resource/Kings_Row;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 34978;Listen to Britain (1942);Documentary|Short;http://dbpedia.org/resource/Listen_to_Britain;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
@@ -687,14 +687,14 @@ id;title;genre;uri;method;tc;yc;gc;updated
 35015;The Magnificent Ambersons (1942);Drama|Romance;http://dbpedia.org/resource/The_Magnificent_Ambersons_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35017;La main du diable (1943);Fantasy|Horror;;;0.0;0.0;0.0;2015-06-02T00:47:02
 35047;Matri-Phony (1942);Short|Comedy;http://dbpedia.org/resource/Matri-Phony;perfect;1.0;1.0;0.5;2015-06-02T00:50:10
-35093;Mrs. Miniver (1942);Drama|Romance|War;http://dbpedia.org/resource/Mrs._Miniver_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
+35093;Mrs. Miniver (1942);Drama|Romance|War;http://dbpedia.org/resource/Mrs._Miniver_(film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:51:16
 35096;The Mummy's Tomb (1942);Action|Adventure|Drama;http://dbpedia.org/resource/The_Mummy's_Tomb;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 35105;My Sister Eileen (1942);Comedy;http://dbpedia.org/resource/My_Sister_Eileen_(1942_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 35140;Now, Voyager (1942);Drama|Romance;http://dbpedia.org/resource/Now,_Voyager;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35151;Once Upon a Honeymoon (1942);Adventure|Comedy|Drama;http://dbpedia.org/resource/Once_Upon_a_Honeymoon;perfect;1.0;1.0;0.666666666667;2015-06-02T00:50:12
 35153;One of Our Aircraft Is Missing (1942);Action|Drama|War;http://dbpedia.org/resource/One_of_Our_Aircraft_Is_Missing;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 35160;Ossessione (1943);Crime|Drama|Romance;http://dbpedia.org/resource/Ossessione;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-35211;The Pride of the Yankees (1942);Biography|Drama|Family;http://dbpedia.org/resource/The_Pride_of_the_Yankees;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
+35211;The Pride of the Yankees (1942);Biography|Drama|Family;http://dbpedia.org/resource/The_Pride_of_the_Yankees;perfect;1.0;1.0;0.333333333333;2015-09-07T12:55:29
 35238;Random Harvest (1942);Drama|Romance;http://dbpedia.org/resource/Random_Harvest_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35272;Roxie Hart (1942);Comedy|Romance;http://dbpedia.org/resource/Roxie_Hart_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35279;Saboteur (1942);Action|Thriller;http://dbpedia.org/resource/Saboteur_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
@@ -707,13 +707,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 35423;Kate & Leopold (2001);Comedy|Fantasy|Romance;http://dbpedia.org/resource/Kate_&_Leopold;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 35432;This Gun for Hire (1942);Crime|Drama|Film-Noir|Thriller;http://dbpedia.org/resource/This_Gun_for_Hire;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35446;To Be or Not to Be (1942);Comedy|War;http://dbpedia.org/resource/To_Be_or_Not_to_Be_(1942_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-35521;Les visiteurs du soir (1942);Drama|Fantasy|Romance;http://dbpedia.org/resource/Les_Visiteurs_du_Soir;pattern;0.952380952381;1.0;0.333333333333;2015-06-02T00:47:02
+35521;Les visiteurs du soir (1942);Drama|Fantasy|Romance;http://dbpedia.org/resource/Les_Visiteurs_du_Soir;pattern;0.952380952381;1.0;0.333333333333;2015-09-07T12:55:33
 35537;We Were Dancing (1942);Comedy|Romance;http://dbpedia.org/resource/We_Were_Dancing_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 35567;Woman of the Year (1942);Comedy|Romance|Sport;http://dbpedia.org/resource/Woman_of_the_Year;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 35575;Yankee Doodle Dandy (1942);Biography|Drama|Musical;http://dbpedia.org/resource/Yankee_Doodle_Dandy;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 35583;You Were Never Lovelier (1942);Comedy|Musical|Romance;http://dbpedia.org/resource/You_Were_Never_Lovelier;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 35605;Above Suspicion (1943);Drama|Thriller;http://dbpedia.org/resource/Above_Suspicion_(1943_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-35608;Action in the North Atlantic (1943);Drama|War;http://dbpedia.org/resource/Action_in_the_North_Atlantic;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+35608;Action in the North Atlantic (1943);Drama|War;http://dbpedia.org/resource/Action_in_the_North_Atlantic;perfect;1.0;1.0;1.0;2015-09-07T12:55:35
 35616;Air Force (1943);Action|Drama|History|War;http://dbpedia.org/resource/Air_Force_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 35640;The Ape Man (1943);Horror|Sci-Fi;http://dbpedia.org/resource/The_Ape_Man;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35671;The Bells Go Down (1943);Drama|War;http://dbpedia.org/resource/The_Bells_Go_Down;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
@@ -726,7 +726,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 35807;Distinto amanecer (1943);Drama|Thriller|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:02
 35854;The Falcon Strikes Back (1943);Crime|Drama|Mystery;http://dbpedia.org/resource/The_Falcon_Strikes_Back;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 35855;The Falcon and the Co-eds (1943);Crime|Mystery|Drama;http://dbpedia.org/resource/The_Falcon_and_the_Co-eds;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-35856;The Falcon in Danger (1943);Crime|Mystery;http://dbpedia.org/resource/The_Falcon_in_Danger;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+35856;The Falcon in Danger (1943);Crime|Mystery;http://dbpedia.org/resource/The_Falcon_in_Danger;perfect;1.0;1.0;0.5;2015-09-07T12:55:38
 35884;Five Graves to Cairo (1943);Thriller|War;http://dbpedia.org/resource/Five_Graves_to_Cairo;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 35896;For Whom the Bell Tolls (1943);Adventure|Drama|History;http://dbpedia.org/resource/For_Whom_the_Bell_Tolls_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 35899;Frankenstein Meets the Wolf Man (1943);Fantasy|Horror|Sci-Fi;http://dbpedia.org/resource/Frankenstein_Meets_the_Wolf_Man;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -743,7 +743,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 36126;Madame Curie (1943);Biography|Drama|Romance;http://dbpedia.org/resource/Madame_Curie_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 36135;The Man in Grey (1943);Drama|History|Romance;http://dbpedia.org/resource/The_Man_in_Grey;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 36154;Meshes of the Afternoon (1943);Short;http://dbpedia.org/resource/Meshes_of_the_Afternoon;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-36172;Hoe meer hoe liever (1943);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:02
+36172;Hoe meer hoe liever (1943);Comedy|Romance;http://dbpedia.org/resource/The_More_the_Merrier;any;0.315789473684;1.0;0.5;2015-09-07T12:55:45
 36174;Mr. Lucky (1943);Comedy|Romance;http://dbpedia.org/resource/Mr._Lucky_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 36189;Mystery of the 13th Guest (1943);Crime|Mystery;http://dbpedia.org/resource/Mystery_of_the_13th_Guest;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 36217;The North Star (1943);Drama|Musical|Romance|War;http://dbpedia.org/resource/The_North_Star_(1943_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
@@ -762,13 +762,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 36400;Sugata Sanshirô (1943);Action|Adventure|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:02
 36407;Swing Shift Maisie (1943);Comedy;http://dbpedia.org/resource/Swing_Shift_Maisie;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 36434;Three Little Twirps (1943);Comedy|Short;http://dbpedia.org/resource/Three_Little_Twirps;perfect;1.0;1.0;0.5;2015-06-02T00:50:15
-36497;Victory Through Air Power (1943);Documentary|Animation|History;http://dbpedia.org/resource/Victory_Through_Air_Power_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
-36506;Vredens dag (1943);Drama|Romance;http://dbpedia.org/resource/Day_of_Wrath;any;0.272727272727;1.0;0.5;2015-06-02T00:47:02
+36497;Victory Through Air Power (1943);Documentary|Animation|History;http://dbpedia.org/resource/Victory_Through_Air_Power_(film);perfect;1.0;1.0;0.333333333333;2015-09-07T12:55:47
+36506;Vredens dag (1943);Drama|Romance;http://dbpedia.org/resource/Day_of_Wrath;any;0.272727272727;1.0;0.5;2015-09-07T12:55:59
 36515;Watch on the Rhine (1943);Drama;http://dbpedia.org/resource/Watch_on_the_Rhine;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 36549;Yellow Canary (1943);Drama|Thriller;http://dbpedia.org/resource/Yellow_Canary_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 36613;Arsenic and Old Lace (1944);Comedy|Crime|Romance|Thriller;http://dbpedia.org/resource/Arsenic_and_Old_Lace_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 36621;Aventure malgache (1944);Short|War;http://dbpedia.org/resource/Aventure_Malgache;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-36625;Barbary Coast Gent (1944);Comedy|Western;http://dbpedia.org/resource/Barbary_Coast_Gent;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+36625;Barbary Coast Gent (1944);Comedy|Western;http://dbpedia.org/resource/Barbary_Coast_Gent;perfect;1.0;1.0;1.0;2015-09-07T12:56:01
 36641;Between Two Worlds (1944);Mystery|Drama|Fantasy|Adventure|Action;http://dbpedia.org/resource/Between_Two_Worlds_(film);perfect;1.0;1.0;0.2;2015-06-02T00:47:02
 36659;Bon Voyage (1944);Short|War;http://dbpedia.org/resource/Bon_Voyage_(1944_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 36671;Bride by Mistake (1944);Comedy;http://dbpedia.org/resource/Bride_by_Mistake;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
@@ -791,7 +791,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 36940;I'll Be Seeing You (1944);Drama|Family|Romance;http://dbpedia.org/resource/I'll_Be_Seeing_You_(1944_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 36969;Jane Eyre (1943);Drama|Romance;http://dbpedia.org/resource/Jane_Eyre_(1943_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37008;Laura (1944);Drama|Film-Noir|Mystery|Romance;http://dbpedia.org/resource/Laura_(1944_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-37017;Lifeboat (1944);Thriller|War;http://dbpedia.org/resource/Lifeboat_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+37017;Lifeboat (1944);Thriller|War;http://dbpedia.org/resource/Lifeboat_(film);perfect;1.0;1.0;0.5;2015-09-07T12:56:03
 37027;Lost in a Harem (1944);Comedy;http://dbpedia.org/resource/Lost_in_a_Harem;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 37059;Meet Me in St. Louis (1944);Family|Musical|Romance;http://dbpedia.org/resource/Meet_Me_in_St._Louis;pattern;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 37075;Ministry of Fear (1944);Crime|Drama|Film-Noir|Mystery|Romance|Thriller;http://dbpedia.org/resource/Ministry_of_Fear;perfect;1.0;1.0;0.166666666667;2015-06-02T00:47:02
@@ -815,8 +815,8 @@ id;title;genre;uri;method;tc;yc;gc;updated
 37514;Anchors Aweigh (1945);Comedy|Fantasy|Musical|Romance;http://dbpedia.org/resource/Anchors_Aweigh_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37515;And Then There Were None (1945);Crime|Drama|Mystery;http://dbpedia.org/resource/And_Then_There_Were_None_(1945_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 37536;The Bells of St. Mary's (1945);Drama|Family;http://dbpedia.org/resource/The_Bells_of_St._Mary's;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-37549;The Body Snatcher (1945);Horror|Thriller;http://dbpedia.org/resource/The_Body_Snatcher_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-37557;Brewster's Millions (1945);Comedy;http://dbpedia.org/resource/Brewster's_Millions_(1945_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+37549;The Body Snatcher (1945);Horror|Thriller;http://dbpedia.org/resource/The_Body_Snatcher_(film);perfect;1.0;1.0;0.5;2015-09-07T12:56:05
+37557;Brewster's Millions (1945);Comedy;http://dbpedia.org/resource/Brewster's_Millions_(1945_film);perfect;1.0;1.0;1.0;2015-09-07T12:56:07
 37558;Brief Encounter (1945);Romance|Drama;http://dbpedia.org/resource/Brief_Encounter;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37595;Christmas in Connecticut (1945);Comedy|Romance;http://dbpedia.org/resource/Christmas_in_Connecticut;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37611;Conflict (1945);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Conflict_(1945_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -825,13 +825,13 @@ id;title;genre;uri;method;tc;yc;gc;updated
 37630;Les dames du Bois de Boulogne (1945);Drama|Romance;http://dbpedia.org/resource/Les_Dames_du_Bois_de_Boulogne;partial;0.965517241379;1.0;0.5;2015-06-02T00:47:02
 37632;Danger Signal (1945);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Danger_Signal;perfect;1.0;1.0;0.333333333333;2015-07-20T23:06:08
 37635;Dead of Night (1945);Horror|Thriller;http://dbpedia.org/resource/Dead_of_Night;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
-37638;Detour (1945);Crime|Drama|Film-Noir|Mystery;http://dbpedia.org/resource/Detour_(1945_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+37638;Detour (1945);Crime|Drama|Film-Noir|Mystery;http://dbpedia.org/resource/Detour_(1945_film);perfect;1.0;1.0;0.5;2015-09-07T12:56:09
 37644;Dillinger (1945);Biography|Crime|Drama;http://dbpedia.org/resource/Dillinger_(1945_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 37671;The Enchanted Cottage (1945);Drama|Romance;http://dbpedia.org/resource/The_Enchanted_Cottage_(1945_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37674;Les enfants du paradis (1945);Drama|Romance;http://dbpedia.org/resource/Children_of_Paradise;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 37690;The Falcon in San Francisco (1945);Crime|Mystery;http://dbpedia.org/resource/The_Falcon_in_San_Francisco;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-37736;George White's Scandals (1945);Comedy|Music;http://dbpedia.org/resource/George_White's_Scandals_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-37749;The Great Flamarion (1945);Drama|Film-Noir|Mystery;http://dbpedia.org/resource/The_Great_Flamarion;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
+37736;George White's Scandals (1945);Comedy|Music;http://dbpedia.org/resource/George_White's_Scandals_(film);perfect;1.0;1.0;0.5;2015-09-07T12:56:11
+37749;The Great Flamarion (1945);Drama|Film-Noir|Mystery;http://dbpedia.org/resource/The_Great_Flamarion;perfect;1.0;1.0;0.333333333333;2015-09-07T12:56:14
 37793;House of Dracula (1945);Fantasy|Horror|Sci-Fi;http://dbpedia.org/resource/House_of_Dracula;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 37795;The House on 92nd Street (1945);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_House_on_92nd_Street;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 37800;'I Know Where I'm Going!' (1945);Drama|Romance;http://dbpedia.org/resource/I_Know_Where_I'm_Going!;any;0.92;1.0;0.5;2015-06-02T00:47:02
@@ -846,7 +846,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 37988;The Picture of Dorian Gray (1945);Drama|Fantasy|Horror|Romance|Thriller;http://dbpedia.org/resource/The_Picture_of_Dorian_Gray_(1945_film);perfect;1.0;1.0;0.6;2015-06-02T00:47:02
 38057;Scarlet Street (1945);Drama|Film-Noir;http://dbpedia.org/resource/Scarlet_Street;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 38108;The Spanish Main (1945);Adventure|Drama|Romance;http://dbpedia.org/resource/The_Spanish_Main;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-38109;Spellbound (1945);Film-Noir|Mystery|Romance|Thriller;http://dbpedia.org/resource/Spellbound_(1945_film);perfect;1.0;1.0;0.75;2015-06-02T00:47:02
+38109;Spellbound (1945);Film-Noir|Mystery|Romance|Thriller;http://dbpedia.org/resource/Spellbound_(1945_film);perfect;1.0;1.0;0.75;2015-09-07T12:56:16
 38116;State Fair (1945);Musical|Romance;http://dbpedia.org/resource/State_Fair_(1945_film);perfect;1.0;1.0;0.5;2015-09-03T14:28:02
 38166;The Three Caballeros (1944);Animation|Family|Fantasy;http://dbpedia.org/resource/The_Three_Caballeros;pattern;1.0;1.0;0.333333333333;2015-07-20T23:06:14
 38192;De ware glorie (1945);Documentary|War;;;0.0;0.0;0.0;2015-06-02T00:50:53
@@ -854,7 +854,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 38238;The Way to the Stars (1945);Drama|Romance|War;http://dbpedia.org/resource/The_Way_to_the_Stars;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 38243;What Next, Corporal Hargrove? (1945);Comedy|War;http://dbpedia.org/resource/What_Next,_Corporal_Hargrove%3F;partial;0.964285714286;1.0;1.0;2015-08-24T08:05:40
 38260;Wonder Man (1945);Comedy|Musical|Fantasy;http://dbpedia.org/resource/Wonder_Man_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
-38279;13 Rue Madeleine (1947);Action|Adventure|Drama|Thriller|War;http://dbpedia.org/resource/13_Rue_Madeleine;perfect;1.0;1.0;0.2;2015-06-02T00:47:02
+38279;13 Rue Madeleine (1947);Action|Adventure|Drama|Thriller|War;http://dbpedia.org/resource/13_Rue_Madeleine;perfect;1.0;1.0;0.4;2015-09-07T12:56:18
 38289;I See a Dark Stranger (1946);Drama|Thriller|War;http://dbpedia.org/resource/I_See_a_Dark_Stranger;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 38300;Angel on My Shoulder (1946);Comedy|Fantasy|Romance;http://dbpedia.org/resource/Angel_on_My_Shoulder_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
 38338;The Beast with Five Fingers (1946);Horror;http://dbpedia.org/resource/The_Beast_with_Five_Fingers;perfect;1.0;1.0;1.0;2015-06-02T00:50:56
@@ -869,7 +869,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 38458;Deadline at Dawn (1946);Film-Noir|Mystery|Romance;http://dbpedia.org/resource/Deadline_at_Dawn;perfect;1.0;1.0;0.333333333333;2015-06-16T10:14:18
 38461;Deception (1946);Crime|Drama|Film-Noir|Music|Thriller;http://dbpedia.org/resource/Deception_(1946_film);perfect;1.0;1.0;0.2;2015-06-02T00:47:02
 38492;Dragonwyck (1946);Drama|Thriller|Mystery|Romance;http://dbpedia.org/resource/Dragonwyck_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-38505;Easy to Wed (1946);Comedy|Romance;http://dbpedia.org/resource/Easy_to_Wed;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
+38505;Easy to Wed (1946);Comedy|Romance;http://dbpedia.org/resource/Easy_to_Wed;perfect;1.0;1.0;0.5;2015-09-07T12:56:20
 38559;Gilda (1946);Drama|Film-Noir|Romance|Thriller;http://dbpedia.org/resource/Gilda;perfect;1.0;1.0;0.25;2015-06-02T00:47:02
 38574;Great Expectations (1946);Drama|Romance;http://dbpedia.org/resource/Great_Expectations_(1946_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 38577;Green for Danger (1946);Crime|Mystery|Thriller;http://dbpedia.org/resource/Green_for_Danger_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -883,7 +883,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 38787;Notorious (1946);Drama|Romance|Thriller;http://dbpedia.org/resource/Notorious_(1946_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 38823;Paisà (1946);Drama;http://dbpedia.org/resource/Paisan;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 38854;The Postman Always Rings Twice (1946);Crime|Drama|Film-Noir|Mystery|Romance|Thriller;http://dbpedia.org/resource/The_Postman_Always_Rings_Twice_(1946_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-38855;The Potted Psalm (1946);Short;;;0.0;0.0;0.0;2015-06-02T00:47:02
+38855;The Potted Psalm (1946);Short;;;0.0;0.0;0.0;2015-09-07T12:56:43
 38890;Roma, città aperta (1945);Drama|War;http://dbpedia.org/resource/Rome,_Open_City;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 38905;San Quentin (1946);Drama;http://dbpedia.org/resource/San_Quentin_(1946_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 38934;She-Wolf of London (1946);Crime|Horror|Mystery;http://dbpedia.org/resource/She-Wolf_of_London_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
@@ -901,17 +901,17 @@ id;title;genre;uri;method;tc;yc;gc;updated
 39116;Ziegfeld Follies (1945);Comedy|Musical;http://dbpedia.org/resource/Ziegfeld_Follies_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 39152;Angel and the Badman (1947);Romance|Western;http://dbpedia.org/resource/Angel_and_the_Badman;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 39169;The Bachelor and the Bobby-Soxer (1947);Comedy|Romance;http://dbpedia.org/resource/The_Bachelor_and_the_Bobby-Soxer;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-39192;Black Narcissus (1947);Drama;http://dbpedia.org/resource/Black_Narcissus;perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+39192;Black Narcissus (1947);Drama;http://dbpedia.org/resource/Black_Narcissus;perfect;1.0;1.0;1.0;2015-09-07T12:56:45
 39211;Born to Kill (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Born_to_Kill_(1947_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 39220;Brighton Rock (1947);Crime|Drama;http://dbpedia.org/resource/Brighton_Rock_(1947_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
 39224;Brute Force (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Brute_Force_(1947_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:02
 39266;Christmas Eve (1947);Comedy|Drama;http://dbpedia.org/resource/Christmas_Eve_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
-39286;Crossfire (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Crossfire_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:02
+39286;Crossfire (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Crossfire_(film);perfect;1.0;1.0;0.0;2015-09-07T12:56:47
 39294;Daisy Kenyon (1947);Drama|Romance;http://dbpedia.org/resource/Daisy_Kenyon;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
 39302;Passagiers in de nacht (1947);Film-Noir|Thriller;;;0.0;0.0;0.0;2015-09-03T14:28:31
-39305;Dead Reckoning (1947);Drama|Film-Noir|Mystery|Thriller;http://dbpedia.org/resource/Dead_Reckoning_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:02
+39305;Dead Reckoning (1947);Drama|Film-Noir|Mystery|Thriller;http://dbpedia.org/resource/Dead_Reckoning_(film);perfect;1.0;1.0;0.25;2015-09-07T12:56:49
 39306;Dear Murderer (1947);Crime|Drama;http://dbpedia.org/resource/Dear_Murderer;perfect;1.0;1.0;0.5;2015-06-02T00:47:02
-39337;Down to Earth (1947);Comedy|Fantasy|Musical;http://dbpedia.org/resource/Down_to_Earth_(1947_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:02
+39337;Down to Earth (1947);Comedy|Fantasy|Musical;http://dbpedia.org/resource/Down_to_Earth_(1947_film);perfect;1.0;1.0;1.0;2015-09-07T12:56:51
 39340;Dreams That Money Can Buy (1947);Fantasy;http://dbpedia.org/resource/Dreams_That_Money_Can_Buy;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 39394;The Foxes of Harrow (1947);Drama;http://dbpedia.org/resource/The_Foxes_of_Harrow;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 39410;The Gangster (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_Gangster;perfect;1.0;1.0;0.666666666667;2015-07-06T21:19:40
@@ -936,8 +936,8 @@ id;title;genre;uri;method;tc;yc;gc;updated
 39677;Odd Man Out (1947);Crime|Drama|Film-Noir|Romance|Thriller;http://dbpedia.org/resource/Odd_Man_Out;perfect;1.0;1.0;0.2;2015-06-02T00:47:02
 39689;Out of the Past (1947);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Out_of_the_Past;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 39694;The Paradine Case (1947);Crime|Drama|Romance|Thriller;http://dbpedia.org/resource/The_Paradine_Case;perfect;1.0;1.0;0.25;2015-06-02T00:47:02
-39725;Possessed (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Possessed_(1947_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:02
-39743;Queen of the Amazons (1947);Action|Adventure|Mystery|Romance;http://dbpedia.org/resource/Queen_of_the_Amazons;perfect;1.0;1.0;0.25;2015-06-02T00:47:02
+39725;Possessed (1947);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Possessed_(1947_film);perfect;1.0;1.0;0.333333333333;2015-09-07T12:56:53
+39743;Queen of the Amazons (1947);Action|Adventure|Mystery|Romance;http://dbpedia.org/resource/Queen_of_the_Amazons;perfect;1.0;1.0;0.25;2015-09-07T12:56:56
 39761;Repeat Performance (1947);Drama|Film-Noir|Mystery;http://dbpedia.org/resource/Repeat_Performance;perfect;1.0;1.0;0.0;2015-06-02T00:47:02
 39768;Ride the Pink Horse (1947);Drama|Film-Noir|Mystery;http://dbpedia.org/resource/Ride_the_Pink_Horse;perfect;1.0;1.0;0.0;2015-06-02T00:51:00
 39808;The Secret Life of Walter Mitty (1947);Comedy|Drama|Fantasy|Romance;http://dbpedia.org/resource/The_Secret_Life_of_Walter_Mitty_(1947_film);perfect;1.0;1.0;0.75;2015-06-02T00:47:02
@@ -1140,28 +1140,28 @@ id;title;genre;uri;method;tc;yc;gc;updated
 43639;La hija del engaño (1951);Drama;http://dbpedia.org/resource/La_hija_del_enga%C3%B1o;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 43643;His Kind of Woman (1951);Comedy|Crime|Film-Noir;http://dbpedia.org/resource/His_Kind_of_Woman;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 43655;The Hoodlum (1951);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_Hoodlum_(1951_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
-43686;Jeux interdits (1952);Drama|War;http://dbpedia.org/resource/Forbidden_Games;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+43686;Jeux interdits (1952);Drama|War;http://dbpedia.org/resource/Forbidden_Games;perfect;1.0;1.0;1.0;2015-09-07T12:56:58
 43727;Laughter in Paradise (1951);Comedy;http://dbpedia.org/resource/Laughter_in_Paradise;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 43728;The Law and the Lady (1951);Comedy;http://dbpedia.org/resource/The_Law_and_the_Lady_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 43766;M (1951);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/M_(1951_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 43778;The Man from Planet X (1951);Horror|Romance|Sci-Fi|Thriller;http://dbpedia.org/resource/The_Man_from_Planet_X;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
-43781;Man in the Saddle (1951);Western;http://dbpedia.org/resource/Man_in_the_Saddle_(1952_film);pattern;0.941176470588;1.0;1.0;2015-06-02T00:47:03
+43781;Man in the Saddle (1951);Western;http://dbpedia.org/resource/Man_in_the_Saddle_(1952_film);pattern;0.941176470588;1.0;1.0;2015-09-07T12:57:03
 43782;The Man with a Cloak (1951);Drama|Thriller;http://dbpedia.org/resource/The_Man_with_a_Cloak;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
-43809;Miracolo a Milano (1951);Comedy|Drama|Fantasy;http://dbpedia.org/resource/Miracle_in_Milan;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+43809;Miracolo a Milano (1951);Comedy|Drama|Fantasy;http://dbpedia.org/resource/Miracle_in_Milan;perfect;1.0;1.0;1.0;2015-09-07T12:57:05
 43813;The Model and the Marriage Broker (1951);Comedy;http://dbpedia.org/resource/The_Model_and_the_Marriage_Broker;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 43825;Musashino fujin (1951);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:03
-43827;My Favorite Spy (1951);Comedy|Crime|Music|Romance;http://dbpedia.org/resource/My_Favorite_Spy;perfect;1.0;1.0;0.25;2015-06-02T00:47:03
+43827;My Favorite Spy (1951);Comedy|Crime|Music|Romance;http://dbpedia.org/resource/My_Favorite_Spy;perfect;1.0;1.0;0.25;2015-09-07T12:57:07
 43852;Night Into Morning (1951);Drama|Romance;http://dbpedia.org/resource/Night_Into_Morning;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 43859;No Highway (1951);Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:03
 43914;The People Against O'Hara (1951);Crime|Drama|Film-Noir;http://dbpedia.org/resource/The_People_Against_O'Hara;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 43915;People Will Talk (1951);Comedy|Drama|Romance;http://dbpedia.org/resource/People_Will_Talk;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
-43924;A Place in the Sun (1951);Drama|Romance;http://dbpedia.org/resource/A_Place_in_the_Sun_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:03
+43924;A Place in the Sun (1951);Drama|Romance;http://dbpedia.org/resource/A_Place_in_the_Sun_(film);perfect;1.0;1.0;0.5;2015-09-07T12:57:09
 43927;La poison (1951);Comedy;http://dbpedia.org/resource/La_Poison;pattern;0.888888888889;1.0;1.0;2015-06-02T00:47:03
 43938;The Prowler (1951);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/The_Prowler_(1951_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 43949;Quo Vadis (1951);Drama|Romance;http://dbpedia.org/resource/Quo_Vadis_(1951_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 43955;Misdaad N.V. (1951);Crime|Drama|Film-Noir;;;0.0;0.0;0.0;2015-07-06T21:20:07
 43961;The Red Badge of Courage (1951);Drama|War;http://dbpedia.org/resource/The_Red_Badge_of_Courage_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
-43983;Royal Wedding (1951);Comedy|Musical|Romance;http://dbpedia.org/resource/Royal_Wedding;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
+43983;Royal Wedding (1951);Comedy|Musical|Romance;http://dbpedia.org/resource/Royal_Wedding;perfect;1.0;1.0;0.666666666667;2015-09-07T12:57:11
 43989;Sailor Beware (1952);Comedy|Musical|Romance;http://dbpedia.org/resource/Sailor_Beware_(1952_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 43994;Saturday's Hero (1951);Drama|Sport;http://dbpedia.org/resource/Saturday's_Hero;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 44000;Lo sceicco bianco (1952);Comedy|Drama|Romance;http://dbpedia.org/resource/The_White_Sheik;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
@@ -1169,7 +1169,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 44013;The Second Woman (1950);Drama|Film-Noir|Mystery;http://dbpedia.org/resource/The_Second_Woman;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 44030;Show Boat (1951);Drama|Family|Musical;http://dbpedia.org/resource/Show_Boat_(1951_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:51:42
 44060;Sommarlek (1951);Drama|Romance;http://dbpedia.org/resource/Summer_Interlude;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
-44072;The Steel Helmet (1951);Action|Drama|War;http://dbpedia.org/resource/The_Steel_Helmet;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
+44072;The Steel Helmet (1951);Action|Drama|War;http://dbpedia.org/resource/The_Steel_Helmet;perfect;1.0;1.0;0.333333333333;2015-09-07T12:57:13
 44079;Strangers on a Train (1951);Crime|Film-Noir|Mystery|Romance|Thriller;http://dbpedia.org/resource/Strangers_on_a_Train_(film);perfect;1.0;1.0;0.6;2015-06-02T00:47:03
 44081;A Streetcar Named Desire (1951);Drama;http://dbpedia.org/resource/A_Streetcar_Named_Desire_(1951_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 44084;Subida al cielo (1952);Comedy;http://dbpedia.org/resource/Mexican_Bus_Ride;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
@@ -1187,22 +1187,22 @@ id;title;genre;uri;method;tc;yc;gc;updated
 44460;The Bushwhackers (1951);Western;http://dbpedia.org/resource/The_Bushwackers_(film);pattern;0.9375;1.0;1.0;2015-07-06T21:20:22
 44487;Le carrosse d'or (1952);Comedy|Drama|Romance;http://dbpedia.org/resource/The_Golden_Coach;partial;0.9375;1.0;0.333333333333;2015-06-02T00:47:03
 44509;Come Back, Little Sheba (1952);Drama;http://dbpedia.org/resource/Come_Back,_Little_Sheba_(1952_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
-44515;Cosh Boy (1953);Crime|Drama;http://dbpedia.org/resource/Cosh_Boy;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
+44515;Cosh Boy (1953);Crime|Drama;http://dbpedia.org/resource/Cosh_Boy;perfect;1.0;1.0;0.5;2015-09-07T12:57:16
 44517;The Crimson Pirate (1952);Action|Adventure|Comedy;http://dbpedia.org/resource/The_Crimson_Pirate;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 44533;Deadline - U.S.A. (1952);Crime|Drama;http://dbpedia.org/resource/Deadline_%E2%80%93_U.S.A.;perfect;1.0;1.0;0.5;2015-08-24T08:05:47
 44557;Don't Bother to Knock (1952);Drama|Film-Noir|Thriller;http://dbpedia.org/resource/Don't_Bother_to_Knock;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 44672;The Greatest Show on Earth (1952);Drama|Family|Romance;http://dbpedia.org/resource/The_Greatest_Show_on_Earth;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
-44685;Hans Christian Andersen (1952);Biography|Family|Musical|Romance;http://dbpedia.org/resource/Hans_Christian_Andersen_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:03
+44685;Hans Christian Andersen (1952);Biography|Family|Musical|Romance;http://dbpedia.org/resource/Hans_Christian_Andersen_(film);perfect;1.0;1.0;0.25;2015-09-07T12:57:18
 44706;High Noon (1952);Drama|Western;http://dbpedia.org/resource/High_Noon;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 44718;Home at Seven (1952);Crime|Drama|Mystery;http://dbpedia.org/resource/Home_at_Seven_(film);perfect;1.0;1.0;0.666666666667;2015-08-24T08:05:49
 44741;Ikiru (1952);Drama;http://dbpedia.org/resource/Ikiru;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 44744;The Importance of Being Earnest (1952);Comedy|Drama;http://dbpedia.org/resource/The_Importance_of_Being_Earnest_(1952_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:03
-44749;Innocents in Paris (1953);Adventure|Comedy;http://dbpedia.org/resource/Innocents_in_Paris;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
-44760;Ivanhoe (1952);Adventure|Drama|Romance;http://dbpedia.org/resource/Ivanhoe_(1952_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
+44749;Innocents in Paris (1953);Adventure|Comedy;http://dbpedia.org/resource/Innocents_in_Paris;perfect;1.0;1.0;0.5;2015-09-07T12:57:20
+44760;Ivanhoe (1952);Adventure|Drama|Romance;http://dbpedia.org/resource/Ivanhoe_(1952_film);perfect;1.0;1.0;0.333333333333;2015-09-07T12:57:22
 44789;Kansas City Confidential (1952);Crime|Drama|Film-Noir|Mystery;http://dbpedia.org/resource/Kansas_City_Confidential;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 44793;Karumen junjo su (1952);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:03
 44821;Lambert the Sheepish Lion (1952);Family|Short|Animation;;;0.0;0.0;0.0;2015-06-02T00:47:03
-44829;The Lavender Hill Mob (1951);Comedy|Crime;http://dbpedia.org/resource/The_Lavender_Hill_Mob;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+44829;The Lavender Hill Mob (1951);Comedy|Crime;http://dbpedia.org/resource/The_Lavender_Hill_Mob;perfect;1.0;1.0;1.0;2015-09-07T12:57:24
 44837;Limelight (1952);Drama|Music;http://dbpedia.org/resource/Limelight_(1952_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 44860;The Lusty Men (1952);Action|Drama|Western;http://dbpedia.org/resource/The_Lusty_Men;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 44876;The Man in the White Suit (1951);Comedy|Sci-Fi|Drama;http://dbpedia.org/resource/The_Man_in_the_White_Suit;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
@@ -1268,16 +1268,16 @@ id;title;genre;uri;method;tc;yc;gc;updated
 45877;The Hitch-Hiker (1953);Crime|Film-Noir|Thriller;http://dbpedia.org/resource/The_Hitch-Hiker;perfect;1.0;1.0;0.333333333333;2015-07-06T21:20:31
 45883;Hondo (1953);Drama|Romance|War;http://dbpedia.org/resource/Hondo_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45888;House of Wax (1953);Horror;http://dbpedia.org/resource/House_of_Wax_(1953_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
-45891;How to Marry a Millionaire (1953);Comedy|Drama|Romance;http://dbpedia.org/resource/How_to_Marry_a_Millionaire;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
+45891;How to Marry a Millionaire (1953);Comedy|Drama|Romance;http://dbpedia.org/resource/How_to_Marry_a_Millionaire;perfect;1.0;1.0;0.666666666667;2015-09-07T12:57:26
 45897;I Confess (1953);Crime|Thriller;http://dbpedia.org/resource/I_Confess_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
-45907;La ilusión viaja en tranvía (1954);Comedy|Adventure|Drama;http://dbpedia.org/resource/La_ilusi%C3%B3n_viaja_en_tranv%C3%ADa;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
+45907;La ilusión viaja en tranvía (1954);Comedy|Adventure|Drama;http://dbpedia.org/resource/La_ilusi%C3%B3n_viaja_en_tranv%C3%ADa;perfect;1.0;1.0;0.0;2015-09-07T12:57:29
 45917;Invaders from Mars (1953);Horror|Sci-Fi;http://dbpedia.org/resource/Invaders_from_Mars_(1953_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 45919;De witte hel (1953);Adventure|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:03
 45920;It Came from Outer Space (1953);Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/It_Came_from_Outer_Space;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45935;Jigokumon (1953);Drama|History|Romance;http://dbpedia.org/resource/Gate_of_Hell_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 45943;Julius Caesar (1953);Drama|History;http://dbpedia.org/resource/Julius_Caesar_(1953_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 46000;Lili (1953);Drama|Musical|Romance;http://dbpedia.org/resource/Lili;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
-46022;Madame de... (1953);Drama|Romance;http://dbpedia.org/resource/The_Earrings_of_Madame_de...;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
+46022;Madame de... (1953);Drama|Romance;http://dbpedia.org/resource/The_Earrings_of_Madame_de...;perfect;1.0;1.0;0.5;2015-09-07T12:51:18
 46031;The Man Between (1953);Drama|Thriller;http://dbpedia.org/resource/The_Man_Between;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 46040;Man on a Tightrope (1953);Drama;http://dbpedia.org/resource/Man_on_a_Tightrope;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 46060;Meet Mr. Lucifer (1953);Comedy|Fantasy;http://dbpedia.org/resource/Meet_Mr._Lucifer;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
@@ -1313,10 +1313,10 @@ id;title;genre;uri;method;tc;yc;gc;updated
 46435;Titanic (1953);Drama|History|Romance;http://dbpedia.org/resource/Titanic_(1953_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 46438;Tôkyô monogatari (1953);Drama;http://dbpedia.org/resource/Tokyo_Story;any;0.833333333333;1.0;0.0;2015-06-02T00:47:03
 46446;Torch Song (1953);Drama|Music|Romance;http://dbpedia.org/resource/Torch_Song_(film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
-46464;Trouble in Store (1953);Comedy;http://dbpedia.org/resource/Trouble_in_Store;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
-46471;Turn the Key Softly (1953);Crime|Drama;http://dbpedia.org/resource/Turn_the_Key_Softly;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
+46464;Trouble in Store (1953);Comedy;http://dbpedia.org/resource/Trouble_in_Store;perfect;1.0;1.0;1.0;2015-09-07T12:57:31
+46471;Turn the Key Softly (1953);Crime|Drama;http://dbpedia.org/resource/Turn_the_Key_Softly;perfect;1.0;1.0;0.5;2015-09-07T12:57:33
 46478;Ugetsu monogatari (1953);Drama|Fantasy|Mystery;http://dbpedia.org/resource/Ugetsu;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
-46487;Les vacances de Monsieur Hulot (1953);Comedy;http://dbpedia.org/resource/Monsieur_Hulot's_Holiday;partial;0.933333333333;1.0;1.0;2015-06-02T00:47:03
+46487;Les vacances de Monsieur Hulot (1953);Comedy;http://dbpedia.org/resource/Monsieur_Hulot's_Holiday;partial;0.933333333333;1.0;1.0;2015-09-07T12:57:39
 46511;Viaggio in Italia (1954);Drama;http://dbpedia.org/resource/Fear_(1954_film);any;0.176470588235;1.0;1.0;2015-06-02T00:47:03
 46521;I vitelloni (1953);Comedy|Drama;http://dbpedia.org/resource/I_Vitelloni;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 46534;The War of the Worlds (1953);Action|Horror|Sci-Fi|Thriller;http://dbpedia.org/resource/The_War_of_the_Worlds_(1953_film);perfect;1.0;1.0;0.25;2015-06-02T00:47:03
@@ -1336,24 +1336,24 @@ id;title;genre;uri;method;tc;yc;gc;updated
 46891;Dangerous Mission (1954);Action|Mystery|Thriller;http://dbpedia.org/resource/Dangerous_Mission;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 46907;Devil Girl from Mars (1954);Sci-Fi;http://dbpedia.org/resource/Devil_Girl_from_Mars;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 46911;Les diaboliques (1955);Horror|Mystery|Thriller;http://dbpedia.org/resource/Les_Diaboliques_(film);pattern;0.933333333333;1.0;0.666666666667;2015-06-02T00:47:03
-46912;Dial M for Murder (1954);Crime|Mystery|Thriller;http://dbpedia.org/resource/Dial_M_for_Murder;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
-46969;The Fast and the Furious (1955);Crime|Drama|Mystery|Thriller;http://dbpedia.org/resource/The_Fast_and_the_Furious_(1955_film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
-46998;French Cancan (1954);Comedy|Musical|Drama;http://dbpedia.org/resource/French_Cancan;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+46912;Dial M for Murder (1954);Crime|Mystery|Thriller;http://dbpedia.org/resource/Dial_M_for_Murder;perfect;1.0;1.0;0.666666666667;2015-09-07T12:57:41
+46969;The Fast and the Furious (1955);Crime|Drama|Mystery|Thriller;http://dbpedia.org/resource/The_Fast_and_the_Furious_(1955_film);perfect;1.0;1.0;0.0;2015-09-07T12:57:43
+46998;French Cancan (1954);Comedy|Musical|Drama;http://dbpedia.org/resource/French_Cancan;perfect;1.0;1.0;1.0;2015-09-07T12:57:45
 47033;Gog (1954);Drama|Horror|Romance;http://dbpedia.org/resource/Gog_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 47034;Gojira (1954);Drama|Horror|Sci-Fi|Thriller;;;0.0;0.0;0.0;2015-06-02T00:47:03
-47086;The High and the Mighty (1954);Action|Adventure|Drama;http://dbpedia.org/resource/The_High_and_the_Mighty_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:03
+47086;The High and the Mighty (1954);Action|Adventure|Drama;http://dbpedia.org/resource/The_High_and_the_Mighty_(film);perfect;1.0;1.0;0.0;2015-09-07T12:57:47
 47094;De baas in eigen huis (1954);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:03
 47119;An Inspector Calls (1954);Crime|Drama|Mystery;http://dbpedia.org/resource/An_Inspector_Calls_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 47136;Johnny Guitar (1954);Western;http://dbpedia.org/resource/Johnny_Guitar;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 47203;Magnificent Obsession (1954);Drama|Romance;http://dbpedia.org/resource/Magnificent_Obsession_(1954_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 47209;Man in the Attic (1953);Mystery|Thriller;http://dbpedia.org/resource/Man_in_the_Attic;perfect;1.0;1.0;0.5;2015-07-20T23:06:21
-47230;Men of the Fighting Lady (1954);Drama|War;http://dbpedia.org/resource/Men_of_the_Fighting_Lady;perfect;1.0;0.999488229273;0.5;2015-06-02T00:47:03
-47281;Nijûshi no hitomi (1954);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:03
+47230;Men of the Fighting Lady (1954);Drama|War;http://dbpedia.org/resource/Men_of_the_Fighting_Lady;perfect;1.0;1.0;0.5;2015-09-07T12:57:49
+47281;Nijûshi no hitomi (1954);Drama;;;0.0;0.0;0.0;2015-09-07T12:58:17
 47296;On the Waterfront (1954);Crime|Drama;http://dbpedia.org/resource/On_the_Waterfront;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
 47396;Rear Window (1954);Mystery|Thriller;http://dbpedia.org/resource/Rear_Window;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
 47417;Riot in Cell Block 11 (1954);Crime|Drama|Film-Noir;http://dbpedia.org/resource/Riot_in_Cell_Block_11;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:03
 47422;River of No Return (1954);Adventure|Western;http://dbpedia.org/resource/River_of_No_Return;perfect;1.0;1.0;0.5;2015-06-02T00:47:03
-47434;The Runaway Bus (1954);Comedy|Crime|Mystery;http://dbpedia.org/resource/The_Runaway_Bus;perfect;1.0;1.0;1.0;2015-06-02T00:47:03
+47434;The Runaway Bus (1954);Comedy|Crime|Mystery;http://dbpedia.org/resource/The_Runaway_Bus;perfect;1.0;1.0;1.0;2015-09-07T12:58:19
 47437;Sabrina (1954);Comedy|Drama|Romance;http://dbpedia.org/resource/Sabrina_(1954_film);perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:03
 47444;Miyamoto Musashi (1954);Action|Adventure|Biography;http://dbpedia.org/resource/Samurai_I:_Musashi_Miyamoto;perfect;1.0;1.0;0.0;2015-06-02T00:47:03
 47445;Sanshô dayû (1954);Drama;http://dbpedia.org/resource/Sansho_the_Bailiff;any;0.230769230769;1.0;1.0;2015-06-02T00:47:03
@@ -3260,6 +3260,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 73432;México, México, ra ra ra (1976);Comedy|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:07
 73440;Nashville (1975);Drama|Music;http://dbpedia.org/resource/Nashville_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:07
 73453;Night Moves (1975);Crime|Mystery|Thriller;http://dbpedia.org/resource/Night_Moves_(1975_film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:07
+73458;Nishaant (1975);Drama|Crime;;;0.0;0.0;0.0;2015-09-07T12:45:12
 73470;Nude per l'assassino (1975);Mystery|Thriller;http://dbpedia.org/resource/Nude_per_l'assassino;perfect;1.0;1.0;0.5;2015-06-02T00:47:07
 73471;Numéro deux (1975);Drama;http://dbpedia.org/resource/Number_Two_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:07
 73486;One Flew Over the Cuckoo's Nest (1975);Drama;http://dbpedia.org/resource/One_Flew_Over_the_Cuckoo's_Nest_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:07
@@ -4751,6 +4752,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 91396;Legal Eagles (1986);Comedy|Crime|Romance;http://dbpedia.org/resource/Legal_Eagles;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 91406;Lian lian feng chen (1987);Drama|Romance;http://dbpedia.org/resource/Dust_in_the_Wind_(film);any;0.263157894737;1.0;0.5;2015-06-02T01:09:19
 91419;Little Shop of Horrors (1986);Comedy|Musical;http://dbpedia.org/resource/Little_Shop_of_Horrors_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:10
+91428;Long zai jiang hu (1986);Action;http://dbpedia.org/resource/Legacy_of_Rage;any;0.176470588235;1.0;1.0;2015-09-07T12:45:22
 91431;Long xiong hu di (1986);Action|Adventure|Comedy;http://dbpedia.org/resource/Armour_of_God_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:10
 91445;Lucas (1986);Comedy|Drama|Romance;http://dbpedia.org/resource/Lucas_(film);perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:10
 91462;The Majorettes (1987);Action|Crime|Horror;http://dbpedia.org/resource/The_Majorettes;perfect;1.0;0.999496728737;0.333333333333;2015-06-02T00:47:10
@@ -12648,6 +12650,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 988849;Donkey Punch (2008);Drama|Thriller;http://dbpedia.org/resource/Donkey_Punch_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:25
 989000;In Search of a Midnight Kiss (2007);Comedy|Romance;http://dbpedia.org/resource/In_Search_of_a_Midnight_Kiss;perfect;1.0;1.0;0.5;2015-06-02T00:47:25
 989757;Dear John (2010);Drama|Romance|War;http://dbpedia.org/resource/Dear_John_(2010_film);perfect;1.0;1.0;1.0;2015-06-02T00:47:25
+990372;Meitantei Conan: Bekâ Sutorîto no bôrei (2002);Animation|Adventure|Mystery;;;0.0;0.0;0.0;2015-09-07T12:45:47
 990404;Chop Shop (2007);Drama;http://dbpedia.org/resource/Chop_Shop_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:25
 990407;The Green Hornet (2011);Action|Comedy|Crime|Thriller;http://dbpedia.org/resource/The_Green_Hornet_(2011_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:25
 990413;Sugar (2008);Drama|Sport;http://dbpedia.org/resource/Sugar_(2008_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:25
@@ -13395,6 +13398,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1178197;Svetat e golyam i spasenie debne otvsyakade (2008);Drama;http://dbpedia.org/resource/The_World_Is_Big_and_Salvation_Lurks_Around_the_Corner;any;0.209302325581;1.0;1.0;2015-06-02T00:47:27
 1178640;Beer for My Horses (2008);Comedy;http://dbpedia.org/resource/Beer_for_My_Horses_(film);perfect;1.0;1.0;1.0;2015-07-06T21:33:07
 1178663;Whatever Works (2009);Comedy|Drama|Romance;http://dbpedia.org/resource/Whatever_Works;perfect;1.0;1.0;0.333333333333;2015-06-02T00:47:27
+1178665;A Walk in the Woods (2015);Adventure|Comedy|Drama;http://dbpedia.org/resource/A_Walk_in_the_Woods_(film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:45:49
 1179025;Les aventures extraordinaires d'Adèle Blanc-Sec (2010);Action|Adventure|Fantasy|Mystery;http://dbpedia.org/resource/The_Extraordinary_Adventures_of_Ad%C3%A8le_Blanc-Sec_(film);perfect;1.0;1.0;0.75;2015-06-02T00:47:27
 1179031;Cold in July (2014);Drama|Thriller;http://dbpedia.org/resource/Cold_in_July_(film);perfect;1.0;1.0;1.0;2015-06-02T00:47:27
 1179034;From Paris with Love (2010);Action|Crime|Drama|Mystery|Thriller;http://dbpedia.org/resource/From_Paris_with_Love_(film);perfect;1.0;1.0;0.6;2015-06-02T00:47:27
@@ -13517,6 +13521,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 1198059;Mou ye chi sing (2008);Drama|Sport;;;0.0;0.0;0.0;2015-06-02T00:47:27
 1198075;Cougars Inc. (2011);Comedy|Drama;http://dbpedia.org/resource/Cougars,_Inc.;any;0.916666666667;1.0;0.5;2015-06-02T00:47:27
 1198101;Kites (2010);Action|Drama|Romance|Thriller;http://dbpedia.org/resource/Kites_(film);perfect;1.0;1.0;0.25;2015-06-02T00:47:27
+1198130;The Heart Is a Drum Machine (2009);Documentary|Music;;;0.0;0.0;0.0;2015-09-07T12:46:13
 1198138;Obsessed (2009);Drama|Thriller;http://dbpedia.org/resource/Obsessed_(2009_film);perfect;1.0;1.0;0.5;2015-06-02T00:47:27
 1198153;Kirot (2009);Action|Drama|Thriller;http://dbpedia.org/resource/Kirot;perfect;1.0;1.0;0.666666666667;2015-06-02T00:47:27
 1198156;You're Not You (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:27
@@ -17229,6 +17234,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2005367;The Basement (1989);Horror;http://dbpedia.org/resource/Ruby_(1992_film);any;0.166666666667;1.0;0.0;2015-06-07T09:57:22
 2005374;The Frozen Ground (2013);Thriller;http://dbpedia.org/resource/The_Frozen_Ground;perfect;1.0;1.0;1.0;2015-06-02T00:47:37
 2006040;A Fantastic Fear of Everything (2012);Comedy;http://dbpedia.org/resource/A_Fantastic_Fear_of_Everything;perfect;1.0;1.0;1.0;2015-06-02T00:47:37
+2006295;The 33 (2015);Drama;;;0.0;0.0;0.0;2015-09-07T12:46:36
 2006721;Divorce Invitation (2012);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:37
 2006753;Heavenly Sword (2014);Animation;http://dbpedia.org/resource/Heavenly_Sword_(film);perfect;1.0;1.0;0.0;2015-06-02T00:47:37
 2006801;Night of the Living Dead: Resurrection (2012);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:37
@@ -19926,6 +19932,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2718538;Líbánky (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2719094;Papusza (2013);Biography;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2719448;Starring Adam West (2013);Documentary|Biography;;;0.0;0.0;0.0;2015-06-02T00:47:45
+2719848;Everest (2015);Adventure|Drama|Thriller;http://dbpedia.org/resource/Everest_(2015_film);perfect;1.0;1.0;0.666666666667;2015-09-07T12:46:38
 2720680;The Salvation (2014);Drama|Western;http://dbpedia.org/resource/The_Salvation_(film);perfect;1.0;1.0;0.5;2015-06-02T00:47:45
 2721712;La herida (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:45
 2722442;Small Town (2013);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:45
@@ -20324,6 +20331,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 2937898;A Most Violent Year (2014);Action|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:46
 2938008;Crô: O Filme (2013);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:46
 2938416;All This Mayhem (2014);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:46
+2938956;The Transporter Refueled (2015);Action|Crime|Thriller;;;0.0;0.0;0.0;2015-09-07T12:47:03
 2939172;Running Out (2013);Short|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:46
 2940280;Viktor (2014);Action|Thriller;http://dbpedia.org/resource/Viktoria_(film);partial;0.666666666667;1.0;0.0;2015-06-02T00:47:46
 2940482;American Justice (2015);Action;;;0.0;0.0;0.0;2015-06-02T00:47:46
@@ -20489,6 +20497,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3005560;In Bob We Trust (2013);Documentary;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3005850;Sooper Se Ooper (2013);Comedy;http://dbpedia.org/resource/Sooper_Se_Ooper;perfect;1.0;1.0;0.0;2015-06-02T00:47:47
 3005920;5 Sundarikal (2013);Family|Romance;http://dbpedia.org/resource/5_Sundarikal;perfect;1.0;1.0;0.5;2015-06-02T00:47:47
+3006576;Simple Agi Ondh Love Story (2013);Comedy|Romance;http://dbpedia.org/resource/Simple_Agi_Ondh_Love_Story;perfect;1.0;1.0;0.5;2015-09-07T12:47:05
 3007302;Boy Meets Girl (2014);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T07:21:39
 3007512;The Water Diviner (2014);Drama|War;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3008010;Parvaneh (2012);Short|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:47
@@ -20622,6 +20631,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3072074;The Denied (2013);Short|Action|Crime|Drama;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3072668;Unlucky Charms (2013);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3073256;Nishwartha Bhalobasa (2013);Action;http://dbpedia.org/resource/Nishwartha_Bhalobasa;perfect;1.0;1.0;0.0;2015-06-02T00:47:47
+3074578;The Surface (2014);Drama|Thriller;http://dbpedia.org/resource/Titli_(2014_film);any;0.0909090909091;1.0;0.0;2015-09-07T12:47:13
 3074610;Pelo malo (2013);Drama;http://dbpedia.org/resource/Bad_Hair;any;0.222222222222;1.0;1.0;2015-06-02T00:47:47
 3074732;Hross í oss (2013);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:47
 3074780;Supermensch: The Legend of Shep Gordon (2013);Documentary|Biography;http://dbpedia.org/resource/Supermensch:_The_Legend_of_Shep_Gordon;perfect;1.0;1.0;0.5;2015-06-02T00:47:47
@@ -21090,6 +21100,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3318750;Adult Beginners (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3319518;Zhapatlela 2 (2013);Horror;;;0.0;0.0;0.0;2015-06-02T00:47:49
 3319702;Base 05 (2013);Short|Drama|Sci-Fi;;;0.0;0.0;0.0;2015-06-02T00:47:49
+3320542;Ugramm (2014);Action|Drama|Thriller;http://dbpedia.org/resource/Ugramm;perfect;1.0;1.0;0.666666666667;2015-09-07T12:47:15
 3320578;Veeram (2014);Family;http://dbpedia.org/resource/Veeram;pattern;1.0;1.0;0.0;2015-06-02T00:47:49
 3321300;Spooks: The Greater Good (2015);Action|Drama|Thriller;;;0.0;0.0;0.0;2015-06-02T09:11:28
 3321428;Torrente V: Misión Eurovegas (2014);Action|Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:49
@@ -21402,6 +21413,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3512486;The Damned: Don't You Wish That We Were Dead (2015);Documentary;;;0.0;0.0;0.0;2015-07-20T23:39:43
 3514330;Youngistaan (2014);Drama;http://dbpedia.org/resource/Youngistaan;perfect;1.0;1.0;0.0;2015-06-02T00:47:50
 3516378;Su-sang-han geu-nyeo (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:50
+3517192;Ohm Shanthi Oshaana (2014);Comedy|Romance;http://dbpedia.org/resource/Ohm_Shanthi_Oshaana;perfect;1.0;1.0;0.0;2015-09-07T12:47:18
 3518012;Best of Enemies (2015);Documentary|History|News;;;0.0;0.0;0.0;2015-06-02T09:23:20
 3518044;The Tour (2014);Short|Horror;http://dbpedia.org/resource/Kano_(film);any;0.125;1.0;0.0;2015-06-02T00:47:50
 3518096;The Millennials (2015);Comedy|Drama|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:50
@@ -21762,6 +21774,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 3825638;Im Labyrinth des Schweigens (2014);History;;;0.0;0.0;0.0;2015-06-02T09:44:01
 3825750;Confusi e felici (2014);Comedy;;;0.0;0.0;0.0;2015-06-02T00:47:51
 3826834;Klass korrektsii (2014);Drama;;;0.0;0.0;0.0;2015-06-02T00:47:51
+3830598;Wacken 3D (2014);Documentary|Music;;;0.0;0.0;0.0;2015-09-07T12:47:38
 3832914;War Room (2015);Drama;;;0.0;0.0;0.0;2015-09-03T16:15:12
 3833746;The Visit (2015);Documentary;;;0.0;0.0;0.0;2015-06-02T09:44:35
 3835608;Oohalu Gusagusalade (2014);Comedy|Romance;;;0.0;0.0;0.0;2015-06-02T00:47:51
@@ -22130,6 +22143,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4559932;Prizrak (2015);Comedy|Family|Mystery;;;0.0;0.0;0.0;2015-06-02T10:13:48
 4565448;La Llamada (2014);Short|Drama;;;0.0;0.0;0.0;2015-06-02T10:14:26
 4567602;Jai Ho! Democracy (2015);Comedy|War;;;0.0;0.0;0.0;2015-06-02T10:15:02
+4569240;Un monstruo de mil cabezas (2015);Drama|Thriller;;;0.0;0.0;0.0;2015-09-07T12:48:01
 4571838;Ho ucciso Napoleone (2015);Comedy;;;0.0;0.0;0.0;2015-06-02T10:15:36
 4577398;2015 MTV Movie Awards (2015);Comedy|Music|Reality-TV;;;0.0;0.0;0.0;2015-06-02T10:16:09
 4619254;Sueños de héroes (2015);Short;;;0.0;0.0;0.0;2015-06-08T13:12:14
@@ -22153,6 +22167,7 @@ id;title;genre;uri;method;tc;yc;gc;updated
 4672350;India Pakistan (2015);Comedy|Romance;;;0.0;0.0;0.0;2015-08-24T09:25:05
 4679210;Premam (2015);Romance;;;0.0;0.0;0.0;2015-07-20T23:48:01
 4684028;Guddu Rangeela (2015);Comedy;;;0.0;0.0;0.0;2015-07-06T21:58:46
+4684258;36 Vayadhinile (2015);Drama|Family;;;0.0;0.0;0.0;2015-09-07T12:48:24
 4689268;Brothers in Blood: The Lions of Sabi Sand (2015);Documentary;;;0.0;0.0;0.0;2015-07-06T21:59:11
 4696222;N.L.L: Yeonpyeong Haejeon (2015);Documentary|Drama|War;;;0.0;0.0;0.0;2015-07-06T21:59:44
 4701688;Demonte Colony (2015);Horror|Thriller;;;0.0;0.0;0.0;2015-06-08T13:12:50
