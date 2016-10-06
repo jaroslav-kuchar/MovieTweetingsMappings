@@ -1,0 +1,6 @@
+# ignore tmp files
+latest-movies.dat
+
+
+# ipython
+.ipynb*
