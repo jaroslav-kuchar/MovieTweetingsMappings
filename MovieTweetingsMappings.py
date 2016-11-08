@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 """
 Import modules
@@ -21,7 +21,7 @@ sparqlEndpoint = "http://dbpedia.org/sparql"
 # sparqlEndpoint = "http://live.dbpedia.org/sparql"
 
 
-# In[ ]:
+# In[2]:
 
 """
 Levenshtein distance
@@ -69,7 +69,7 @@ def levenshteinTile(original, year, dbpedia):
     return min([levenshtein(original+"",dbpedia), levenshtein(original+" (film)",dbpedia), levenshtein(original+" ("+year+" film)",dbpedia)])
 
 
-# In[ ]:
+# In[3]:
 
 def categoryMatch(uri, categories):
     if uri is None or len(categories)==0:
@@ -91,7 +91,7 @@ def categoryMatch(uri, categories):
         return 0.0
 
 
-# In[ ]:
+# In[4]:
 
 def checkExactNameYear(name, year):
     sparql = SPARQLWrapper(sparqlEndpoint)
@@ -119,7 +119,7 @@ def checkExactNameYear(name, year):
         return None, 0.0
 
 
-# In[ ]:
+# In[5]:
 
 def checkRegexpNameYear(name, year):
     sparql = SPARQLWrapper(sparqlEndpoint)
@@ -148,7 +148,7 @@ def checkRegexpNameYear(name, year):
         return None, 0.0
 
 
-# In[ ]:
+# In[6]:
 
 def checkIsAAbstractYear(name, year):
     sparql = SPARQLWrapper(sparqlEndpoint)
@@ -175,7 +175,7 @@ def checkIsAAbstractYear(name, year):
         return None, 0.0
 
 
-# In[ ]:
+# In[7]:
 
 def checkRegexpAbstractYear(name, year):
     sparql = SPARQLWrapper(sparqlEndpoint)
@@ -205,7 +205,7 @@ def checkRegexpAbstractYear(name, year):
         return None, 0.0
 
 
-# In[ ]:
+# In[8]:
 
 def getMapping(title, year, categories):
     # same title and year
@@ -254,7 +254,7 @@ def getMapping(title, year, categories):
     
 
 
-# In[ ]:
+# In[9]:
 
 """
 Download
@@ -262,7 +262,7 @@ Download
 retriveResult = urllib.urlretrieve("https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/movies.dat", "./latest-movies.dat")
 
 
-# In[ ]:
+# In[10]:
 
 """
 Read data
@@ -271,7 +271,7 @@ movies = pd.read_csv("./latest-movies.dat", sep="::", encoding="utf-8", header=N
 latestMappings = pd.read_csv("./mappings.csv", sep=";", encoding="utf-8")
 
 
-# In[ ]:
+# In[11]:
 
 """
 Print Details 
